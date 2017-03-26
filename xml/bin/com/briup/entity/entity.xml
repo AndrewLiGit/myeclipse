@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books>
+		<boos>xml内置实体</boos>
+		<book>lt</book>
+		<book>less than</book>
+		<book>&lt;</book>
+		<book><![CDATA[<]]></book>
+		<book>-----------------</book>
+		<book>&apos;</book>
+		<book>&amp;</book>
+		<book>&quot;</book>
+		<book>&lt;</book>
+		<book>&gt;</book>
+		<book><![CDATA[' & " < >]]></book>
+</books>

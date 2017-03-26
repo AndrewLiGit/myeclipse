@@ -1,0 +1,212 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>test.html</title>
+	
+    <meta http-equiv="keywords" content="keyword1,keyword2,keyword3">
+    <meta http-equiv="description" content="this is my page">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    <!--<link rel="stylesheet" type="text/css" href="./styles.css">-->
+
+  </head>
+  
+  <body>
+  <a href="#botton">去底部</a>
+  <a name="top">已经到达顶部</a>
+    <h1>一级标题</h1>
+  		<h2>二级标题</h2>
+  			<h3>三级标题</h3>
+  				<h4>四级标题</h4>
+  				<h5>五级标题</h5>
+  					<h6>六级标题</h6>
+  					<hr>
+  					<big>我是大号字体</big>
+  					<b>我是粗体</b>
+  					<strong>我也有同样的效果</strong>
+  					<i>我是斜体</i>
+  					<em>我也有同样的效果</em>
+  					<del>删除标签</del>
+  					<u>下划线</u>
+  					<p>This is a paragraph</p>
+  					<small>This text is small</small><br>
+  					<p>
+						for(int i=0;i<10;i++){
+						System.out.println("hello world");
+						}
+					</p>
+		
+					<pre>
+						for(int i=0;i<10;i++){
+						System.out.println("hello world");
+						}
+					</pre>
+					
+					<abbr title="United Nations">UN</abbr>
+	    			<acronym title="World Wide Web">WWW</acronym>
+	    			<abbr title="etcetera">etc.</abbr><br>
+	    			<bdo dir="rtl">hello world</bdo><br>
+	    			<a href="#">点击跳转</a>
+	    			<a href="http://www.baidu.com" target="_blank">点击访问百度</a>
+	    			<a name="test1">第一个锚点的位置</a>
+  					X<sub>2</sub>
+  					Y<sup>2</sup>
+  					<center><font size="20" color="red">我的地盘</font></center>
+  					<marquee behavior="slide" direction="up"><font size="5" color="blue">啊，原来你是傻逼。。。。</font></marquee>
+  					<!-- 列表标签 -->
+  					<dl>
+  						<dt>列表一</dt>
+  						
+  						<dd>列表二</dd>
+  						<dd>列表三</dd>
+  						<dd>列表四</dd>
+  					</dl>
+  					<!--无序列表和有序列表都是用li表示行  -->
+  					<ul type="disc">
+  						<li>无序列表一</li>
+  						<li>无序列表二</li>
+  						<li>无序列表三</li>
+  						<li>无序列表四</li>
+  					</ul>
+  					<ol type="1">
+  						<li>有序列表一</li>
+  						<li>有序列表二</li>
+  						<li>有序列表三</li>
+  						<li>有序列表四</li>
+  					</ol>
+  					<table border="1" bgcolor="#F2F9FF" width="200" cellpadding="10" align="center" cellspacing="0">
+  					<caption>学生信息表</caption>
+  						<tr>
+  							<th>姓名</th>
+  							<th>性别</th>
+  							<th>年龄</th>
+  						</tr>
+  						<tr align="center">
+  							<td>张三</td>
+  							<td>男</td>
+  							<td>20</td>
+  						</tr>
+  						<tr align="center">
+  							<td>李四</td>
+  							<td>男</td>
+  							<td>32</td>
+  						</tr>
+  						<tr align="center">
+  							<td>小红</td>
+  							<td>女</td>
+  							<td>24</td>
+  						</tr>
+  						<tr>
+  							<td colspan="2">xx</td>
+  							<td></td>
+  						</tr>
+  						<tr>
+  							<td>xx</td>
+  							<td>xx</td>
+  						</tr>
+  					</table>
+  					
+  					<table border="1" bgcolor="#F2F9FF" width="200" cellpadding="10" align="center" cellspacing="0">
+  						<tr>
+  							<td colspan="3">xx</td>
+  						</tr>
+  						<tr>
+  							<td>xx</td>
+  							<td>xx</td>
+  						</tr>
+  					</table>
+  					
+  					<table border="1" bgcolor="#F2F9FF" width="200" cellpadding="10" align="center" cellspacing="0">
+  						<tr>
+  							<td rowspan="2">xx</td>
+  							<td>xx</td>
+  						</tr>
+  						<tr>
+  							<td>xx</td>
+  						</tr>
+  					</table>
+  					<a href="http://www.baidu.com">转到百度</a>
+  					<a href="DSC02129.JPG">转到照片</a>
+  					<a href="mailto:lihong@briiuip.com">联系我们</a>
+  					<a href="Bobo - 光荣.mp3">来首歌</a>
+  					<a name="botton">已经到达底部</a>
+  					<a href="#top">回到顶部</a>
+  					<a href="#test1">转到当前页面的test1描点</a>
+  					<!-- form提交数据必须有name属性，一般也要把value属性写上 -->
+  					<!-- 表单提交有多种方式，常用有两种：get 和 post
+  					两者区别:
+  						1,get：表单提交后请求的数据在地址栏显示，key=value
+  						  post:不显示
+  						2，get:请求的数据封装在请求行
+  						   post:请求的数据封装在请求体
+  					    3，get:对于传输敏感的数据不安全，速度快
+  					       post:安全，慢
+  					    4，get:因为地址栏的容量有限，所以不适合传输大数据
+  					       post:适合传输大数据
+  					-->
+  					<form action="http://127.0.0.1:8888" method="get">
+  						姓名：<input type="text" name="name" value=""/><br>
+  						密码：<input type="password" name="passwd" value=""/><br>
+  						性别：<input type="radio" name="gender" value="1" checked="checked"/>男
+  							 <input type="radio" name="gender" value="2"/>女<br>
+  						技术：<input type="checkbox" name="Corejava"/>Corejava
+  							 <input type="checkbox" name="Oracle"/>Oracle
+  							 <input type="checkbox" name="JDBC"/>JDBC
+  							 <input type="checkbox" name="Hibernate"/>Hibernate<br>
+  							 <input type="button" value="按钮" onclick="alert('保存成功')"/><br>
+  						头像：<input type="file"/><br>
+  						提交：<input type="image" src=""/><br>
+  						城市：<select>
+  								<option>郑州</option>
+  								<option>上海</option>
+  								<option>苏州</option>
+  								<option>兰州</option>
+  								<option>合肥</option>
+  							 </select><br>
+  							 <input type="hidden"/>ID<br>
+  						<input type="submit" value="提交数据"/>
+  						<input type="reset" value="重置数据"/>
+  					</form>
+  					<pre>
+  						public class MyServer {
+
+							public static void main(String[] args) throws Exception {
+								ServerSocket ss = new ServerSocket(8888);
+								Socket socket = ss.accept();
+								InputStream is = socket.getInputStream();
+								PrintWriter pw = new PrintWriter(socket.getOutputStream(),true);
+								byte[] buf = new byte[1024];
+								int len = is.read(buf);
+								System.out.println(new String(buf,0,len));
+								pw.println("success");
+								pw.close();
+								is.close();
+							}
+						}
+  					</pre>
+  					<img alt="正在下载" src="DSC02129.JPG" width="200" height="200" title="曾经"/><br>
+  					
+  					<span>第一个span区域</span>
+  					<span>第二个span区域</span>
+  					<span>第三个span区域</span>
+  					
+  					<div>第一个div区域</div>
+  					<div>第二个div区域</div>
+  					<div>第三个div区域</div>
+  					
+  					<dl>
+						<dt>Coffee</dt>
+							<dd>Black hot drink</dd>
+
+						<dt>Milk</dt>
+							<dd>White cold drink</dd>
+					</dl>
+  					
+  					<font size="33" face="Times" color="red">
+						this is my test！
+					</font>
+  					
+  					
+  					
+  </body>
+</html>

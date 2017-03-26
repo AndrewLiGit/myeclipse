@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.briup.orm.m2m.bi">
+	<!-- 多对多双向关联 -->
+	<class name="Teacher">
+		<id name="id">
+			<generator class="increment"></generator>
+		</id>
+		<property name="name"></property>
+		
+		<!-- 
+			name="students" 要设置映射关系的属性名字
+			table="t_s"     将来要建立的桥表的名字
+			<key column="t_id"> 当前类所对应的表在桥表所做外键的名字叫t_id
+			class="Student" 多对多关系中的另外一方是Student类型的
+			column="s_id"   Student类所对应的表在桥表中做外键的名字为s_id
+		 -->
+		<set name="students" table="t_s" cascade="all" lazy="true" inverse="false">
+			<key column="t_id"></key>
+			<many-to-many class="Student" column="s_id"></many-to-many>
+		</set>
+		<!-- 
+			因为在多对多关系中,双放都默认是自己来维护这个外键列的值(默认inverse="false"),
+			所以,一定是有且只有一方上面要设置inverse="true".
+			俩边都设置为false在插入的时候就会报错.
+			俩边都设置为true在插入的时候外键列的值就没有人管了.
+		 -->
+	</class>
+ 	
+</hibernate-mapping>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+  <student id="1">
+    <name>tom</name>
+    <age>20</age>
+    <city>上海</city>
+  </student>
+  <student id="2">
+    <name>jack</name>
+    <age>21</age>
+    <city>北京</city>
+  </student>
+  <student id="3">
+    <name>lily</name>
+    <age>22</age>
+    <city>南京</city>
+  </student>
+  <student id="4">
+    <name>jon</name>
+    <age>23</age>
+    <city>苏州</city>
+  </student>
+</students>

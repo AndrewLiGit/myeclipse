@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+
+#footer { 
+	clear:both; 
+	height: 50px;
+	line-height:30px; 
+	text-align:center; 
+	margin-top:20px; 
+	background:#fafafa; 
+	color:#666; 
+	border-top:1px solid #e0e0e0; 
+}

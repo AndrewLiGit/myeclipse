@@ -1,0 +1,191 @@
+@CHARSET "UTF-8";
+
+.main {
+	min-height: 450px;
+}
+
+h2 {
+	font-size: 14px;
+  	line-height: 30px;
+  	background: url(../images/bg.png) -230px -100px no-repeat;
+  	border-bottom: 2px solid #fbaa62;
+  	padding-left: 25px;
+  	margin: 0px 30px;
+}
+
+.context {
+	width:930px;
+    border-radius:5px;
+    border: 1px solid;
+    border-color: #CCE6EF;
+    margin-left: 30px;
+}
+
+.header {
+    width:930px;
+    height:40px;
+    border:1px solid;
+    border-left-style:none;
+    border-right-style:none;
+    border-top-style:none;
+    text-align: center;
+    border-bottom-color: #2E4358;
+}
+
+.context .header ul li {
+    float: left;
+    height:40px;
+    line-height: 40px;
+    font-size: 14px;
+    color: #0A0A0A;
+    font-family: arial;
+    text-align: center;
+}
+
+.context .book_order ul li {
+    float: left;
+    height:80px;
+    line-height: 80px;
+    font-size: 14px;
+    color: #0A0A0A;
+    font-family: arial;
+    text-align: center;
+}
+
+.context .book_order {
+	width:930px;
+	height:80px;
+    border:1px solid;
+    border-left-style:none;
+    border-right-style:none;
+    border-top-style:none;
+    border-bottom-color: #CCE6EF;
+    position: relative;
+}
+
+.index {
+	width: 80px;
+}
+
+
+.order_no {
+	width: 170px;
+}
+
+.cost {
+	width: 170px;
+}
+
+.pay_style {
+	width: 170px;
+}
+
+.order_status {
+	width: 170px;
+}
+
+.create_time {
+	width: 170px;
+}
+
+
+
+
+/* 分页 */
+#errorFlashMessage {
+    background-color: red;
+    position: absolute;
+    width: 300px;
+    color: #FFF;
+    font-size: 15px;
+    height: 30px;
+    line-height: 30px;
+    left: 350px;
+    z-index: 100;
+    top: 130px;
+    border-radius: 3px;
+    display: none;
+    text-align: center;
+}
+
+.pagination {
+   /*  position: relative; */
+    width: 330px;
+    height: 15px;
+    margin-left: 580px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.pagination .go_button {
+    width: 20px;
+    height: 15px;
+    cursor: pointer;
+   /*  position: absolute; */
+   /*  left: 235px;
+    top: 20px; */
+}
+
+.pagination span {
+    display: inline-block;
+    /* position: relative; */
+    
+}
+
+.next_page {
+    /* left: 15px; */
+}
+
+.current_page {
+   /*  left: 10px; */
+    height: 15px;
+    font-size: 12px;
+    line-height: 15px;
+    font-family: arial;
+    color: #5E5E5E;
+  /*   top: -2px; */
+}
+
+.current_page_no {
+    /* left: 10px; */
+    height: 15px;
+    font-size: 12px;
+    line-height: 15px;
+    font-family: arial;
+    color: #5E5E5E;
+   /*  top: -2px; */
+}
+
+.total_page {
+    /* left: 20px; */
+    height: 15px;
+    font-size: 12px;
+    line-height: 15px;
+    font-family: arial;
+    color: #5E5E5E;
+   /*  top: -2px; */
+}
+
+.go_desc {
+   /*  left: 30px; */
+    height: 15px;
+    font-size: 12px;
+    line-height: 15px;
+    font-family: arial;
+    color: #5E5E5E;
+ /*    top: -2px; */
+}
+
+.go_input {
+    display: inline-block;
+ /*    position: absolute; */
+  /*   left: 210px; */
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    font-size: 12px;
+    border-radius: 2px;
+    border-width: 1px;
+    border-color: #5E5E5E;
+}
+/* 分页 */

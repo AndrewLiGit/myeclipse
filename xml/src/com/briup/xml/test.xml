@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Test -->
+<books>
+	<book>
+		<name><![CDATA[<<java>>]]></name>
+		<name><![CDATA[1<2]]></name>
+		<name><!-- 好的 --></name>
+		<name>《java》</name>
+	</book>
+</books>

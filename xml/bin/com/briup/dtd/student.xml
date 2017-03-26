@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE students SYSTEM "a.dtd">
+<students>
+		<student id="">
+				<name firstName="">zhangsan</name>
+				<age xuAge="20"></age>
+				<score sel="60">30</score>
+		</student>
+</students>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.briup.hql">
+	<!-- hql测试 -->
+	<class name="Group" table="t_group">
+		<id name="id">
+			<generator class="increment"></generator>
+		</id>
+		<property name="name"></property>
+		<!-- 
+			name="users" 表示当前类中有一个set集合叫做users
+			<key column="group_id"> 在这个一对多关系下所生成的外键列的名字叫group_id.
+			注意:1:n关系中外键列都会建立在n的一方。
+			<one-to-many class="User"/> 表示当前关系中,many的一方是User类型的.
+		 -->
+		<set name="users" cascade="all" inverse="true" lazy="true" fetch="select">
+			<key column="group_id"></key>
+			<one-to-many class="User"/>
+		</set>
+		<!-- 
+		inverse 表示是否要把维护外键列的值的权利反转对方
+		
+		在这里默认情况下是one的一方(group)维护：inverse="false"
+		
+		inverse="true" 表示把维护外键列的值的权利反转对方(user)
+		这时候需要让user关联到group 要不然user没有办法维护		
+		
+		为什么要把维护外键列的值的权利交给user?
+		group也可以维护,但是他会以生产额外的update语句更新的方式来维护
+		
+		user来维护的话,可以直接insert插入这个外键值,前提是:user必须关联到group
+		
+		所以要不要权利反转给user注意是看自己是否有介意生产额外的update更加语句(效率的问题)
+		 -->
+	</class>
+ 	
+</hibernate-mapping>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.lzjtu.bookstore.model.News">
+
+	<resultMap type="News" id="newsMap">
+        <id column="id" property="id"/>
+        <result column="content" property="content"/>
+        <result column="title" property="title"/>
+        <result column="create_time" property="createTime"/>
+    </resultMap>
+    
+    <select id="findNews" resultMap="newsMap">
+        <![CDATA[
+            SELECT * FROM news WHERE is_delete = '0'
+        ]]>
+    </select>
+    
+    <select id="getNewsById" resultMap="newsMap">
+        <![CDATA[
+            SELECT * FROM news WHERE is_delete = '0' AND id = #{id}
+        ]]>
+    </select>
+    
+    <select id="list" resultMap="newsMap" parameterType="map">
+        <![CDATA[
+            SELECT * FROM news WHERE is_delete = '0' ORDER BY create_time DESC LIMIT #{offset}, #{pageSize}
+        ]]>
+    </select>
+    
+    <select id="getCount" resultType="int">
+        <![CDATA[
+            SELECT COUNT(*) AS newsCount FROM news WHERE is_delete = '0'
+        ]]>
+    </select>
+    
+    <insert id="create" parameterType="News" useGeneratedKeys="true" keyProperty="id">
+        <![CDATA[
+            INSERT INTO news(title, content, create_time)  
+                  VALUES(#{title}, #{content}, NOW())
+        ]]>
+    </insert>
+    
+    <update id="update" parameterType="News">
+        <![CDATA[
+            UPDATE news
+            SET
+                title = #{title},
+                content = #{content}
+            WHERE
+                id = #{id}
+        ]]>
+    </update>
+    
+    <update id="delete" parameterType="int">
+        <![CDATA[
+            UPDATE news SET is_delete = '1' WHERE id = #{id}
+        ]]>
+    </update>
+    
+</mapper>

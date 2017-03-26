@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.lzjtu.bookstore.model.Order">
+
+	<resultMap type="Order" id="orderMap">
+        <id column="id" property="id"/>
+        <result column="cost" property="cost"/>
+        <result column="order_no" property="orderNo"/>
+        <result column="order_status" property="orderStatus"/>
+        <result column="user_id" property="userId"/>
+        <result column="pay_style_id" property="payStyleId"/>
+        <result column="create_time" property="createTime"/>
+    </resultMap>
+    
+    <insert id="save" parameterType="Order" useGeneratedKeys="true" keyProperty="id">
+        <![CDATA[
+            INSERT INTO orders(cost, order_no, user_id, pay_style_id, create_time) VALUES(#{cost}, #{orderNo}, #{userId}, #{payStyleId}, NOW())
+        ]]>
+    </insert>
+    
+    <select id="getOrderId" resultType="int" parameterType="int">
+        <![CDATA[
+            SELECT id FROM orders WHERE is_delete = '0' ORDER BY create_time DESC LIMIT 0, 1
+        ]]>
+    </select>
+    
+    <select id="list" resultMap="orderMap" parameterType="map">
+        <![CDATA[
+            SELECT * FROM orders WHERE is_delete = '0' ORDER BY create_time DESC LIMIT #{offset}, #{pageSize}
+        ]]>
+    </select>
+    
+    <select id="getCount" resultType="int">
+        <![CDATA[
+            SELECT COUNT(*) AS orderCount FROM orders WHERE is_delete = '0'
+        ]]>
+    </select>
+    
+    <select id="getByOrderId" resultMap="orderMap" parameterType="int">
+        <![CDATA[
+            SELECT * FROM orders WHERE is_delete = '0' AND id = #{orderId}
+        ]]>
+    </select>
+    
+    <select id="listByUserId" resultMap="orderMap" parameterType="map">
+        <![CDATA[
+            SELECT * FROM orders WHERE is_delete = '0' AND user_id = #{userId} ORDER BY create_time DESC LIMIT #{offset}, #{pageSize}
+        ]]>
+    </select>
+    
+    <select id="getCountByUserId" resultType="int" parameterType="int">
+        <![CDATA[
+            SELECT COUNT(*) AS orderCount FROM orders WHERE is_delete = '0' AND user_id = #{userId}
+        ]]>
+    </select>
+    
+</mapper>

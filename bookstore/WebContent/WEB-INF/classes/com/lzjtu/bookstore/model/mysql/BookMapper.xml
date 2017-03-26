@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.lzjtu.bookstore.model.Book">
+
+	<resultMap type="Book" id="bookMap">
+        <id column="id" property="id"/>
+        <result column="name" property="name"/>
+        <result column="description" property="description"/>
+        <result column="hot" property="hot"/>
+        <result column="hot_time" property="hotTime"/>
+        <result column="price" property="price"/>
+        <result column="picture" property="picture"/>
+        <result column="is_special_price" property="isSpecialPrice"/>
+        <result column="special_price" property="specialPrice"/>
+        <result column="special_price_time" property="specialPriceTime"/>
+        <result column="amount" property="amount"/>
+        <result column="selled" property="selled"/>
+        <result column="big_category_id" property="bigCategoryId"/>
+        <result column="small_category_id" property="smallCategoryId"/>
+        <result column="writer" property="writer"/>
+        <result column="publish" property="publish"/>
+        <result column="page" property="page"/>
+        <result column="create_time" property="createTime"/>
+        <result column="last_update_time" property="lastUpdateTime"/>
+    </resultMap>
+
+    <select id="findHot" resultMap="bookMap" parameterType="int">
+        <![CDATA[
+            SELECT * FROM book WHERE is_delete = '0' AND hot = '0' ORDER BY last_update_time DESC LIMIT 0, #{hotAmount}
+        ]]>
+    </select>
+    
+    <select id="findSpecialPrice" resultMap="bookMap" parameterType="int">
+        <![CDATA[
+            SELECT * FROM book WHERE is_delete = '0' AND is_special_price = '0' ORDER BY last_update_time DESC LIMIT 0, #{specialPriceAmount}
+        ]]>
+    </select>
+    
+    <select id="getCountByKeyword" resultType="int" parameterType="String">
+        <![CDATA[
+            SELECT count(*) AS bookCount FROM book WHERE is_delete = '0' AND name LIKE #{keyWord} OR writer LIKE #{keyWord} OR publish LIKE #{keyWord}
+        ]]>
+    </select>
+    
+    <select id="findByKeyword" resultMap="bookMap" parameterType="map">
+        <![CDATA[
+            SELECT * FROM book WHERE name LIKE #{keyWord} OR writer LIKE #{keyWord} OR publish LIKE #{keyWord} AND is_delete = '0' ORDER BY last_update_time DESC LIMIT #{offset}, #{pageSize}
+        ]]>
+    </select>
+    
+    <select id="findByCategory" resultMap="bookMap" parameterType="map">
+        <![CDATA[
+            SELECT * FROM book WHERE is_delete = '0' 
+        ]]>
+        <if test="bigCategoryId != '0'">
+            <![CDATA[
+                AND big_category_id = #{bigCategoryId}
+            ]]>
+        </if>
+       <!--  <if test="smallCategoryId != null">
+            <![CDATA[
+                OR (is_delete = '0' AND small_category_id IN
+            ]]>
+            <foreach item="id" collection="array" open="(" separator="," close=")">
+            	#{id})
+        	</foreach>
+        </if> -->
+        ORDER BY last_update_time DESC LIMIT #{offset}, #{pageSize}
+    </select>
+    
+    <select id="getCountByCategory" resultType="int" parameterType="java.lang.Integer" >
+        <![CDATA[
+            SELECT count(*) AS bookCount FROM book WHERE is_delete = '0' AND big_category_id = #{CategoryId}
+        ]]>
+        <!-- <if test="CategoryId != '0'">
+            <![CDATA[
+                
+            ]]>
+        </if> -->
+    </select>
+    
+    <select id="gtBookById" resultMap="bookMap" parameterType="int">
+        <![CDATA[
+            SELECT * FROM book WHERE is_delete = '0' AND id = #{id}
+        ]]>
+    </select>
+    
+    <select id="list" resultMap="bookMap" parameterType="map">
+        <![CDATA[
+            SELECT * FROM book WHERE is_delete = '0' ORDER BY last_update_time DESC LIMIT #{offset}, #{pageSize}
+        ]]>
+    </select>
+    
+    <select id="getCount" resultType="int">
+        <![CDATA[
+            SELECT COUNT(*) AS bookCount FROM book WHERE is_delete = '0'
+        ]]>
+    </select>
+    
+    <update id="deleteById" parameterType="int">
+        <![CDATA[
+            UPDATE book SET is_delete = '1' WHERE id = #{id}
+        ]]>
+    </update>
+    
+    <insert id="create" parameterType="book" useGeneratedKeys="true" keyProperty="id">
+        <![CDATA[
+            INSERT INTO book(name, description, hot, price, picture, is_special_price, special_price, amount, selled, big_category_id, writer, publish, page, create_time, last_update_time)  
+                  VALUES(#{name}, #{description}, #{hot}, #{price}, #{picture}, #{isSpecialPrice}, #{specialPrice}, #{amount}, #{selled}, #{bigCategoryId}, #{writer}, #{publish}, #{page}, NOW(), NOW())
+        ]]>
+    </insert>
+    
+    <update id="update" parameterType="book">
+        <![CDATA[
+            UPDATE book
+            SET
+                name = #{name},
+                description = #{description},
+                hot = #{hot},
+                price = #{price},
+                picture = #{picture},
+                is_special_price = #{isSpecialPrice},
+                special_price = #{specialPrice},
+                amount = #{amount},
+                selled = #{selled},
+                big_category_id = #{bigCategoryId},
+                writer = #{writer},
+                publish = #{publish},
+                page = #{page},
+                last_update_time = NOW()
+            WHERE
+                id = #{id}
+        ]]>
+    </update>
+    
+</mapper>

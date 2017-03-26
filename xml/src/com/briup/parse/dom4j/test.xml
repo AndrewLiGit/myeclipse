@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+  <city name="上海">
+    <peopleNumber>23343</peopleNumber>
+  </city>
+  <city name="北京">
+    <peopleNumber>11111</peopleNumber>
+  </city>
+  <city name="南京">
+    <peopleNumber>22222</peopleNumber>
+  </city>
+  <city name="杭州">
+    <peopleNumber>33333</peopleNumber>
+  </city>
+</root>

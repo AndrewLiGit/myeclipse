@@ -1,0 +1,18 @@
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+    
+<hibernate-mapping package="com.briup.estore.bean">
+	<class name="Product" table="kk_product">
+		<id name="id" column="id">
+			<generator class="increment"></generator>
+		</id>
+		<property name="productName" />
+		<property name="price" />
+		
+		<set name="lines">
+			<key column="p_id"></key>
+			<one-to-many class="Line"/>
+		</set>
+	</class>
+</hibernate-mapping>

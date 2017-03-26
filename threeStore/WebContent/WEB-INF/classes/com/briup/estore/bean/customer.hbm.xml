@@ -1,0 +1,25 @@
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+    
+<hibernate-mapping package="com.briup.estore.bean">
+	<class name="Customer" table="kk_customer">
+		<id name="id" column="id">
+			<generator class="increment"></generator>
+		</id>
+		<property name="username" column="username"/>
+		<property name="password"/>
+		<property name="email"/>
+		<property name="address"/>
+		<property name="telephone"/>
+		<!--一对多，name代表当前类中的用set修饰的属性，
+			key代表外键，column指定当前类和配置类的外键
+			one-to-many一对多，class指定多的一方所属的类
+		  -->
+		<set name="orders">
+			<key column="c_id" />
+			<one-to-many class="Order"/>
+		</set>
+		
+	</class>
+</hibernate-mapping>

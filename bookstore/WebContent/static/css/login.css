@@ -1,0 +1,158 @@
+@CHARSET "UTF-8";
+
+#logo {
+	margin-top: 30px;
+}
+
+#login_img {
+	margin: 100px 0px 100px 130px;
+}
+
+#login {
+	width: 380px;
+	height: 255px;
+	border: 1px solid #DDDDDD;
+	position: absolute;
+	top: 160px;
+	left: 600px;
+	border-radius: 3px;
+}
+
+.login_form_name {
+    width: 300px;
+    height: 35px;
+    border: 1px solid #DDDDDD;
+    position: absolute;
+    top: 60px;
+    left: 40px;
+    border-radius: 3px;
+    background-color: #FFFFFF;
+}
+
+.login_form_password {
+    width: 300px;
+    height: 35px;
+    border: 1px solid #DDDDDD;
+    position: absolute;
+    top: 110px;
+    left: 40px;
+    border-radius: 3px;
+    background-color: #FFFFFF;
+}
+
+.login_form_button {
+    width:300px;
+    height:35px;
+    position: absolute;
+    top: 160px;
+    left: 40px;
+    border-radius: 3px;
+    border-style: none;
+    cursor: pointer;
+    font-size: 20px;
+    outline:none;
+}
+
+.login_form_username_img {
+	width: 20px;
+    height: 20px;
+    background-repeat:no-repeat;
+    position: absolute;
+    top: 8px;
+    left: 20px;
+}
+
+.login_form_password_img {
+    width: 15px;
+    height: 20px;
+    background-repeat:no-repeat;
+    position: absolute;
+    top: 8px;
+    left: 23px;
+}
+
+.login_form_username_input {
+    width: 240px;
+    height: 33px;
+    border-style: none;
+    border-radius: 3px;
+    position: absolute;
+    top: 0px;
+    left: 60px;
+    outline: none;
+}
+
+.login_form_password_input {
+    width: 240px;
+    height: 33px;
+    border-style: none;
+    border-radius: 3px;
+    position: absolute;
+    top: 0px;
+    left: 60px;
+    outline: none;
+}
+
+.login_form_register {
+    width: 300px;
+    height: 25px;
+    position: absolute;
+    top: 200px;
+    left: 40px;
+}
+
+.forgot_password {
+    width: 60px;
+    height: 25px;
+    position: absolute;
+    font-size: 15px;
+}
+
+.register {
+    width: 60px;
+    height: 25px;
+    position: absolute;
+    left:230px;
+    font-size: 15px;
+}
+
+#error_div {
+    width: 300px;
+    height: 24px;
+    position: absolute;
+    top: 24px;
+    left:40px;
+    font-size: 12px;
+    line-height: 24px;
+}
+
+#error {
+    position: absolute;
+    left:4px;
+    color: red;
+}
+
+.login_form_username_wrong {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top:68px;
+    left:350px;
+    visibility: hidden;
+}
+
+#login_form_password_wrong {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top:118px;
+    left:350px;
+    visibility: hidden;
+}
+
+
+
+
+
+
+

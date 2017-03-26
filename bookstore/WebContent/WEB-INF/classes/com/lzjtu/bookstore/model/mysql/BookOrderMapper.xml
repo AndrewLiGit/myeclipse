@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.lzjtu.bookstore.model.BookOrder">
+
+	<resultMap type="BookOrder" id="bookOrderMap">
+        <id column="id" property="id"/>
+        <result column="number" property="number"/>
+        <result column="order_id" property="orderId"/>
+        <result column="book_id" property="bookId"/>
+    </resultMap>
+
+    <insert id="save" parameterType="BookOrder" useGeneratedKeys="true" keyProperty="id">
+        <![CDATA[
+            INSERT INTO book_order(number, order_id, book_id)  
+                  VALUES(#{number}, #{orderId}, #{bookId})
+        ]]>
+    </insert>
+    
+    <select id="getBookOrder" resultMap="bookOrderMap" parameterType="int">
+        <![CDATA[
+            SELECT * FROM book_order WHERE is_delete = '0' AND order_id = #{orderId}
+        ]]>
+    </select>
+    
+</mapper>

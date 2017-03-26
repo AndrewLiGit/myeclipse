@@ -1,0 +1,60 @@
+@CHARSET "UTF-8";
+#logo {
+	margin: 10px 0px;
+}
+
+#childNav {
+  clear: both;
+  height: 30px;
+  background: #fc7e31;
+  overflow: hidden;
+}
+
+.welcome_wrap {
+  clear: both;
+  height: 30px;
+  background: #fc7e31;
+  overflow: hidden;
+  line-height: 30px;
+  text-align: right;
+  color: #FFC;
+}
+
+#position {
+  clear: both;
+  margin: 10px;
+  color: #666;
+}
+
+.wrap {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.lefter {
+  margin-left: 10px;
+  float: left;
+  width: 180px;
+}
+
+.lefter .box {
+  border: 1px solid #c3c3c3;
+}
+
+.lefter .box dl dt {
+  color: #404040;
+  font-weight: bold;
+  background: #fafafa;
+  padding: 2px 10px;
+}
+
+.lefter .box dl dd {
+  background: url(../images/bg.png) -232px -82px no-repeat;
+  padding-left: 30px;
+  margin: 5px 0px 3px 10px;
+}
+
+.lefter .box dl dd a {
+  color: #666;
+  margin: 3px 5px;
+}

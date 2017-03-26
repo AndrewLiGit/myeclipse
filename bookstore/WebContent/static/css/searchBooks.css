@@ -1,0 +1,225 @@
+@CHARSET "UTF-8";
+
+#tool {
+	height: 30px;
+}
+#welcome {
+	float: left;	
+}
+
+#welcome span{
+	color: red;	
+}
+
+/* #header #logo {
+	float:left;
+} */
+
+#header .help {
+	float:right;
+}
+
+#header .help a {
+	color: 0000EE;
+}
+
+#header .help a.shopping {
+	padding-left:18px;
+	background:url(../images/bg.png) left -69px no-repeat; 
+}
+
+#search {
+	position: absolute;
+	left: 360px;
+	top: 45px;
+	width: 400px;
+	height: 34px;
+	border: 2px solid red;
+	text-indent: 5px;
+	outline: none;
+}
+
+#search_button {
+	position: absolute;
+	left: 760px;
+	top: 45px;
+	width: 50px;
+	height: 34px;
+	background-color: red;
+	border: 2px solid red;
+	outline: none;
+	cursor: pointer;
+	/*text-indent: 5px;
+	outline: none; */
+}
+
+#errorFlashMessage {
+    background-color: red;
+    position: absolute;
+    width: 300px;
+    color: #FFF;
+    font-size: 15px;
+    height: 30px;
+    line-height: 30px;
+    left: 350px;
+    z-index: 100;
+    top: 130px;
+    border-radius: 3px;
+    display: none;
+    text-align: center;
+}
+
+#childNav { 
+	clear:both; 
+	height:30px; 
+	background:#fc7e31; 
+	overflow:hidden; 
+	margin-top: 7px;
+}
+
+#header { 
+	overflow:hidden; 
+	padding-top:10px; 
+}
+
+#childNav ul { 
+	margin:9px; 
+	line-height:14px; 
+}
+
+#childNav ul li { 
+	float:left; 
+	display:inline; 
+	border-right:1px solid #dc6b04; 
+	border-left:1px solid #fba455; 
+	padding:0 20px; 
+}
+
+#childNav ul .first { 
+	margin-left: 20px;
+}
+
+ul.product li { 
+	width:110px; 
+	line-height:18px; 
+	height:160px; 
+	float:left; 
+	display:inline; 
+	margin:15px; 
+}
+
+ul.product li dl dd.title { 
+	word-wrap:no-wrap; 
+	word-break:break-all; 
+	height:36px; 
+	overflow:hidden; 
+}
+
+ul.product li dl dd.price { 
+	color:#c30; 
+	font-weight:bold; 
+}
+
+ul.product li dl dt a img { 
+	width: 100px;
+	height: 100px;
+}
+
+
+.pagination {
+   /*  position: relative; */
+    width: 330px;
+    height: 15px;
+    margin-left: 600px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.pagination .go_button {
+    width: 20px;
+    height: 15px;
+    cursor: pointer;
+   /*  position: absolute; */
+   /*  left: 235px;
+    top: 20px; */
+}
+
+.pagination span {
+    display: inline-block;
+    /* position: relative; */
+    
+}
+
+.next_page {
+    /* left: 15px; */
+}
+
+.current_page {
+   /*  left: 10px; */
+    height: 15px;
+    font-size: 12px;
+    line-height: 15px;
+    font-family: arial;
+    color: #5E5E5E;
+  /*   top: -2px; */
+}
+
+.current_page_no {
+    /* left: 10px; */
+    height: 15px;
+    font-size: 12px;
+    line-height: 15px;
+    font-family: arial;
+    color: #5E5E5E;
+   /*  top: -2px; */
+}
+
+.total_page {
+    /* left: 20px; */
+    height: 15px;
+    font-size: 12px;
+    line-height: 15px;
+    font-family: arial;
+    color: #5E5E5E;
+   /*  top: -2px; */
+}
+
+.go_desc {
+   /*  left: 30px; */
+    height: 15px;
+    font-size: 12px;
+    line-height: 15px;
+    font-family: arial;
+    color: #5E5E5E;
+ /*    top: -2px; */
+}
+
+.go_input {
+    display: inline-block;
+ /*    position: absolute; */
+  /*   left: 210px; */
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    font-size: 12px;
+    border-radius: 2px;
+    border-width: 1px;
+    border-color: #5E5E5E;
+}
+
+
+.main {
+	min-height: 360px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,339 @@
+@CHARSET "UTF-8";
+
+#tool {
+	height: 30px;
+}
+#welcome {
+	float: left;	
+}
+
+#welcome span{
+	color: red;	
+}
+
+/* #header #logo {
+	float:left;
+} */
+
+#header .help {
+	float:right;
+}
+
+#header .help a {
+	color: 0000EE;
+}
+
+#header .help a.shopping {
+	padding-left:18px;
+	background:url(../images/bg.png) left -69px no-repeat; 
+}
+
+#search {
+	position: absolute;
+	left: 360px;
+	top: 45px;
+	width: 400px;
+	height: 34px;
+	border: 2px solid red;
+	text-indent: 5px;
+	outline: none;
+}
+
+#search_button {
+	position: absolute;
+	left: 760px;
+	top: 45px;
+	width: 50px;
+	height: 34px;
+	background-color: red;
+	border: 2px solid red;
+	outline: none;
+	cursor: pointer;
+	/*text-indent: 5px;
+	outline: none; */
+}
+
+#childNav { 
+	clear:both; 
+	height:30px; 
+	background:#fc7e31; 
+	overflow:hidden; 
+	margin-top: 7px;
+}
+
+#header { 
+	overflow:hidden; 
+	padding-top:10px; 
+}
+
+#childNav ul { 
+	margin:9px; 
+	line-height:14px; 
+}
+
+#childNav ul li { 
+	float:left; 
+	display:inline; 
+	border-right:1px solid #dc6b04; 
+	border-left:1px solid #fba455; 
+	padding:0 20px; 
+}
+
+#childNav ul .first { 
+	margin-left: 20px;
+}
+
+#errorFlashMessage {
+    background-color: red;
+    position: absolute;
+    width: 300px;
+    color: #FFF;
+    font-size: 15px;
+    height: 30px;
+    line-height: 30px;
+    left: 350px;
+    z-index: 100;
+    top: 130px;
+    border-radius: 3px;
+    display: none;
+    text-align: center;
+}
+
+.main {
+	min-height: 450px;
+}
+
+h2 {
+	font-size: 14px;
+  	line-height: 30px;
+  	background: url(../images/bg.png) -230px -100px no-repeat;
+  	border-bottom: 2px solid #fbaa62;
+  	padding-left: 25px;
+  	margin: 0px 30px;
+}
+
+.user {
+	width: 900px;
+	border-radius: 5px;
+	border: 1px solid;
+	border-color: #CCE6EF;
+	margin-left: 45px;
+}
+
+.user ul li {
+    float: left;
+    height:40px;
+    line-height: 40px;
+    font-size: 14px;
+    color: #0A0A0A;
+    font-family: arial;
+    text-align: center;
+}
+
+.user_information_header {
+	width: 900px;
+	height: 40px;
+	border: 1px solid;
+	border-left-style: none;
+	border-right-style: none;
+	border-top-style: none;
+	text-align: center;
+	border-bottom-color: #2E4358;
+}
+
+.user_information {
+	width: 900px;
+	height: 40px;
+	border: 1px solid;
+	border-style: none;
+}
+
+.user_name {
+	width: 150px;
+}
+
+.address {
+	width: 360px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+#address {
+	width: 360px;
+	height: 40px;
+}
+
+.mobile {
+	width: 150px;
+}
+
+.email {
+	width: 200px;
+}
+
+/* #update_information {
+	margin-left: 20px;
+} */
+
+/* .action {
+	width: 120px;
+} */
+
+.clear {
+	clear: both;
+}
+.spacer {
+	height: 8px;
+	overflow: hidden;
+}
+
+.book_order {
+	width:900px;
+    border-radius:5px;
+    border: 1px solid;
+    border-color: #CCE6EF;
+    margin-left: 45px;
+}
+
+.header {
+    width:900px;
+    height:40px;
+    border:1px solid;
+    border-left-style:none;
+    border-right-style:none;
+    border-top-style:none;
+    text-align: center;
+    border-bottom-color: #2E4358;
+}
+
+.book_order .header .name {
+	width: 280px;
+	text-align: center;
+}
+
+.book_order ul li {
+    float: left;
+    height:40px;
+    line-height: 40px;
+    font-size: 14px;
+    color: #0A0A0A;
+    font-family: arial;
+    text-align: center;
+}
+
+.book_order .book_order_information ul li {
+    height:80px;
+    line-height: 80px;
+}
+
+.book_order .book_order_information {
+	width:900px;
+	height:80px;
+    border:1px solid;
+    border-left-style:none;
+    border-right-style:none;
+    border-top-style:none;
+    border-bottom-color: #B2D1FF;
+    position: relative;
+}
+
+.id {
+	width: 80px;
+}
+
+.img {
+	width: 70px;
+	margin-right: 30px;
+}
+
+#img {
+	width: 70px;
+	height: 70px;
+}
+
+.book_order .name {
+	width: 280px;
+	cursor: pointer;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align: left;
+}
+
+.price {
+	width: 120px;
+}
+
+.amount {
+	width: 190px;
+}
+
+.total {
+	width: 120px;
+}
+
+.book_order .action {
+	width: 200px;
+}
+
+.number {
+	width: 40px;
+	height: 25px;
+	margin-top: 5px;
+	outline: none;
+	text-align: center;
+	border: none;
+}
+
+#all_total {
+	float: right;
+}
+
+#submit {
+	margin-top: 50px;
+	margin-left: 680px;
+	margin-bottom: 30px;
+}
+
+input[type=button] {
+	width: 200px;
+	height: 40px;
+	color: white;
+	background-color: #C40000;
+	border-color: #C40000;
+	outline: none;
+	cursor: pointer;
+}
+
+.all_total {
+	vertical-align: middle;
+	font-size: 30px;
+	color: #c40000;
+	font-weight: bolder;
+	font-family: Arial;
+	-webkit-font-smoothing: antialiased;
+}
+
+#pay_way {
+	width: 200px;
+	height: 20px;
+	margin-left: 720px;
+	margin-top: 40px;
+}
+
+select {
+	outline: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+

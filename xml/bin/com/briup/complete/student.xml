@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students PUBLIC
+		"kkk"
+		"http://www.briup.com.a.dtd">
+		
+<students>
+		<student id="">
+				<name firstName="<>"></name>
+				<score sel="60"></score>
+		</student>
+</students>

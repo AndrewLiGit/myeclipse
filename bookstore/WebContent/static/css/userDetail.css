@@ -1,0 +1,35 @@
+@CHARSET "UTF-8";
+.main {
+  float: right;
+  width: 750px;
+  margin-right: 20px;
+  min-height: 450px;
+}
+
+.main h2 {
+  font-size: 14px;
+  line-height: 30px;
+  background: url(../images/bg.png) -230px -100px no-repeat;
+  border-bottom: 2px solid #fbaa62;
+  padding-left: 25px;
+}
+
+.left {
+	width: 240px;
+	height: 40px;
+	float: left;
+	line-height: 40px;
+	text-align: right;
+}
+
+.right {
+	height: 40px;
+	line-height: 40px;
+	text-align: right;
+}
+
+ul li {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}

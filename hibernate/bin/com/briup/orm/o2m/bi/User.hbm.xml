@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.briup.orm.o2m.bi">
+	<!-- 一对多双向关联 -->
+	<class name="User" table="t_user">
+		<id name="id">
+			<generator class="increment"></generator>
+		</id>
+		<property name="name"></property>
+		
+		<!-- 
+			name="group"  表示要给类中一个叫group的属性做映射配置
+			class="Group" 表示这个属性的类型是Group类型的
+			column="group_id" 指明将来那个外键列的名字叫group_id
+			注意:这个column="group_id"一定要设置,而且还要和one的一方的映射文件中
+				 所设置的外键列的名字要一样.要不然表中会有俩个外键列
+		 -->
+		<many-to-one name="group" class="Group" column="group_id" cascade="all">
+		</many-to-one>
+		
+	</class>
+		
+ 	
+</hibernate-mapping>
+
+
+
+
+

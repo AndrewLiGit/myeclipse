@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books>
+		<class>com.briup.test.Hello</class>
+		<method>say</method>
+		
+		<class>
+				<package>com.briup.test</package>
+				<className>Hello</className>
+				<method>say</method>
+		</class>
+</books>

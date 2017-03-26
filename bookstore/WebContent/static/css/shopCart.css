@@ -1,0 +1,328 @@
+@CHARSET "UTF-8";
+
+#tool {
+	height: 30px;
+}
+#welcome {
+	float: left;	
+}
+
+#welcome span{
+	color: red;	
+}
+
+/* #header #logo {
+	float:left;
+} */
+
+#header .help {
+	float:right;
+}
+
+#header .help a {
+	color: 0000EE;
+}
+
+#header .help a.shopping {
+	padding-left:18px;
+	background:url(../images/bg.png) left -69px no-repeat; 
+}
+
+#search {
+	position: absolute;
+	left: 360px;
+	top: 45px;
+	width: 400px;
+	height: 34px;
+	border: 2px solid red;
+	text-indent: 5px;
+	outline: none;
+}
+
+#search_button {
+	position: absolute;
+	left: 760px;
+	top: 45px;
+	width: 50px;
+	height: 34px;
+	background-color: red;
+	border: 2px solid red;
+	outline: none;
+	cursor: pointer;
+	/*text-indent: 5px;
+	outline: none; */
+}
+
+#childNav { 
+	clear:both; 
+	height:30px; 
+	background:#fc7e31; 
+	overflow:hidden; 
+	margin-top: 7px;
+}
+
+#header { 
+	overflow:hidden; 
+	padding-top:10px; 
+}
+
+#childNav ul { 
+	margin:9px; 
+	line-height:14px; 
+}
+
+#childNav ul li { 
+	float:left; 
+	display:inline; 
+	border-right:1px solid #dc6b04; 
+	border-left:1px solid #fba455; 
+	padding:0 20px; 
+}
+
+#childNav ul .first { 
+	margin-left: 20px;
+}
+
+.main {
+	min-height: 450px;
+}
+
+h2 {
+	font-size: 14px;
+  	line-height: 30px;
+  	background: url(../images/bg.png) -230px -100px no-repeat;
+  	border-bottom: 2px solid #fbaa62;
+  	padding-left: 25px;
+  	margin: 0px 30px;
+}
+
+.context {
+	width:930px;
+    border-radius:5px;
+    border: 1px solid;
+    border-color: #CCE6EF;
+    margin-left: 30px;
+}
+
+.header {
+    width:930px;
+    height:40px;
+    border:1px solid;
+    border-left-style:none;
+    border-right-style:none;
+    border-top-style:none;
+    text-align: center;
+    border-bottom-color: #2E4358;
+}
+
+.header .name {
+	width: 200px;
+}
+
+.context .header ul li {
+    float: left;
+    height:40px;
+    line-height: 40px;
+    font-size: 14px;
+    color: #0A0A0A;
+    font-family: arial;
+    text-align: center;
+}
+
+.context .book_order ul li {
+    float: left;
+    height:80px;
+    line-height: 80px;
+    font-size: 14px;
+    color: #0A0A0A;
+    font-family: arial;
+    text-align: center;
+}
+
+.context .book_order {
+	width:930px;
+	height:80px;
+    border:1px solid;
+    border-left-style:none;
+    border-right-style:none;
+    border-top-style:none;
+    border-bottom-color: #CCE6EF;
+    position: relative;
+}
+
+.id {
+	width: 80px;
+}
+
+.img {
+	width: 70px;
+	margin-right: 30px;
+}
+
+#img {
+	width: 70px;
+	height: 70px;
+}
+
+.context .book_order .name {
+	width: 200px;
+	cursor: pointer;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align: left;
+}
+
+.price {
+	width: 100px;
+}
+
+.amount {
+	width: 170px;
+}
+
+.total {
+	width: 100px;
+}
+
+.context .action {
+	width: 180px;
+}
+
+.number {
+	width: 40px;
+	height: 25px;
+	margin-top: 5px;
+	outline: none;
+	text-align: center;
+}
+
+.decrease {
+	font-size: 12px;
+	cursor: pointer;
+}
+
+.add {
+	font-size: 12px;
+	cursor: pointer;
+}
+
+#all_total {
+	float: right;
+}
+
+#all_action {
+	margin-top: 50px;
+	margin-left: 350px;
+	margin-bottom: 30px;
+}
+
+input[type=button] {
+	width: 80px;
+	height: 30px;
+	cursor: pointer;
+}
+
+#errorFlashMessage {
+    background-color: red;
+    position: absolute;
+    width: 300px;
+    color: #FFF;
+    font-size: 15px;
+    height: 30px;
+    line-height: 30px;
+    left: 350px;
+    z-index: 100;
+    top: 130px;
+    border-radius: 3px;
+    display: none;
+    text-align: center;
+}
+
+/*  */
+.disabled_screen {
+    width: 138.5%;
+    height: 120%;
+    position: absolute;
+    z-index: 1000;
+    top: 0px;
+    left: -200px;
+    opacity: 0.1;
+    background: #000;
+}
+
+.pop_win {
+    width: 400px;
+    color: #FFF;
+    height: 220px;
+    z-index: 10000;
+    position: absolute;
+    background: #FFF;
+    top: 40%;
+    left: 50%;
+    margin-top: -60px;
+    margin-left: -200px;
+    border-radius: 5px;
+    border: 1px solid #2E4358;
+}
+
+.close {
+    width: 15px;
+    height: 15px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    background-image: url("../images/BTN_Close_15x15.png  .png");
+    background-repeat: no-repeat;
+}
+
+#action {
+    position: relative;
+    width: 250px;
+    height: 30px;
+    left: 75px;
+}
+
+.yes {
+    cursor: pointer;
+    width: 80px;
+    height: 30px;
+    background-color: red;
+	text-align: center;
+	font-size: 18px;
+	line-height: 30px;
+}
+
+.action_item {
+    position: relative;
+    cursor: pointer;
+    width: 80px;
+    height: 30px;
+    top: -30px;
+    left: 170px;
+    background-color: red;
+	text-align: center;
+	font-size: 18px;
+	line-height: 30px;
+}
+
+.i_message {
+	margin: 40px 30px 20px 30px;
+	width: 340px;
+	height: 80px;
+	outline: none;
+}
+
+.prompt {
+	position: relative;
+    width: 200px;
+    top: 80px;
+    left: 100px;
+    font-size: 20px;
+    color: #0A0A0A;
+    font-family: arial;
+    margin-bottom: 130px;
+}
+
+/*  */

@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>forward.html</title>
+</head>
+<body>
+	<h3>服务器内部跳转分俩种情况:</h3>
+	<h6>跳转到一个页面</h6>
+	<form action="ForwardServletTest" method="get">
+		用户名:<input type="text" name="name" /><br>
+	           <input type="submit" value="提交" />
+	</form>
+	
+	<h6>跳转另一个servlet中</h6>
+	<form action="ForwardServletTest" method="post">
+		用户名:<input type="text" name="name" /><br>
+	           <input type="submit" value="提交" />
+	</form>
+	
+	
+	<h3>客户端重定向</h3>
+	<h6>重定向到一个页面</h6>
+	<form action="RedirectServletTest" method="get">
+		用户名:<input type="text" name="name" /><br>
+	           <input type="submit" value="提交" />
+	</form>
+	
+	<h6>重定向到另一个servlet中</h6>
+	<form action="RedirectServletTest" method="post">
+		用户名:<input type="text" name="name" /><br>
+	           <input type="submit" value="提交" />
+	</form>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.briup.orm.o2m.uni">
+	<!-- 一对多单向关联 -->
+	<class name="Group" table="t_group">
+		<id name="id">
+			<generator class="increment"></generator>
+		</id>
+		<property name="name"></property>
+		
+		<!-- 
+			name="users" 表示当前类中有一个set集合叫做users
+			<key column="group_id"> 在这个一对多关系下所生成
+			的外键列的名字叫group_id.
+			注意:1:n关系中外键列都会建立在n的一方。
+			
+			<one-to-many class="User"/> 表示当前关系中,
+									    many的一方是User类型的.
+		 -->
+		 
+		<set name="users" cascade="all-delete-orphan" lazy="true" fetch="select" inverse="false">
+			<key column="group_id"></key>
+			<one-to-many class="User"/>
+		</set>
+		
+		<!-- 
+			cascade="" 
+			all-delete-orphan和all的区别
+			
+			all:当我们在session的缓存中解除对象之间的关系的时候,
+			    再flush之后,会把表中的外键值设置为null
+			    
+			all-delete-orphan:  
+				当我们在session的缓存中解除对象之间的关系的时候,
+			    再flush之后,并不会把外键值设置为null,而是把有这个
+			    外键值的整条数据都删除了。
+		 -->
+		
+	</class>
+ 	
+</hibernate-mapping>

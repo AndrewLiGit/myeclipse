@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.briup.bean">
+ 	<class name="Car" table="t_car">
+ 		<!-- 类型可以不写,hibernate可以自动识别 -->
+ 		<!-- 如果属性名字和列名一样,那么列也可以不写 -->
+ 		<!-- 
+ 			generator表示id的自动生成器
+ 			class="" 表示id生成器所使用的id生成策略
+ 			常用的id生成策略:
+ 			1.assigned   手动设置  也是默认的策略
+ 			2.increment  自动增长  每次加1
+ 			3.sequence   使用序列生成id值 默认使用名字叫做hibernate_sequence的序列
+ 			  3.1 我们还可以指定序列的名字
+ 			      例子:
+ 			       		<id name="id">
+				 			<generator class="sequence">
+				 				<param name="sequence">my_seq</param>
+				 			</generator>
+				 		</id>
+			4.identity   是mysql SQLServer等数据库中的id增长策略,oracle不支持.
+			5.native     让本地数据库来选择一种认为合适的策略,不同类型的数据库选择的策略可能不同
+			  5.1 oracle数据会默认选择sequence这种策略
+			  
+			6.hilo       使用高位/低位算法来得到id的值
+			  6.1 在数据库中要有一种表来存放高位值
+			  6.2 低位会从0或者1到一个指定数字(max_lo)之间进行循环
+			  6.3 id=hi*(max_lo+1)+lo，lo值在0或者1到max_lo直接循环，lo值每循环一圈，hi值就增1
+			      例如:
+			        <id name="id">
+			 			<generator class="hilo">
+			 				<param name="table">hi_value</param>
+			 				<param name="column">next_hi</param>
+			 				<param name="max_lo">5</param>
+			 			</generator>
+			 		</id>
+			7.seqhilo    同样使用hilo算法获得id值,高位的值是从数据库里面的一个序列中拿到
+				例子:
+			 		<id name="id">
+			 			<generator class="seqhilo">
+			 				<param name="sequence">my_seq</param>
+			 				<param name="max_lo">5</param>
+			 			</generator>
+			 		</id>
+			8.uuid      使用uuid算法生成id的值. 一个16进制数字 但是是以字符串的形式表示出来的
+			9.guid      和uuid一样的id生成方式.uuid是由hibernate完成 guid是由oracle完成
+			
+			    注意:使用uuid或者guid的时候需要把id设置为String类型
+			
+ 		 -->
+ 		<id name="id">
+ 			<generator class="increment">
+ 			</generator>
+ 		</id>
+ 		<property name="name" column="car_name"></property>
+ 		<property name="price" column="car_price"></property>
+ 	</class>
+</hibernate-mapping>
+
+
+
+
+

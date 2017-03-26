@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 这里的table表示 桌子 的意思 -->
+<table xmlns="http://www.briup.com"
+	   xmlns:zm="http://www.briup.com.zm"
+	   xmlns:zt="http://www.briup.com.zt">
+		<zm:size>100*100</zm:size>
+		<zt:size>10*10</zt:size>
+		<zm:color>red</zm:color>
+		<zt:color>red</zt:color>
+</table>

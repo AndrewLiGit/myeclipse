@@ -1,0 +1,18 @@
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+    
+<hibernate-mapping package="com.briup.estore.bean">
+	<class name="Line" table="kk_line">
+		<id name="id" column="id">
+			<generator class="increment"></generator>
+		</id>
+		<property name="num" />
+		<!--订单项与订单的关系  -->
+		<many-to-one name="order" class="Order" column="o_id"/>
+		<!--订单项和商品的关系  -->
+		<many-to-one name="product" class="Product" column="p_id"></many-to-one>
+		
+		
+	</class>
+</hibernate-mapping>

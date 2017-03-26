@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:hdp="http://www.springframework.org/schema/hadoop" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+    xmlns:context="http://www.springframework.org/schema/context" xmlns:util="http://www.springframework.org/schema/util" xmlns:tx="http://www.springframework.org/schema/tx"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/aop/spring-aop-3.1.xsd
+        http://www.springframework.org/schema/cache
+        http://www.springframework.org/schema/cache/spring-cache.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context-3.1.xsd
+        http://www.springframework.org/schema/mvc
+        http://www.springframework.org/schema/mvc/spring-mvc-3.1.xsd
+        http://www.springframework.org/schema/util
+        http://www.springframework.org/schema/util/spring-util-3.1.xsd
+        http://www.springframework.org/schema/tx
+        http://www.springframework.org/schema/tx/spring-tx-3.1.xsd">
+
+    <bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+        <property name="locations">
+           <list>
+                <value>classpath:app.properties</value>
+           </list>
+        </property>
+    </bean>
+    
+    <bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close">
+        <property name="driverClass" value="${jdbc.driver}"></property>
+        <property name="jdbcUrl" value="${jdbc.url}"></property>
+        <property name="user" value="${jdbc.user}"></property>
+        <property name="password" value="${jdbc.password}"></property>
+        
+        <property name="maxPoolSize" value="20" />
+        <property name="minPoolSize" value="5" />
+        <property name="acquireIncrement" value="3" />
+        <property name="initialPoolSize" value="5"></property>
+    </bean>
+
+    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <property name="dataSource" ref="dataSource" />
+        <property name="typeAliasesPackage" value="com.lzjtu.bookstore.model"></property>
+        <property name="mapperLocations" value="classpath*:com/lzjtu/bookstore/model/mysql/*Mapper.xml" />
+    </bean>
+
+    <bean id="sqlSessionTemplate" class="org.mybatis.spring.SqlSessionTemplate">
+        <constructor-arg index="0" ref="sqlSessionFactory" />
+    </bean>
+    
+    <bean id="baseDao" abstract="true">
+        <property name="sqlSessionTemplate" ref="sqlSessionTemplate" />
+    </bean>
+    
+    
+    
+    
+    
+    
+    <bean id="userDao" class="com.lzjtu.bookstore.dao.impl.UserDaoImpl" parent="baseDao"/>
+    <bean id="bookDao" class="com.lzjtu.bookstore.dao.impl.BookDaoImpl" parent="baseDao" />
+    <bean id="orderDao" class="com.lzjtu.bookstore.dao.impl.OrderDaoImpl" parent="baseDao" />
+    <bean id="newsDao" class="com.lzjtu.bookstore.dao.impl.NewsDaoImpl" parent="baseDao" />
+    <bean id="noticeDao" class="com.lzjtu.bookstore.dao.impl.NoticeDaoImpl" parent="baseDao" />
+    <bean id="contactInfoDao" class="com.lzjtu.bookstore.dao.impl.ContactInfoDaoImpl" parent="baseDao" />
+    <bean id="bigCategoryDao" class="com.lzjtu.bookstore.dao.impl.BigCategoryDaoImpl" parent="baseDao" />
+    <bean id="smallCategoryDao" class="com.lzjtu.bookstore.dao.impl.SmallCategoryDaoImpl" parent="baseDao" />
+    <bean id="payWayDao" class="com.lzjtu.bookstore.dao.impl.PayWayDaoImpl" parent="baseDao" />
+    <bean id="bookOrderDao" class="com.lzjtu.bookstore.dao.impl.BookOrderDaoImpl" parent="baseDao" />
+    <bean id="messageDao" class="com.lzjtu.bookstore.dao.impl.MessageDaoImpl" parent="baseDao" />
+ 
+ 
+    <bean id="userService" class="com.lzjtu.bookstore.service.impl.UserServiceImpl" scope="singleton">
+        <property name="userDao" ref="userDao"></property>
+        <property name="contactInfoDao" ref="contactInfoDao"></property>
+    </bean>
+    
+    <bean id="bookService" class="com.lzjtu.bookstore.service.impl.BookServiceImpl" scope="singleton">
+        <property name="bookDao" ref="bookDao"></property>
+        <property name="bigCategoryDao" ref="bigCategoryDao"></property>
+       <!--  <property name="smallCategoryDao" ref="smallCategoryDao"></property> -->
+    </bean>
+    
+    <bean id="orderService" class="com.lzjtu.bookstore.service.impl.OrderServiceImpl" scope="singleton">
+        <property name="orderDao" ref="orderDao"></property>
+    </bean>
+    
+    <bean id="newsService" class="com.lzjtu.bookstore.service.impl.NewsServiceImpl" scope="singleton">
+        <property name="newsDao" ref="newsDao"></property>
+    </bean>
+    
+    <bean id="noticeService" class="com.lzjtu.bookstore.service.impl.NoticeServiceImpl" scope="singleton">
+        <property name="noticeDao" ref="noticeDao"></property>
+    </bean>
+    
+    <bean id="payWayService" class="com.lzjtu.bookstore.service.impl.PayWayServiceImpl" scope="singleton">
+        <property name="payWayDao" ref="payWayDao"></property>
+    </bean>
+    
+    <bean id="bookOrderService" class="com.lzjtu.bookstore.service.impl.BookOrderServiceImpl" scope="singleton">
+        <property name="bookOrderDao" ref="bookOrderDao"></property>
+    </bean>
+    
+    <bean id="messageService" class="com.lzjtu.bookstore.service.impl.MessageServiceImpl" scope="singleton">
+        <property name="messageDao" ref="messageDao"></property>
+    </bean>
+    
+    <bean id="bigCategoryService" class="com.lzjtu.bookstore.service.impl.BigCategoryServiceImpl" scope="singleton">
+        <property name="bigCategoryDao" ref="bigCategoryDao"></property>
+    </bean> 
+    
+    <bean id="userController" class="com.lzjtu.bookstore.controller.UserController" scope="singleton">
+        <property name="userService" ref="userService"></property>
+    </bean>
+    
+    <bean id="bookController" class="com.lzjtu.bookstore.controller.BookController" scope="singleton">
+        <property name="bookService" ref="bookService"></property>
+        <property name="newsService" ref="newsService"></property>
+        <property name="noticeService" ref="noticeService"></property>
+        <property name="userService" ref="userService"></property>
+        <property name="payWayService" ref="payWayService"></property>
+        <property name="bigCategoryService" ref="bigCategoryService"></property>
+    </bean>
+    
+    <bean id="orderController" class="com.lzjtu.bookstore.controller.OrderController" scope="singleton">
+        <property name="orderService" ref="orderService"></property>
+        <property name="bookOrderService" ref="bookOrderService"></property>
+        <property name="bookService" ref="bookService"></property>
+    </bean>
+    
+    <bean id="noticeController" class="com.lzjtu.bookstore.controller.NoticeController" scope="singleton">
+        <property name="noticeService" ref="noticeService"></property>
+    </bean>
+    
+    <bean id="newsController" class="com.lzjtu.bookstore.controller.NewsController" scope="singleton">
+        <property name="newsService" ref="newsService"></property>
+    </bean>
+    
+    <bean id="messageController" class="com.lzjtu.bookstore.controller.MessageController" scope="singleton">
+        <property name="messageService" ref="messageService"></property>
+    </bean>
+    
+    
+    
+    
+    
+    
+    
+    
+    <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="dataSource"></property>
+    </bean>
+   
+    <bean id="logMethodTimeAdvice" class="com.lzjtu.bookstore.service.impl.LogMethodTimeAspect">
+    </bean>
+     
+    <tx:advice id="txAdvice" transaction-manager="transactionManager">
+        <tx:attributes>
+            <tx:method name="delete*" propagation="REQUIRED" read-only="false" rollback-for="com.lzjtu.bookstore.exception.ParameterException, java.lang.RunTimeException"/>
+            <tx:method name="create*" propagation="REQUIRED" read-only="false" rollback-for="com.lzjtu.bookstore.exception.ParameterException, java.lang.RunTimeException"/>
+            <tx:method name="update*" propagation="REQUIRED" read-only="false" rollback-for="com.lzjtu.bookstore.exception.ParameterException, java.lang.RunTimeException"/>
+            <tx:method name="save*" propagation="REQUIRED" read-only="false" rollback-for="com.lzjtu.bookstore.exception.ParameterException, java.lang.RunTimeException"/>
+            <tx:method name="find*" propagation="REQUIRED" read-only="false" rollback-for="com.lzjtu.bookstore.exception.ParameterException, java.lang.RunTimeException"/>
+            <tx:method name="*" propagation="SUPPORTS" read-only="true" />
+        </tx:attributes>
+    </tx:advice>
+      
+   <aop:config>
+        <aop:pointcut id="pc" expression="execution(* com.lzjtu.bookstore.service..*.*(..))" />
+        <aop:advisor pointcut-ref="pc" advice-ref="txAdvice" order="1" />
+        
+        <aop:aspect id="LogMethodTimeAspect" ref="logMethodTimeAdvice">
+            <aop:pointcut id="businessService" expression="execution(* com.lzjtu.bookstore.service..*.*(..))" />
+            <aop:around pointcut-ref="businessService" method="doAround"/>
+            <aop:before pointcut-ref="businessService" method="doBefore"/>
+            <aop:after pointcut-ref="businessService" method="doAfter"/>
+            <aop:after-throwing pointcut-ref="businessService" method="doThrowing" throwing="ex"/>
+        </aop:aspect>
+    </aop:config>
+    
+    <bean class="com.lzjtu.bookstore.util.SpringUtil"></bean>
+</beans>

@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+
+.main {
+	min-height: 480px;
+}
+
+.title {
+	text-align: center;
+}
+
+.content {
+	margin: 20px 100px;
+}
+
+.content p {
+	font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,163 @@
+@CHARSET "UTF-8";
+
+.main {
+  float: right;
+  width: 750px;
+  margin-right: 20px;
+  min-height: 400px;
+}
+
+.main h2 {
+  font-size: 14px;
+  line-height: 30px;
+  background: url(../images/bg.png) -230px -100px no-repeat;
+  border-bottom: 2px solid #fbaa62;
+  padding-left: 25px;
+}
+
+.manage {
+  overflow: hidden;
+  width:690px;
+  border-radius:5px;
+  /* border: 1px solid;
+  border-color: #CCE6EF; */
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.title {
+	text-align: center;
+}
+
+.content p {
+	font-size: 15px;
+}
+
+
+#action {
+	height: 30px;
+	width: 300px;
+	float: right;
+	margin-top: 50px;
+	margin-right: 240px;
+	margin-bottom: 30px;
+}
+
+#modify {
+	background-color: #ffeded;
+    border: 1px solid #c40000;
+    color: #c40000;
+    cursor: pointer;
+    float: left;
+    font-family: "Microsoft Yahei";
+    font-size: 16px;
+    height: 30px;
+    line-height: 30px;
+    overflow: hidden;
+    text-align: center;
+    width: 100px;
+}
+
+#delete {
+	background-color: #ffeded;
+    border: 1px solid #c40000;
+    color: #c40000;
+    cursor: pointer;
+    float: right;
+    font-family: "Microsoft Yahei";
+    font-size: 16px;
+    height: 30px;
+    line-height: 30px;
+    overflow: hidden;
+    text-align: center;
+    width: 100px;
+}
+
+
+/*  */
+.disabled_screen {
+    width: 138.5%;
+    height: 120%;
+    position: absolute;
+    z-index: 1000;
+    top: 0px;
+    left: -200px;
+    opacity: 0.1;
+    background: #000;
+}
+
+.pop_win {
+    width: 400px;
+    color: #FFF;
+    height: 220px;
+    z-index: 10000;
+    position: absolute;
+    background: #FFF;
+    top: 40%;
+    left: 50%;
+    margin-top: -60px;
+    margin-left: -200px;
+    border-radius: 5px;
+    border: 1px solid #2E4358;
+}
+
+.close {
+    width: 15px;
+    height: 15px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    background-image: url("../images/BTN_Close_15x15.png  .png");
+    background-repeat: no-repeat;
+}
+
+.action {
+    position: relative;
+    width: 250px;
+    height: 30px;
+    left: 75px;
+}
+
+.yes {
+    cursor: pointer;
+    width: 80px;
+    height: 30px;
+    background-color: red;
+	text-align: center;
+	font-size: 18px;
+	line-height: 30px;
+}
+
+.action_item {
+    position: relative;
+    cursor: pointer;
+    width: 80px;
+    height: 30px;
+    top: -30px;
+    left: 170px;
+    background-color: red;
+	text-align: center;
+	font-size: 18px;
+	line-height: 30px;
+}
+
+.i_message {
+	margin: 40px 30px 20px 30px;
+	width: 340px;
+	height: 80px;
+	outline: none;
+}
+
+.prompt {
+	position: relative;
+    width: 200px;
+    top: 80px;
+    left: 100px;
+    font-size: 20px;
+    color: #0A0A0A;
+    font-family: arial;
+    margin-bottom: 130px;
+}
+
+/*  */

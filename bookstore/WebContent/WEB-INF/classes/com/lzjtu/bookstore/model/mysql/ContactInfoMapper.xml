@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.lzjtu.bookstore.model.ContactInfo">
+
+	<resultMap type="ContactInfo" id="contactInfoMap">
+        <id column="id" property="id"/>
+        <result column="user_name" property="userName"/>
+        <result column="birthday" property="birthday"/>
+        <result column="email" property="email"/>
+        <result column="id_card" property="idCard"/>
+        <result column="mobile" property="mobile"/>
+        <result column="gender" property="gender"/>
+        <result column="right_name" property="rightName"/>
+        <result column="address" property="address"/>
+        <result column="question" property="question"/>
+        <result column="answer" property="answer"/>
+    </resultMap>
+    <insert id="save" parameterType="ContactInfo" useGeneratedKeys="true" keyProperty="id">
+        <![CDATA[
+            INSERT INTO contact_info(user_name, birthday, email, id_card, mobile, gender, right_name, address, question, answer) 
+                  VALUES(#{userName}, #{birthday}, #{email}, #{idCard}, #{mobile}, #{gender}, #{rightName}, #{address}, #{question}, #{answer})
+        ]]>
+    </insert>
+    
+    <select id="getContactInfoByName" resultMap="contactInfoMap" parameterType="String">
+        <![CDATA[
+            SELECT * FROM contact_info WHERE is_delete = '0' AND user_name = #{userName}
+        ]]>
+    </select>
+    
+</mapper>

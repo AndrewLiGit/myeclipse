@@ -1,0 +1,84 @@
+@CHARSET "UTF-8";
+
+.main {
+  float: right;
+  width: 750px;
+  margin-right: 20px;
+  min-height: 400px;
+}
+
+.main h2 {
+  font-size: 14px;
+  line-height: 30px;
+  background: url(../images/bg.png) -230px -100px no-repeat;
+  border-bottom: 2px solid #fbaa62;
+  padding-left: 25px;
+}
+
+.manage {
+  overflow: hidden;
+  width:690px;
+  border-radius:5px;
+  /* border: 1px solid;
+  border-color: #CCE6EF; */
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.title {
+	text-align: center;
+	width: 400px;
+	height: 30px;
+	margin-left: 150px;
+	outline: none;
+	font-size: 20px;
+    line-height: 30px;
+}
+
+.content {
+	font-size: 15px;
+	width: 690px;
+	height: 300px;
+	margin-top: 20px;
+	outline: none;
+}
+
+
+#action {
+	height: 30px;
+	width: 300px;
+	float: right;
+	margin-top: 50px;
+	margin-right: 240px;
+	margin-bottom: 30px;
+}
+
+#modify {
+	background-color: #ffeded;
+    border: 1px solid #c40000;
+    color: #c40000;
+    cursor: pointer;
+    float: left;
+    font-family: "Microsoft Yahei";
+    font-size: 16px;
+    height: 30px;
+    line-height: 30px;
+    overflow: hidden;
+    text-align: center;
+    width: 100px;
+}
+
+#cancel {
+	background-color: #ffeded;
+    border: 1px solid #c40000;
+    color: #c40000;
+    cursor: pointer;
+    float: right;
+    font-family: "Microsoft Yahei";
+    font-size: 16px;
+    height: 30px;
+    line-height: 30px;
+    overflow: hidden;
+    text-align: center;
+    width: 100px;
+}
