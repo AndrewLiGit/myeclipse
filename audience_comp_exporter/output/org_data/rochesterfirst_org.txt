@@ -1,0 +1,1024 @@
+Organization Code,Organization Name,Audience Provider ID
+185_89858,"Planned Parenthood-Batavia",4	
+185_89860,"Planned Parenthood-Canandaigua",4	
+185_89840,"U.S. Bankruptcy Court-Buffalo",4	
+185_89841,"U.S. Bankruptcy Court-Rochester",4	
+185_89635,"Watts Education",4	
+185_89998,"WROC System 1",4	
+185_89999,"WROC System 2",4	
+185_89997,"WROC System 3",4	
+185_89996,"WROC System 4",4	
+185_89716,"Y. W. C. P. Charter School",4	
+185_89575,"Yates Office Aging-Transportation",4	
+185_89823,"A Time for Dance",4	
+185_88752,"A.B.C.",4	
+185_88750,"A.R. Arena Products",4	
+185_89856,"A.R.C. of Orleans",4	
+185_89542,"A.R.C. of Yates",4	
+185_88947,"AA Tech",4	
+185_88559,"AAA Driver Safety Pgm",4	
+185_88944,"AAA Travel Branches",4	
+185_88512,"ABC Head Start",4	
+185_88777,"ABVI",4	
+185_88618,"Academy for Career Dev.",4	
+185_89775,"Advanced Atomization Tech.",4	
+185_89012,"Advanced Facilites Srvcs.",4	
+185_88753,"Advanced Interconnect Man.",4	
+185_88408,"Advantage Professionals",4	
+185_88557,"Aenon Baptist Church",4	
+185_89903,"Agape Black Belt Center",4	
+185_88407,"Ajax Glass & Mirror",4	
+185_88758,"AJL Manufacturing",4	
+185_88200,"Albion Central",4	
+185_89080,"Albion-First United Meth.",4	
+185_88204,"Alexander Central",4	
+185_88696,"Alfred State College",4	
+185_88624,"Alfred University",4	
+185_88240,"All Saints Catholic",4	
+185_88754,"Allen-Bailey Tag & Label",4	
+185_88100,"Allendale Columbia",4	
+185_88760,"Alliance Precision Plastics",4	
+185_88487,"Aloi Materials Handling",4	
+185_88679,"Alph. Campus Childcare",4	
+185_88762,"Alstom Signaling",4	
+185_88671,"Alzheimer's Assoc.",4	
+185_88442,"AM&M Companies",4	
+185_88755,"AM&M Financial Services",4	
+185_88768,"Ambrell",4	
+185_88498,"American Custom Exteriors",4	
+185_88461,"American Filtration Tech.",4	
+185_88766,"American Packaging Corp.",4	
+185_88770,"AMETEK Power Instr.",4	
+185_88583,"Angel Heart Chapel",4	
+185_89008,"Annie's Ark",4	
+185_89003,"Antioch Missionary Baptist",4	
+185_88772,"Applied Coatings",4	
+185_88773,"Applied Energy Solutions",4	
+185_88774,"Applied Image Group",4	
+185_88101,"Aquinas Institute",4	
+185_89746,"ARC of Monroe",4	
+185_89805,"ARC of Orleans/O.E. Day Hab",4	
+185_89094,"Arcadia Sr. Citizens",4	
+185_88102,"Archangel School",4	
+185_88568,"Ark of Jesus Church",4	
+185_88717,"Arts & Cultural Council",4	
+185_89506,"ARYZTA LLC",4	
+185_88244,"Asbury Day Care",4	
+185_88776,"Associated Brands",4	
+185_88519,"Assumption Church-Fairpt.",4	
+185_89552,"Atlas Test Prep.",4	
+185_88213,"Attica Central",4	
+185_89535,"Augustin Children's Pgm of CP Roch.",4	
+185_88672,"Automotive Corp.",4	
+185_88103,"Avon Central",4	
+185_88712,"Avon District 2356",4	
+185_89783,"Avon Nursery School",4	
+185_88423,"Axiom Corporation",4	
+185_88479,"B&L Wholesale",4	
+185_88778,"Baldwin Richardson Foods",4	
+185_88205,"Batavia City Schools",4	
+185_89816,"Batavia Downs Gaming",4	
+185_89878,"Bausch & Lomb",4	
+185_88292,"Bay Knoll SDA Church",4	
+185_89615,"Bell & Howell BCC",4	
+185_88271,"Benton Mennonite",4	
+185_88422,"Bergmann Associates",4	
+185_88885,"Berry Plastics",4	
+185_89835,"Bethel Christian Fellowship",4	
+185_89208,"Bingo Palace",4	
+185_88784,"Birds Eye Foods",4	
+185_88563,"Birthright of Roch.",4	
+185_88104,"Bishop Kearney",4	
+185_88223,"Bloomfield",4	
+185_88573,"BMP America",4	
+185_88418,"Bob Johnson Auto.",4	
+185_89301,"BOCES Newark Education Ctr.",4	
+185_88786,"Bodycote Thermal Proc.",4	
+185_88492,"Bonadio & Co.",4	
+185_88788,"Borg Imaging",4	
+185_89705,"Botsford School of Dance",4	
+185_89088,"Boys & Girls Club of Roch.",4	
+185_88790,"Branson Ultrasonics",4	
+185_88667,"Bread of Life  Acdmy.",4	
+185_89007,"Breast  Cancer Coalition-Roch.",4	
+185_89911,"Breath of Life SDA Church",4	
+185_89781,"Bridal Belle",4	
+185_88577,"Bridge Builders Min.",4	
+185_89193,"Bridges for Brain Injury",4	
+185_88666,"Brighton Clown College",4	
+185_89843,"Brighton Family Medicine",4	
+185_88673,"Brighton Library",4	
+185_88105,"Brighton Schools",4	
+185_88460,"Brite Computers",4	
+185_88106,"Brockport Central",4	
+185_89095,"Brockport Elks Lodge",4	
+185_89786,"Brockport Free Methodist Church",4	
+185_89225,"Browncroft Comm. Church",4	
+185_88565,"Browncroft Discovery Preschool",4	
+185_88511,"Bryant&Stratton",4	
+185_88404,"Burns Personnel",4	
+185_88431,"Business Methods,Inc.",4	
+185_88206,"Byron-Bergen",4	
+185_89889,"C.A.S.H. Free Tax Sites",4	
+185_89562,"C.C.E. of Genesee Cty.",4	
+185_88759,"C.D.S./Unistel",4	
+185_88946,"Cadbury Schweppes",4	
+185_88792,"Caldwell Manufact.",4	
+185_88107,"Caledonia-Mumford",4	
+185_88298,"Calv. Chap. Flow. City",4	
+185_88264,"Calvary Chapel Christian",4	
+185_88726,"Calvary Chapel Westside",4	
+185_89039,"Calvary Chapel-Finger Lakes",4	
+185_88716,"Calvary Chapel-Roch.",4	
+185_88956,"Calvary Chapel-Webster",4	
+185_88723,"Canalside Music Together",4	
+185_88222,"Canandaigua",4	
+185_88108,"Canandaigua Academy",4	
+185_88265,"Canandaigua Montessori",4	
+185_88630,"Care-A-Lot Child Care",4	
+185_88794,"Career Development Srvcs.",4	
+185_88937,"Career Systems Devel.",4	
+185_89030,"Carestream Health",4	
+185_88409,"Carlisle Auto Sales,Inc.",4	
+185_88215,"Castile Christian Academy",4	
+185_88109,"Catholic Diocese of Roch.",4	
+185_88796,"Catholic Family Ctr.",4	
+185_88564,"Center for Autism",4	
+185_89020,"Center for Disability Rights",4	
+185_88397,"Center for Dispute Settlement",4	
+185_88668,"Central Library-Roch.",4	
+185_88465,"CGI Communications, Inc.",4	
+185_89200,"Champion Photochemistry",4	
+185_88110,"Charles Finney School",4	
+185_88398,"Charles Settlement House",4	
+185_89886,"Charlotte Community Assoc.",4	
+185_89882,"Child Care Council",4	
+185_89060,"Children's Continuous Care",4	
+185_88261,"Children's Hours School",4	
+185_89034,"Chili Jazzercise",4	
+185_89216,"Chili Public Library",4	
+185_88111,"Christ Comm. Church School",4	
+185_89810,"Christ Temple Church",4	
+185_89217,"Christ the Good Shepherd",4	
+185_89732,"Christ the King",4	
+185_88804,"Christa Construction",4	
+185_88278,"Chubb Hollow Mennonite",4	
+185_89546,"Church of Christ",4	
+185_89091,"Church of God by Faith",4	
+185_89876,"Church Of Jesus Christ",4	
+185_89220,"Church of Love Faith Ctr.",4	
+185_88112,"Churchville-Chili",4	
+185_88269,"Clyde Mennonite Parochial",4	
+185_88113,"Clyde-Savannah",4	
+185_88456,"CMI Communications",4	
+185_89018,"Cobblestone Arts Ctr.",4	
+185_88114,"Cobblestone School",4	
+185_88467,"Cohber Press, Inc.",4	
+185_89815,"COJIC",4	
+185_88195,"Colgate Divinity School",4	
+185_88509,"Comm.Cntr.-Hrg. & Speech",4	
+185_88419,"CommNet Marketing, Inc.",4	
+185_89893,"Communication/Hrg. & Speech",4	
+185_88605,"Community Child Care",4	
+185_89812,"Community Mutual Inc.",4	
+185_89055,"Community Place-Grtr. Roch.",4	
+185_88756,"Complemar Partners",4	
+185_88432,"Concentrix Corporation",4	
+185_88692,"Conesus Recreation",4	
+185_88757,"Consolidated Container",4	
+185_88795,"Constellation Brands",4	
+185_88798,"Consumer Credit Counseling",4	
+185_88948,"CooperVision-Fairport",4	
+185_89741,"CooperVision-Scottsville",4	
+185_89740,"CooperVision-West Henrietta",4	
+185_89852,"Cornell Co-op Ext.-NWNY Team",4	
+185_89831,"Cornell Co-op Ext.-Ontario Co.",4	
+185_88126,"Cornerstone Christian Acdmy.",4	
+185_88306,"Corpus Christi School",4	
+185_88455,"Corsair Display Systems",4	
+185_88800,"CP Rochester",4	
+185_88634,"Creative Beginnings Child Care",4	
+185_89892,"Creative Kidz",4	
+185_88274,"Creekside Mennonite School",4	
+185_89077,"Crestwood Children's Ctr.",4	
+185_88801,"Crosman Corp.",4	
+185_88803,"Cryovac Sealed Air",4	
+185_89558,"Curves in Perry",4	
+185_88220,"Dalton-Nunda",4	
+185_88622,"Dance FX",4	
+185_89085,"Dances w/Wools",4	
+185_88469,"Danrich Homes, Inc.",4	
+185_88115,"Dansville Central",4	
+185_89092,"Dansville Food Pantry",4	
+185_89530,"Darien Lake Resort",4	
+185_89044,"Dawnbreaker",4	
+185_88474,"Dawning Technologies",4	
+185_89864,"Daystar",4	
+185_89185,"Dazzle School",4	
+185_88484,"Decarolis Truck Rental",4	
+185_88644,"Delphi Corp.-Engin.",4	
+185_88806,"Delphi Corp.-Manu.",4	
+185_88480,"Delta Square, Inc.",4	
+185_89019,"Destiny Preschool",4	
+185_88121,"Destiny School",4	
+185_88945,"Diamond Packaging",4	
+185_88426,"DiMarco Constructors & Admar",4	
+185_89898,"Dios of Rochester CYO Athletics",4	
+185_89728,"Discovery Charter",4	
+185_88424,"Dorshel Automotive",4	
+185_88246,"Downtown United Presbyterian",4	
+185_89181,"Dr. Pepper Snapple",4	
+185_88234,"Dundee Central",4	
+185_88807,"E. I. DuPont deNemours",4	
+185_88267,"E. Palmyra Christian School",4	
+185_88444,"E.J. Del Monte Corp.",4	
+185_88117,"East Irondequoit",4	
+185_88118,"East Rochester",4	
+185_89198,"Eastman Comm. Music School",4	
+185_88808,"Eastman Kodak",4	
+185_88680,"Eastman School of Music",4	
+185_88245,"Edgerton Child Care Svcs.",4	
+185_89505,"EFP Rotenberg, LLP",4	
+185_88207,"Elba Central",4	
+185_88809,"Eldre Corporation",4	
+185_88475,"Eldredge, Fox & Porretti, LLP",4	
+185_89887,"Elim Christian Fellowship",4	
+185_89544,"Elmwood Pediatrics",4	
+185_89619,"Elo Touch Solutions, Inc.",4	
+185_88950,"eLogic Group , LLC.",4	
+185_88626,"Elohim Bible Academy",4	
+185_89565,"Embracing Options",4	
+185_89855,"Emmanuel Temple Church",4	
+185_89910,"Empire Bingo",4	
+185_88810,"EMRT",4	
+185_88951,"EMRT Consultants",4	
+185_88599,"EnCompass Resources",4	
+185_88811,"Episcopal Diocese-Roch.",4	
+185_88812,"Episcopal SeniorLife Comm.",4	
+185_88496,"Eric Mower and Associates",4	
+185_88813,"ESL Fed. Credit Union",4	
+185_88575,"Ethox International",4	
+185_88319,"Eugenio Maria De Hostos Chrtr",4	
+185_88520,"Everest Institute",4	
+185_88814,"Excellus BC-BS",4	
+185_89002,"Exelis",4	
+185_88952,"ExxonMobil Chemical",4	
+185_88513,"F.L.T.C.C.",4	
+185_88119,"Fairport",4	
+185_88120,"Fairport Montessori",4	
+185_89862,"Fairport Public Library",4	
+185_89837,"Fairport Village Offices",4	
+185_88981,"Faith Temple",4	
+185_89905,"Faith Temple Apostolic Church",4	
+185_88816,"Family First F.C.U.",4	
+185_89554,"Family History Ctr.-Brighton",4	
+185_88603,"Family Resource Ctrs.",4	
+185_89023,"Farmington UMC",4	
+185_88817,"Ferronics, Inc.",4	
+185_88236,"Finger Lakes DDSO",4	
+185_89867,"Finger Lakes Secondary School-Gorham",4	
+185_88641,"Finger Lakes Tech. & Career",4	
+185_89061,"Finger Lakes WIC",4	
+185_89062,"Finger Lakes WIC-Canan.",4	
+185_89074,"Finger Lakes WIC-Fairport",4	
+185_89063,"Finger Lakes WIC-Geneva",4	
+185_80068,"Finger Lakes WIC-Newark",4	
+185_89067,"Finger Lakes WIC-Ovid",4	
+185_89064,"Finger Lakes WIC-Penn Yan",4	
+185_89072,"Finger Lakes WIC-Sodus",4	
+185_89065,"Finger Lakes WIC-Waterloo",4	
+185_89075,"Finger Lakes WIC-Webster",4	
+185_89073,"Finger Lakes WIC-Williamson",4	
+185_89070,"Finger Lakes WIC-Wolcott",4	
+185_88400,"First American Commercial",4	
+185_88953,"First Bible Baptist Church",4	
+185_89818,"First Pentecostal Church",4	
+185_88617,"First Steps Child Care",4	
+185_89211,"First Universalist Chuch-Roch.",4	
+185_88821,"Firth Rixson Monroe",4	
+185_88606,"Fit by Five (Penfield)",4	
+185_89874,"Fitness for Women-Canandaigua",4	
+185_88711,"Fitzsimmons Dance Factory",4	
+185_88122,"FLCC",4	
+185_88700,"FLDDSO Canan. DH Program",4	
+185_88703,"FLDDSO Dogwood DH Program",4	
+185_88702,"FLDDSO Doty DH Program",4	
+185_88699,"FLDDSO Mon. Co.DH(Roch.)",4	
+185_88701,"FLDDSO Silver Lake DH Pgm.",4	
+185_88698,"FLDDSO Wayne Co.DH(Newark)",4	
+185_89791,"Fleet Feet Sports",4	
+185_88720,"Foodlink",4	
+185_88482,"Forsyth, Howe, O'Dwyer, Kalb & Murphy, P.C.",4	
+185_88818,"Four Corners Abstract",4	
+185_88403,"Frank Lill & Son",4	
+185_89846,"Friends for the Day-A.D.H.C.",4	
+185_88572,"Friendship Children's Ctr.",4	
+185_89045,"G. W. Lisk Co., Inc.",4	
+185_89543,"G.C.C.-Lima Campus",4	
+185_89700,"G.W.M.E.A.",4	
+185_88228,"Gananda Central",4	
+185_88561,"Gananda Day Care",4	
+185_89224,"Garden View Sr. Care",4	
+185_89186,"Garlock Sealing Tech.",4	
+185_89789,"Garth Fagan Dance School",4	
+185_89205,"Gates Ctr. Bingo",4	
+185_88123,"Gates-Chili",4	
+185_88856,"GE MDS LLC",4	
+185_89551,"Gen. Lakefront Childcare",4	
+185_88256,"Gen.-Wyom. Cath. Cent.",4	
+185_88819,"General Code LLC",4	
+185_89533,"Generations C. C. (Irond.)",4	
+185_88649,"Generations C. C.(Fairport)",4	
+185_88650,"Generations C. C.(Stenson St.)",4	
+185_89532,"Generations C. C.(Webster)",4	
+185_88651,"Generations C.C.(St. John's)",4	
+185_88652,"Generations C.C.(St. Mike's)",4	
+185_89531,"Generations C.C.(Wash.-Irv)",4	
+185_88317,"Generations Child Care, Inc.",4	
+185_88648,"Generations Elder Care",4	
+185_88322,"Genesee Comm. Charter",4	
+185_88258,"Genesee Country Christian",4	
+185_88820,"Genesee Global Group",4	
+185_88124,"Genesee Valley  BOCES",4	
+185_88394,"Genesee Valley Bottle Coll.",4	
+185_88125,"Geneseo Central",4	
+185_88224,"Geneva City Schools",4	
+185_89199,"George Eastman House",4	
+185_89001,"Gerber Homes",4	
+185_89537,"Germanow-Simon Cos.",4	
+185_88823,"Getinge Sourcing., LLC",4	
+185_88824,"Gillette Machine & Tool",4	
+185_89508,"Girl Scouts-All Locations",4	
+185_89817,"Girl Scouts-Batavia Ser. Ctr.",4	
+185_88825,"Girl Scouts-Rochester",4	
+185_89616,"Global Communications Solutions",4	
+185_88602,"Global Village Montessori",4	
+185_88579,"Glory to Glory Christian Fllwshp",4	
+185_89195,"God's Vision Min.",4	
+185_89826,"Golden Eagle Martial Arts",4	
+185_88588,"Gorbel, Inc.",4	
+185_88481,"GRA Packaging Services",4	
+185_89218,"Grace Baptist Church",4	
+185_88826,"Grace Community Services",4	
+185_88127,"Grace Covenant Christian",4	
+185_88958,"Grace Unity Fellowship Church",4	
+185_88835,"Graham Corp.",4	
+185_88827,"Graver Tech.",4	
+185_89875,"Greater Harvest Church",4	
+185_89031,"Greater Roch. Assoc. Realtors",4	
+185_88128,"Greece Central",4	
+185_89501,"Greece Choral Soc.",4	
+185_88130,"Greece Christian",4	
+185_89747,"Greece Jazzercise",4	
+185_88131,"Greece Montessori",4	
+185_89518,"Greece United Methodist",4	
+185_88637,"Grow-in-Kids",4	
+185_89021,"GVRPC, Inc.",4	
+185_88621,"Gymnastics Training Ctr.",4	
+185_89089,"H. Risch Inc.",4	
+185_89520,"H.O.P. Ministries",4	
+185_88493,"H.P. Neun Company, Inc.",4	
+185_89513,"Hamlin United Methodist",4	
+185_88488,"Hammer Packaging",4	
+185_88642,"Happy Time C.N.S.",4	
+185_88828,"Harbec Plastics",4	
+185_88181,"Harley School",4	
+185_88829,"Harris Beach PLLC",4	
+185_88830,"Harris Corp., RF Comm. Div.",4	
+185_88742,"Harris Seeds",4	
+185_88468,"Hart-Merrell Personnel Consultants",4	
+185_88775,"Harter Secrest & Emery",4	
+185_88831,"HCR-Home Care-Roch.",4	
+185_88133,"Henrietta Christian",4	
+185_89015,"Henrietta Church of the First Born",4	
+185_88607,"Henrietta Public Library",4	
+185_88689,"Henrietta Recreation Dept.",4	
+185_88684,"Henrietta Senior Center",4	
+185_88832,"Hickey-Freeman",4	
+185_88134,"Hillel School",4	
+185_88243,"Hillside Childrens Center",4	
+185_88247,"Hillside-Halpern Educ. Ctr.",4	
+185_89214,"Hilltop Ind.-Liv. Co.",4	
+185_89215,"Hilltop Ind.-Wyo. Co.",4	
+185_89213,"Hilltop Industries",4	
+185_88135,"Hilton Central",4	
+185_89888,"Hindu Temple",4	
+185_88625,"HN Precision Prod.",4	
+185_88196,"Hobart & William Smith",4	
+185_89014,"Hochstein-Canandaigua",4	
+185_89013,"Hochstein-Rochester",4	
+185_88129,"Holley Central",4	
+185_89184,"Holy Apostles",4	
+185_88304,"Holy Cross School",4	
+185_88305,"Holy Family (Rochester)",4	
+185_88251,"Holy Family School (LeRoy)",4	
+185_88290,"Holy Trinity School",4	
+185_89710,"HomeCare & Hospice",4	
+185_88225,"Honeoye Central",4	
+185_88136,"Honeoye Falls-Lima",4	
+185_89610,"Hope  Christian Preschool",4	
+185_89785,"Hope 4 Your Canine",4	
+185_89016,"Hope Church",4	
+185_88137,"Hope Hall",4	
+185_88518,"Hornell",4	
+185_88834,"Hover-Davis",4	
+185_88836,"IEC Electronics",4	
+185_88837,"Imaginant Inc",4	
+185_88633,"Indian Spgs Child Care",4	
+185_88838,"Industrial Indexing Syst.",4	
+185_88286,"Industry School",4	
+185_88839,"Info Directions",4	
+185_88840,"Information Packaging",4	
+185_88395,"Intervol",4	
+185_88719,"Irond. Presbyterian Church",4	
+185_89042,"Irondequoit Chorale",4	
+185_88942,"Iroquois Job Corps  Center",4	
+185_89813,"Italian American Community Ctr.",4	
+185_89743,"ITT-Gould Pumps",4	
+185_88841,"Jamestown Container, Roch.",4	
+185_88490,"Javlyn, Inc.",4	
+185_89511,"Jesus Christ the Chief Cornerstone",4	
+185_88574,"Jewish Community Center",4	
+185_89568,"Jewish Home Adult Day Health",4	
+185_88781,"JK Jewelry, Inc.",4	
+185_89526,"K9 C.A.R.E.",4	
+185_88687,"Kanack School of Music",4	
+185_89719,"Kango",4	
+185_88448,"Karpus Investment Mngmnt",4	
+185_88842,"Kayex, a Unit of SPX",4	
+185_88132,"Kendall Central",4	
+185_88197,"Keuka College",4	
+185_89701,"Kiddie Academy of Webster",4	
+185_88571,"Kids First Child Care",4	
+185_89761,"KidStart-Dansville",4	
+185_89760,"KidStart-Day Care",4	
+185_89755,"KidStart-Lehman",4	
+185_89790,"Kinections",4	
+185_89047,"Klein Steel Service, Inc.",4	
+185_88592,"Koinonia Fellowship",4	
+185_89891,"Kour Gymnastics Ctr.",4	
+185_88877,"KPMG LLP",4	
+185_89048,"L-3 Comm. Solutions",4	
+185_89180,"L.A.I.",4	
+185_88489,"LaBella Assoc., P.C.",4	
+185_89194,"Lake Shore Country Club",4	
+185_88516,"Lakeside Church CDC",4	
+185_88783,"Lapp Insulators",4	
+185_88843,"LaserMax, Inc.",4	
+185_89833,"LAVA Volleyball Club",4	
+185_88878,"Lazer Incorporated",4	
+185_88457,"LeChase Construction Services",4	
+185_88402,"Lenel Systems International, Inc.",4	
+185_88466,"Leo J. Roth Corporation",4	
+185_88208,"LeRoy Central",4	
+185_88214,"Letchworth Central",4	
+185_88454,"Lewis Tree Service",4	
+185_88844,"Lexington Machining",4	
+185_88845,"Liberty Precision Industries",4	
+185_88846,"LiDestri Foods, Inc.",4	
+185_89756,"Lifespan",4	
+185_89730,"Lifetime Assistance",4	
+185_89811,"Lifetime Care",4	
+185_88847,"Lifetime Health",4	
+185_89191,"Lighthouse B. B. Church",4	
+185_89830,"Lighthouse Wesleyan Church",4	
+185_88311,"Lima Christian",4	
+185_89897,"Little Foot Preschool",4	
+185_89082,"Little Gym-Webster",4	
+185_89212,"Liv./Wyo. ARC",4	
+185_89877,"Living Hope Assembly of God",4	
+185_88971,"Living Water Irondequoit",4	
+185_89850,"Livingston Community Health Center",4	
+185_88507,"Livingston/Wyoming W.I.C.",4	
+185_88139,"Livonia Central",4	
+185_89788,"Lollypop Farm",4	
+185_89027,"Lutheran Church of Our Saviour",4	
+185_89847,"Luv U 4Ever Daycare",4	
+185_88718,"LVCO OFA SNP",4	
+185_88201,"Lyndonville Central",4	
+185_88140,"Lyons Central",4	
+185_89829,"Lyons Public Library",4	
+185_88848,"M & T Bank-Roch.",4	
+185_88631,"M.C.Appellate Div.4th",4	
+185_88849,"M.D. Knowlton Company",4	
+185_88412,"M/E Engineering, P.C.",4	
+185_89723,"Magnus Precision Man.",4	
+185_88497,"Mail Technologies",4	
+185_88608,"Manchester-Shortsville",4	
+185_89571,"Manufacturing Solutions",4	
+185_89617,"Marcus Whitman",4	
+185_88229,"Marion Central",4	
+185_88459,"Marketview Liquor",4	
+185_88281,"Mary Cariola Childrens Ctr.",4	
+185_88850,"McAlpin Industries",4	
+185_89600,"McMahon School of Irish Dance",4	
+185_89845,"MCNS Preschool",4	
+185_88142,"McQuaid Jesuit",4	
+185_88851,"Meals on Wheels-Mo. Co.",4	
+185_88961,"Medaille College",4	
+185_88202,"Medina Central",4	
+185_88852,"Meikle Automation",4	
+185_88853,"Melles Griot Optics Group",4	
+185_88615,"Memorial Art Gallery",4	
+185_88494,"Mercury Print Productions",4	
+185_89559,"Mercy Bridges",4	
+185_88567,"Mercy Outreach Center",4	
+185_88854,"Meridian Automotive Systems",4	
+185_88495,"Messner Carpeting & Flooring",4	
+185_88855,"Metalade NY, Inc.",4	
+185_88785,"MGM Associates Insurance",4	
+185_89912,"Mid-Erie Counseling & Treatment",4	
+185_89866,"Midlakes Education Ctr.",4	
+185_88143,"Midlakes High",4	
+185_888557,"Mikron Corporation",4	
+185_88721,"Millennium Machining",4	
+185_88437,"Mindex Technologies,Inc.",4	
+185_89025,"Ministerios Ciudad de Refugio",4	
+185_88870,"MKS Instruments",4	
+185_88401,"Molded Interconnect Device",4	
+185_88501,"Mon. Cty. Senior Ctr. Nutrition Pgms.",4	
+185_88144,"Monroe BOCES #1",4	
+185_88145,"Monroe BOCES #2",4	
+185_88146,"Monroe Community Coll.",4	
+185_230,"Monroe County Water Authority",4	
+185_88938,"Monroe Plan for Medical Care",4	
+185_88147,"Montessori School-Roch.",4	
+185_88313,"Mother of Sorrows Sch.",4	
+185_89206,"Mothers & More",4	
+185_88221,"Mount Morris",4	
+185_88858,"Mpower Communications",4	
+185_88485,"MRB Group",4	
+185_89036,"Mt. Olivet Baptist Church",4	
+185_89906,"Mt. Zion Progressive Miss. Baptist Church",4	
+185_88886,"MVP Health Care",4	
+185_88156,"N. Baptist Christian",4	
+185_88157,"N. Chili Christ.",4	
+185_88226,"Naples Central",4	
+185_89780,"Nativity Prep. Academy",4	
+185_88149,"Nazareth College",4	
+185_88301,"Nazareth Elementary School",4	
+185_88151,"NEA Rochester Service Ctr.",4	
+185_89207,"NeighborWorks Roch.",4	
+185_89041,"Neutral Ground",4	
+185_89087,"New Beginnings A.F.C.",4	
+185_89040,"New Beginnings Church of Life",4	
+185_89794,"New Bethel CME",4	
+185_88272,"New Conquest Mennonite",4	
+185_88152,"New Covenant Christian",4	
+185_89038,"New Hope Community Church",4	
+185_89538,"New Horizons Pgm.",4	
+185_88609,"New Jerusalem Christian",4	
+185_89540,"New Life Ministries",4	
+185_88154,"Newark Schools",4	
+185_88560,"Newborn Fellowship Christian Ctr.",4	
+185_88860,"Newport Corp.",4	
+185_88861,"Newtex Industries Inc.",4	
+185_88862,"NexPress Solutions LLC",4	
+185_88863,"Nixon Peabody LLP",4	
+185_88155,"Norman Howard",4	
+185_88632,"Nortel Networks",4	
+185_88230,"North Rose-Wolcott",4	
+185_88293,"Northeastern Catholic JHS",4	
+185_89196,"Northeastern Martial Arts",4	
+185_88864,"Northeastern Seminary",4	
+185_89814,"Northgate FM Church",4	
+185_89556,"Northridge Christian School",4	
+185_88158,"Northside Christian Academy",4	
+185_88159,"Northstar Christian",4	
+185_88629,"Northstar Christian Daycare",4	
+185_89825,"Notre Dame H.S.(Batavia)",4	
+185_89715,"Notre Dame Learning Center",4	
+185_88865,"Nukote International",4	
+185_89145,"NY Museum of Trans.",4	
+185_89555,"NYFOA-WFL Chapter",4	
+185_88986,"NYS Agriculture Experiment Sta.",4	
+185_88683,"NYS Appellate Division, 4th Dept.",4	
+185_88691,"NYS D.O.L. GeneseeCo. Career Ctr.",4	
+185_88160,"NYSUT",4	
+185_89557,"O. C. Genealogical Soc.",4	
+185_88619,"O.S.T.M.",4	
+185_88209,"Oakfield-Alabama Central",4	
+185_88591,"OASIS",4	
+185_89908,"Oasis Christian Fellowship",4	
+185_88287,"Oatka Residential Center",4	
+185_89210,"Onondaga Sch. of Massage",4	
+185_89037,"Ontario A.R.C.",4	
+185_88613,"Ontario Co. Office for the Aging",4	
+185_89902,"Ontario Shores Kennel Club",4	
+185_89178,"Ooey Gooey Playschool",4	
+185_88866,"OppenheimerFunds",4	
+185_88161,"Ora Academy",4	
+185_88203,"Orleans Co. Christian",4	
+185_88867,"Ormec Systems",4	
+185_88868,"Ortho Clinical",4	
+185_89177,"OSHER at RIT",4	
+185_88697,"Our Lady of Lourdes",4	
+185_88162,"Our Lady of Mercy High School",4	
+185_888565,"Our Lady of Peace",4	
+185_89183,"Our Lady of Peace-Relig. Ed.",4	
+185_89028,"Our Saviour Child Develop. Ctr.",4	
+185_88869,"Pace Window & Door",4	
+185_88704,"PackStar Fulfillment Solutions",4	
+185_88594,"Packstar Solutions",4	
+185_88446,"PACTECH",4	
+185_88871,"Palmer Food Services",4	
+185_88164,"Palmyra-Macedon",4	
+185_88695,"Park Ridge Free Methodist Church",4	
+185_88874,"Parlec Inc.",4	
+185_88722,"Parma Baptist Church",4	
+185_88212,"Pavilion Baptist",4	
+185_88210,"Pavilion Central",4	
+185_88875,"Paychex",4	
+185_88299,"Peace of Christ Parish",4	
+185_88566,"Pearce 4 Kids",4	
+185_89879,"Pearce Church",4	
+185_89612,"Pearl Ministries Inc.",4	
+185_88211,"Pembroke Central",4	
+185_88165,"Penfield",4	
+185_88675,"Penfield United Methodist Preschl",4	
+185_88241,"Penfield Village Nursery School",4	
+185_88235,"Penn Yan",4	
+185_88802,"Pennant Foods",4	
+185_88880,"Performance Tech.",4	
+185_89900,"Perinton Concert Band",4	
+185_88876,"PerkinElmer Fluid Sciences",4	
+185_88216,"Perry Central",4	
+185_88879,"PetSmart Inc.",4	
+185_88881,"Pfaudler Inc.",4	
+185_88882,"PGM Corp.",4	
+185_88227,"Phelps-Clifton Springs",4	
+185_89049,"Photikon Corp.",4	
+185_88453,"PICS Telecom Corp.",4	
+185_88883,"Pierce Industries",4	
+185_89822,"Pinnacle Lutheran Church",4	
+185_88285,"Pinnacle Lutheran School",4	
+185_88676,"Pitter-Patter Daycare",4	
+185_88167,"Pittsford Central",4	
+185_89176,"Pittsford Library",4	
+185_88884,"Planned Parenthood",4	
+185_89861,"Planned Parenthood-Greece",4	
+185_89857,"Planned Parenthood-Rochester",4	
+185_89800,"Pleasant Street Apothecary",4	
+185_89717,"Pluta Cancer Ctr.",4	
+185_89820,"PMDCC",4	
+185_88902,"Pointe By Pointe Dance",4	
+185_89821,"Portland Ave. Business Assoc.",4	
+185_89560,"Prayer House C.O.G.B.F.",4	
+185_89618,"Precision Packaging Products",4	
+185_89885,"Premier Dance Ctr.",4	
+185_88470,"Premier Technical Services, Inc.",4	
+185_89507,"Printer Components",4	
+185_88447,"Printing Methods,Inc.",4	
+185_89561,"Provision Full Gospel Church",4	
+185_88909,"Qioptiq Imaging Solutions",4	
+185_88887,"Qualitrol Comp.",4	
+185_89854,"R Community Bikes",4	
+185_89086,"R.D.U.A.",4	
+185_88708,"R.E.F.Exhibits",4	
+185_88483,"R.L. Kistler, Inc.",4	
+185_88715,"R.M.S.C.",4	
+185_88635,"Rainbow Preschool(Albion)",4	
+185_88636,"Rainbow Preschool(Batavia)",4	
+185_89502,"Raytec Group",4	
+185_88436,"Real Lease, Inc.",4	
+185_88231,"Red Creek",4	
+185_88168,"Red Jacket",4	
+185_89868,"Red Jacket Education Center",4	
+185_88888,"Redcom Laboratories, Inc.",4	
+185_88576,"Reformation Lutheran Church",4	
+185_88889,"Refractron Technologies",4	
+185_88463,"Regional International Corp.",4	
+185_88710,"Remanente Fiel Church",4	
+185_89803,"Renaissance Acad. School of the Arts",4	
+185_88433,"RERO Distribution Co.,Inc.",4	
+185_89022,"Restoration Life Christian",4	
+185_89776,"Retrotech, Inc.",4	
+185_88389,"Rhema Life Community Church",4	
+185_88499,"Rick Leasure Realtors, Inc.",4	
+185_88171,"RIT",4	
+185_88198,"Roberts Wesleyan Coll.",4	
+185_88610,"Roch.  Ed. Opp. Center",4	
+185_89548,"Roch. Academy Charter School",4	
+185_88172,"Roch. Acdmy of 7th Day Adventist",4	
+185_89824,"Roch. Bible Baptist",4	
+185_89702,"Roch. Career Mentoring Charter",4	
+185_88242,"Roch. Children & Youth Svcs.",4	
+185_88282,"Roch. Children's Nursery",4	
+185_89081,"Roch. Chinese Christian Church",4	
+185_88891,"Roch. District Heating",4	
+185_89566,"Roch. Family Mission",4	
+185_88505,"Roch. Federal Building",4	
+185_89050,"Roch. Hearing & Speech Ctr.",4	
+185_89514,"Roch. House of Prayer",4	
+185_88893,"Roch. Housing Authority",4	
+185_88611,"Roch. Inst.-Dog Grooming",4	
+185_89869,"Roch. Institute for Christian Ed.",4	
+185_88727,"Roch. Precision Optics",4	
+185_88173,"Roch. School for the Deaf",4	
+185_88413,"Roch. Software Associates",4	
+185_89219,"Roch. Surround Care",4	
+185_88321,"Roch.Charter Sci&Tech",4	
+185_88169,"Rochester Christian",4	
+185_88170,"Rochester City&Charter",4	
+185_88890,"Rochester Colonial",4	
+185_89827,"Rochester doTERRA",4	
+185_88677,"Rochester E.O.C.",4	
+185_88892,"Rochester Gear",4	
+185_88320,"Rochester Leadership Academy",4	
+185_88894,"Rochester Management",4	
+185_88895,"Rochester Midland",4	
+185_89745,"Rochester Optical",4	
+185_88686,"Rochester Philharmonic",4	
+185_89051,"Rochester Rehab. Ctr.",4	
+185_88601,"Rochester Steel  Works,",4	
+185_88979,"Rochester/Finger Lakes Eye & Tissue Bank",4	
+185_89871,"Rochling Advent Tool & Mold",4	
+185_89010,"Roman Catholic Bishop's Office",4	
+185_88681,"Romulus Central",4	
+185_88390,"Roosevelt Children's Ctr.",4	
+185_89890,"Roseland Bowl",4	
+185_88896,"Rotork Controls",4	
+185_88590,"Rush Nursery School",4	
+185_88174,"Rush-Henrietta",4	
+185_89873,"Rushville Community Health Ctr.",4	
+185_88612,"S. Avenue Daycare Center",4	
+185_89083,"S.E.A.S. Church",4	
+185_88897,"Sabin Metal",4	
+185_88300,"Sacred Heart Cathedral School",4	
+185_89884,"Sacred Space Spiritual Group",4	
+185_89093,"Saint Cecilia",4	
+185_88249,"Saint Kateri School",4	
+185_88569,"Salvation Army-Canan.",4	
+185_89004,"Sands Academy",4	
+185_88949,"Schlegel Systems, Inc.",4	
+185_88283,"School of the Good Shepherd",4	
+185_88284,"School of the Holy Childhood",4	
+185_88294,"School of the Nativity-BVM",4	
+185_88709,"Seasons Child Care",4	
+185_89525,"Semrock, Inc.",4	
+185_88445,"SenDEC Corporation",4	
+185_88148,"Seneca Falls",4	
+185_89197,"Seneca Waterways Council",4	
+185_88898,"Sentry Group",4	
+185_88297,"Seton Catholic School",4	
+185_89541,"Sharp Edgez Barber Inst.",4	
+185_88295,"Siena Catholic Academy",4	
+185_88899,"SIGMA Marketing Group",4	
+185_88217,"Silver Lake Mennonite",4	
+185_89099,"Society for Tech. Comm.",4	
+185_88232,"Sodus Central",4	
+185_89832,"Sodus Town Court",4	
+185_88595,"Solace at  Suite 640",4	
+185_89880,"Southside Fellowship Abiding in Christ",4	
+185_88175,"Spencerport Central",4	
+185_89100,"Spencerport F.C.U.",4	
+185_89053,"Spinergy",4	
+185_88706,"Spotlight Dance Academy",4	
+185_88901,"SPX Process Equip.-LIGHTNIN Oper.",4	
+185_88260,"St. Agnes Sch. Avon",4	
+185_88585,"St. Andrew Parish",4	
+185_88308,"St. Andrew School",4	
+185_89175,"St. Anne Church",4	
+185_89787,"St. Benedict Parish of Ontario Co.",4	
+185_88670,"St. Bernard's School of Theology",4	
+185_88307,"St. Bonafice School",4	
+185_89190,"St. Charles Borromeo",4	
+185_89899,"St. Christopher's-N. Chili",4	
+185_88263,"St. Francis DeSales-St.Stephen's",4	
+185_89613,"St. Francis Xavier Cabrini",4	
+185_89009,"St. Helen Church",4	
+185_88713,"St. Jerome's",4	
+185_89765,"St. John Bosco",4	
+185_88288,"St. John Evang. Sch.",4	
+185_88323,"St. John Fisher",4	
+185_88176,"St. John Lutheran",4	
+185_88980,"St. John Neumann School",4	
+185_88238,"St. John of Roch.",4	
+185_88315,"St. John the Evang.(Gr)",4	
+185_88900,"St. John's Health Care",4	
+185_89032,"St. John's Lutheran-Farmington",4	
+185_88177,"St. Josaphat's Ukranian Cath.",4	
+185_88253,"St. Joseph School (Batavia)",4	
+185_88310,"St. Joseph School (Penfield)",4	
+185_88705,"St. Joseph's Neighborhood Ctr.",4	
+185_88581,"St. Jude's Church",4	
+185_89733,"St. Kateri Tekakwitha Parish",4	
+185_88570,"St. Lawrence Church",4	
+185_88314,"St. Lawrence School",4	
+185_88309,"St. Louis School",4	
+185_89913,"St. Luke's Episcopal Church - Brockport",4	
+185_88584,"St. Luke's Hill Nursery School",4	
+185_88280,"St. Margaret Mary",4	
+185_89736,"St. Marianne Cope Parish",4	
+185_88627,"St. Mark's Church",4	
+185_88266,"St. Mary's School(Canandaigua)",4	
+185_89043,"St. Maximilian Kolbe",4	
+185_88268,"St. Michael School(Newark)",4	
+185_88279,"St. Michael's (PennYan)",4	
+185_89524,"St. Michael's Church",4	
+185_88392,"St. Patrick's Church-Victor",4	
+185_89784,"St. Patrick's Preschool-Victor",4	
+185_88580,"St. Paul Believers Holiness Church",4	
+185_89182,"St. Paul Luth.-Penn Yan",4	
+185_88178,"St. Paul Lutheran Sch.-Hilton",4	
+185_88255,"St. Paul Lutheran School(Batavia)",4	
+185_89570,"St. Peter's -  Henrietta",4	
+185_89516,"St. Phillip Intl. Church",4	
+185_88396,"St. Pius X Church",4	
+185_88318,"St. Pius X School",4	
+185_88289,"St. Rita's School",4	
+185_88582,"St. Theodore's Church",4	
+185_89179,"St. Vincent dePaul Church",4	
+185_88302,"St.. Monica School",4	
+185_88429,"Stantec",4	
+185_89894,"STARS Preschool Gates",4	
+185_89895,"STARS Preschool Irondequoit",4	
+185_89896,"STARS Preschool Webster",4	
+185_88669,"Stepping Stones Learning Ctr/Childcare",4	
+185_89006,"Stepping Stones-Seneca Falls",4	
+185_88787,"Stone Construction Equip.",4	
+185_88903,"Strong Health Long Term Care",4	
+185_88503,"Strong Memorial",4	
+185_89084,"Studio 34 Art Ctr.",4	
+185_89731,"Studio Move",4	
+185_89819,"Suburban Disposal",4	
+185_89017,"Summerville Presbyterian Church",4	
+185_88517,"Summit F.C.U.",4	
+185_89054,"Sunnking Recyeling",4	
+185_88276,"Sunny Haven Mennonite",4	
+185_88614,"Sunshine Daycare W.Ind.",4	
+185_88179,"SUNY Brockport",4	
+185_88199,"SUNY Geneseo",4	
+185_89729,"SUNY-Empire State-Gen. Valley Ctr.",4	
+185_88421,"Superior Interior Systems",4	
+185_89777,"Superior Plus Energy Ser.",4	
+185_88905,"Surmotech, Inc.",4	
+185_88640,"Susan B.Anthony House",4	
+185_88441,"Sutherland Service Center,Ltd.",4	
+185_88906,"SWBR Arch./Engin.",4	
+185_88707,"Sweden Senior Ctr.(Brockport)",4	
+185_89611,"Sweden-Clarkson Comm. Ctr.",4	
+185_88907,"Syntec  Optics",4	
+185_88406,"Systems Management/Planning",4	
+185_88180,"Talmudical Institute",4	
+185_88562,"Tammy Allen Dance Academy",4	
+185_89187,"Tapecon, Inc.",4	
+185_88751,"Temple B'rith Kodesh",4	
+185_88955,"Temple Sinai",4	
+185_88908,"Terphane, Inc.",4	
+185_88646,"The Credit Bureau",4	
+185_88957,"The Father's House",4	
+185_88910,"The Friendly Home",4	
+185_88911,"The Gleason Works",4	
+185_88912,"The Gunlocke Co.",4	
+185_88589,"The Landmark Society",4	
+185_89515,"The Light of Victory",4	
+185_88414,"The Nichols Team",4	
+185_88434,"The Pike Company",4	
+185_88462,"The Presentation Source",4	
+185_88438,"The Rochester Group,Inc.",4	
+185_88270,"The Sands Academy",4	
+185_88904,"The Strong",4	
+185_88405,"The Sutherland Group, Ltd.",4	
+185_88312,"The Villa of Hope",4	
+185_88859,"Thermo Fisher Scientific",4	
+185_99999,"this is a test",4	
+185_88913,"Thomas Electronics-NY",4	
+185_89872,"Thompson Health",4	
+185_88914,"Thomson Reuters",4	
+185_88915,"Time Warner Cable",4	
+185_88391,"TLC Adventures In Child Care",4	
+185_89725,"TLC Adventures in Child Care-Greece",4	
+185_89724,"TLC Adventures in Child Care-Hilton",4	
+185_89726,"TLC Adventures in Child Care-Rochester",4	
+185_89727,"TLC Adventures in Child Care-Victor",4	
+185_88248,"Toddlers' Workshop/Railrd. Junc.",4	
+185_88273,"Torrey Ridge Mennonite",4	
+185_88916,"Toshiba Business Solutions-NY",4	
+185_88291,"Tot-Al Care",4	
+185_88939,"Total Sports Experience",4	
+185_88690,"Touch of Dance",4	
+185_88917,"Touchstone Technology",4	
+185_88478,"Town and Country Travel, Inc.",4	
+185_89838,"Town of Chili",4	
+185_88978,"Town of Gaines",4	
+185_88994,"Town of Greece Campus",4	
+185_88997,"Town of Greece-Comm. & Senior Ctr.",4	
+185_88998,"Town of Greece-Court",4	
+185_88996,"Town of Greece-Library",4	
+185_88999,"Town of Greece-Nutrition Ctr.",4	
+185_88995,"Town of Greece-Town Hall",4	
+185_88682,"Town of Irondequoit",4	
+185_89851,"Town of Ontario",4	
+185_89853,"Town of Penfield",4	
+185_89834,"Town of Perinton",4	
+185_88694,"Town of Pittsford",4	
+185_88399,"Town of Riga Point of Dispensing",4	
+185_89828,"Town of Walworth",4	
+185_88277,"Townline Mennonite",4	
+185_88918,"Transcat, Inc.",4	
+185_89539,"Trek, Inc.",4	
+185_89517,"Trillium Health",4	
+185_89024,"Trinity Church of the Nazrene",4	
+185_89221,"Trinity Communion Church",4	
+185_88645,"Trinity Lamb Preschool",4	
+185_88182,"Trinity Montessori",4	
+185_88620,"Tropel Corporation",4	
+185_89779,"Tuxedo's K9 Training Camp",4	
+185_89509,"U of R Medical Ctr.",4	
+185_89839,"U.S. Bankruptcy Court",4	
+185_88919,"UCB Manufacturing",4	
+185_88920,"Ultimate Technology Corp.",4	
+185_88921,"Ultrafab Inc.",4	
+185_88922,"Ultralife Corp.",4	
+185_88714,"UMC of North Chili",4	
+185_88923,"Underberg & Kessler",4	
+185_88458,"Unilink",4	
+185_88924,"Unisys Corp.",4	
+185_89904,"United Church of Pittsford",4	
+185_89914,"United Churches of Durham",4	
+185_88925,"United Way of Roch.",4	
+185_89778,"Unither Manufacturing",4	
+185_89523,"Unity Health Systems",4	
+185_88183,"University Of Rochester",4	
+185_89901,"University Prep. Charter for Young Men",4	
+185_88587,"Urban Choice Charter School",4	
+185_88926,"USTel",4	
+185_89188,"UTC RETAIL",4	
+185_88674,"V.O.A. Children Center",4	
+185_88927,"Valeo Electrical Systems, Inc.",4	
+185_88428,"Van Bortel Motorcar,Inc.",4	
+185_88928,"Vanteon",4	
+185_88623,"Veeco Instruments,Inc.",4	
+185_88639,"Ventis M.M.S.",4	
+185_88929,"Veramark Tech.",4	
+185_89907,"Vertus Charter School",4	
+185_89782,"Veterans Outreach Ctr.",4	
+185_88184,"Victor Central",4	
+185_88616,"Victor Child Care Center",4	
+185_88015,"Victor-Dept. of  Parks & Rec.",4	
+185_888561,"Victor/Farmington Food Cupboard",4	
+185_89870,"Victorious Living Christian Life Ctr.",4	
+185_89881,"Victory Church",4	
+185_88931,"Videk, Inc.",4	
+185_88472,"Viewpoint Systems, Inc.",4	
+185_89553,"Village of E. Rochester",4	
+185_88973,"W-FL BOCES Adult /Cont. Ed.",4	
+185_88188,"W-FL BOCES Reg. Support Ctr.",4	
+185_89079,"W. A. Krapf",4	
+185_88192,"W. Irondequoit Central",4	
+185_88138,"W. Irondequoit CSD",4	
+185_88416,"Wall Street Financial Group",4	
+185_88218,"Warsaw Central",4	
+185_88515,"Warsaw Head  Start",4	
+185_88185,"Waterloo Central",4	
+185_88186,"Wayland-Cohocton Central",4	
+185_88504,"Wayne ARC",4	
+185_88187,"Wayne Central",4	
+185_89863,"Wayne Community Health Center",4	
+185_89223,"Wayne Education Ctr.",4	
+185_88974,"Wayne Tech & Career Ctr.",4	
+185_88982,"Webster Aquatic Ctr.",4	
+185_89844,"Webster Bible Church",4	
+185_88189,"Webster Central",4	
+185_88190,"Webster Christian",4	
+185_89550,"Webster Christian Reformed",4	
+185_88983,"Webster Field House",4	
+185_88191,"Webster Montessori  & W/A",4	
+185_88728,"Wee People Nursery School",4	
+185_88452,"Wegmans Food Markets, Inc.",4	
+185_89033,"West Ave. United Methodist",4	
+185_89842,"Western OTB Monroe County",4	
+185_88593,"Westfall Academy",4	
+185_88932,"Westfall Surgery Ctr.",4	
+185_89836,"Westside Pediatric Group",4	
+185_88930,"Weyerhaueser Company",4	
+185_88193,"Wheatland-Chili",4	
+185_88491,"Whirlwind Music Distributors",4	
+185_88725,"Whitestone Christian Fellowship",4	
+185_88435,"William Metrose, Ltd.",4	
+185_88233,"Williamson Central",4	
+185_89620,"Williamson Senior Citizens",4	
+185_88506,"Wilson Commencement Park",4	
+185_88597,"Women Gyn. & Childbirth-Brighton",4	
+185_88598,"Women Gyn. & Childbirth-Greece",4	
+185_88596,"Women Gyn. & Childbirth-Webster",4	
+185_88508,"Women's Health Care Clinic",4	
+185_89035,"Women's Progressive Guild",4	
+185_89909,"Woods Oviatt Gilman LLP",4	
+185_88933,"WXXI Public Broadcasting Coun.",4	
+185_88219,"Wyoming Central",4	
+185_88628,"Wyoming Co. Home Delivered Meals",4	
+185_88476,"Xelus",4	
+185_88411,"Xerographic Solutions, Inc.",4	
+185_89189,"Xerox Corp.",4	
+185_88934,"XLI Corp.",4	
+185_89527,"Yates Office for the Aging",4	
+185_89573,"Yates-Meals on Wheels",4	
+185_88935,"YMCA-Greater Roch.",4	
+185_88194,"York Central",4	
+185_88430,"Zeller Corporation",4	
+185_89209,"Zenith Acad.-Gymnastics",4	
+185_89026,"Zion Fellowship",4	
+185_88954,"Zion Hill Missionary Baptist Church",4	
+185_88936,"Zotos Internat'l.",4	

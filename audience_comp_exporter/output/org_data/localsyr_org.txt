@@ -1,0 +1,1086 @@
+17_1001477,"",4	
+17_1000541,"",4	
+17_1000665,"7th Day Adventist Church, Westvale",4	
+17_1001141,"A&E Transport, Minetto",4	
+17_1001321,"ABC Dance Academy",4	
+17_1000537,"Abundant Life Christian Center",4	
+17_1001097,"Active Physical Therapy Solutions",4	
+17_1000925,"Agogi Martial Arts",4	
+17_1000433,"AmeriCU Credit Union",4	
+17_1000829,"Apple Valley UMC, Nedrow",4	
+17_1001357,"Artistic Designs Dance Company",4	
+17_1001161,"Auburn YMCA-WEIU",4	
+17_1001453,"Baldwinsville Community Band",4	
+17_1000597,"Baldwinsville Public Library",4	
+17_1000721,"Ballet & Dance Center, DeWitt",4	
+17_1001417,"Bellevue Heights Nursery School",4	
+17_1000989,"Bellevue Heights UMC",4	
+17_1001045,"Berean Calvary Chapel",4	
+17_1000441,"Bet Havarim",4	
+17_1001133,"Birnie Bus Service",4	
+17_1001289,"Blaze Gymnastics",4	
+17_1001085,"Bluebird Music Together",4	
+17_1000845,"Bounce, Fun and More",4	
+17_1001237,"Bousquet Holstein",4	
+17_1000705,"Bowens Cors. United Methodist",4	
+17_1000817,"Calvary Baptist Church, Fulton",4	
+17_1000841,"Calvary Baptist Church, Pulaski",4	
+17_1000673,"Calvary Chapel, Seneca Falls",4	
+17_1000773,"Calvay Baptist Church, Fulton",4	
+17_1001197,"Camillus Surgery Center",4	
+17_1001273,"Canastota AYSO",4	
+17_1000397,"Canines Unleashed",4	
+17_1001281,"Cayuga/Seneca Comm. Action Agency",4	
+17_1000941,"Cazenovia School of Ballet",4	
+17_1000437,"Center of Ballet & Dance Arts",4	
+17_1000393,"Central Square Community Church",4	
+17_1000965,"Central Square Library",4	
+17_1000849,"Champions Martial Arts, Fairmount",4	
+17_1000601,"Chenango Nursery School",4	
+17_1000737,"Childtime",4	
+17_1001389,"Christ Community UMC",4	
+17_1000689,"Church of the Resurrection, Oswego",4	
+17_1000385,"Cicero United Methodist Church",4	
+17_1000753,"Cicero-NS Optimist Club",4	
+17_1000641,"City of Oneida Recreation Center",4	
+17_1001385,"Clay Community Church",4	
+17_1001509,"Clear Path for Veterans",4	
+17_1001065,"Clinton Central",4	
+17_1000733,"CNY Dialysis",4	
+17_1000861,"CNY Medical Products",4	
+17_1001225,"CNY Performing Arts Center",4	
+17_1000997,"CNYHSEN",4	
+17_1000837,"Community Alliance Church, New Haven",4	
+17_1001469,"Congregation Beth Shalom-Chevra Shas",4	
+17_1000909,"Continental School of Beauty",4	
+17_1000593,"Cooperative Federal Credit Union",4	
+17_1000749,"Cornell Co-op Ext., Cayuga County",4	
+17_1001337,"Cortland City Ballet",4	
+17_1001485,"Cortland Co. Nutrition Program",4	
+17_1001473,"Creation Studio",4	
+17_1001501,"Creative Minds Montessori",4	
+17_1001433,"Crouse Radiology Associates",4	
+17_1000625,"Curves, Camden",4	
+17_1001157,"CVS School of Dance",4	
+17_1000953,"Dance Centre North",4	
+17_1000949,"Destiny Christian Center",4	
+17_1001445,"Divine Mercy Parish",4	
+17_1001457,"Eastwood American Legion",4	
+17_1001405,"Elmcrest Early Education Center",4	
+17_1001313,"Empire St. Dance Center",4	
+17_1000605,"Empower FCU",4	
+17_1001397,"Epstein School",4	
+17_1000917,"Erie Canal Cloggers",4	
+17_1001409,"Exploring Your World",4	
+17_1001373,"Fabius Pompey Outreach",4	
+17_1001201,"Fairmount Community Library",4	
+17_1000945,"FEAT",4	
+17_1001493,"Fellowship Baptist Church",4	
+17_1001517,"Fellowship Baptist Church",4	
+17_1001513,"Fellowship Baptist Church",4	
+17_1000801,"First Baptist Church,  Baldwinsville",4	
+17_1000785,"First Baptist Church, Memphis",4	
+17_1000825,"First Baptist Church, Mexico",4	
+17_1000449,"First English Lutheran Church",4	
+17_1000677,"First United Methodist Church, Minoa",4	
+17_1000577,"First United Methodist Church, Phoenix",4	
+17_1001209,"Five Star Martial Arts",4	
+17_1001309,"Food Bank of CNY",4	
+17_1001525,"Friends in Faith Preschool",4	
+17_1000613,"Fulton River of Life AG",4	
+17_1001093,"Fulton Youth Hockey Assoc.",4	
+17_1000565,"Geddes Seniors",4	
+17_1000889,"Geneva ABCD",4	
+17_1001529,"God's Way Church, Syracuse",4	
+17_1000865,"Gotta Dance Performing Art Studio",4	
+17_1001449,"Grace Baptist Church, Syracuse",4	
+17_1001033,"Greater Evangelical Church, COGIC",4	
+17_1001297,"Hamilton Orthopeaedic Surgery",4	
+17_1001265,"Hammond-Irving, Inc.",4	
+17_1001325,"Hannibal Free Library",4	
+17_1000961,"Hannibal Nursery School",4	
+17_1000709,"Hannibal United Methodist Church",4	
+17_1001249,"Hobart & William Smith Colleges",4	
+17_1001437,"Holy Cross Church, DeWitt",4	
+17_1000341,"Holy Temple Church, Syracuse",4	
+17_999929,"Home Aides of CNY",4	
+17_1000905,"Home Learners' Assoc. of CNY",4	
+17_1000981,"Honey Tree Day Care",4	
+17_1000649,"Howlett Hill Presbyterian Church",4	
+17_1000653,"Iannuzzo's Black Belt Academy",4	
+17_1001381,"IDMR, East Syracuse",4	
+17_1001029,"Immanuel Lutheran Church, Clay",4	
+17_1001069,"Immanuel Temple COGIC",4	
+17_1001353,"Inlet Common School",4	
+17_1001081,"Italian-American Athletic Club",4	
+17_1001177,"Ivy League Nursery",4	
+17_1000809,"Jordan United Methodist Church",4	
+17_1000713,"Junior Achievement",4	
+17_999945,"Kami's Kix Dance Studio",4	
+17_1000937,"Karate John's Martial Arts Center",4	
+17_1001221,"KinderCare Learning Ctr., Liverpool",4	
+17_999961,"Koala Kare Childcare Center",4	
+17_1000881,"LaFayette Alliance Church",4	
+17_1000985,"Lamont Memorial Library, McGraw",4	
+17_1001329,"Learn to Skate",4	
+17_1001365,"Leatherstocking Club",4	
+17_1001481,"Lioness Club of Central Square",4	
+17_1000337,"Lisa's Centre of Dance, Oswego",4	
+17_1001165,"Little Lukes Childcare",4	
+17_1000781,"Little Utica United Methodist",4	
+17_1001057,"Liverpool 1st United Methodist Church",4	
+17_1001053,"Liverpool Art Center",4	
+17_1000973,"Liverpool Elks Lodge",4	
+17_1000345,"Liverpool Presbyterian Church",4	
+17_1000969,"Liverpool Ward of Church of Latter-Day-Saints",4	
+17_1001105,"Living and Learing Day Care",4	
+17_1000729,"Luther Memorial Church",4	
+17_1001533,"MACNY",4	
+17_1000585,"Madison Irving Pediatrics",4	
+17_1001077,"Manlius United Methodist Church",4	
+17_1001505,"Marcellus Parent Nursery",4	
+17_1000669,"Marcus Whitman School",4	
+17_1000697,"Maxwell Memorial Library, Camillus",4	
+17_1001153,"Meals on Wheels, North Seneca County",4	
+17_1001245,"Medical Center West",4	
+17_1001241,"Mercy Works",4	
+17_1001013,"Mexico Public Library",4	
+17_1000581,"Mitten Fluidpower",4	
+17_1000549,"My Gym Children's Fitness Center",4	
+17_1000977,"NAS Learning Center",4	
+17_1000417,"New Beginnings Christian Church",4	
+17_1001205,"New Testament Baptist Church",4	
+17_1001361,"Newfield Central",4	
+17_1001429,"Noah's Christian Nursery School",4	
+17_1000681,"Norstar Ski Club",4	
+17_1000589,"North East Academy of Martial Arts",4	
+17_1001345,"Northern NY Dance Academy",4	
+17_1001005,"Northminster Presbyterian Church",4	
+17_1000685,"Nortrip Masonic Lodge #998",4	
+17_1000377,"Oneida Area Civic Chorale",4	
+17_1001217,"Oneida Area Day Care",4	
+17_1001125,"Oneida Driving School",4	
+17_1001461,"Oneida Family YMCA",4	
+17_1001293,"Oneida Molded Plastics",4	
+17_1000701,"Onondaga Community College",4	
+17_1001185,"Opportunities for Chenango",4	
+17_1001317,"Osceola Public Library",4	
+17_1001017,"Oswego Center UMC",4	
+17_1001229,"Oswego Co. City-County Youth Bureaun",4	
+17_1000561,"Oswego Laker Swim Club",4	
+17_1001009,"Over The Rainbow Child Care",4	
+17_1001349,"Owen D. Young School",4	
+17_1001521,"Pacific Health Club",4	
+17_1000761,"Parker Community Center, Camden",4	
+17_1001173,"Parker Hannifin",4	
+17_1001233,"Pave The Way Day Care",4	
+17_1000545,"Penn Yan Central",4	
+17_1000757,"Pennellville Fire Department",4	
+17_1000573,"Pennellville United Methodist Church",4	
+17_1000621,"Peterson Sewing School",4	
+17_1000521,"Phoenix Community Band",4	
+17_1001149,"Poland Central",4	
+17_1001441,"Pompey Community Church",4	
+17_1000661,"Port Byron Food Pantry",4	
+17_1001145,"Powers Library, Moravia",4	
+17_1000457,"Prince of Peace Lutheran Church",4	
+17_1001073,"Pulaski American Legion",4	
+17_1000489,"Pulaski Curves",4	
+17_1000429,"Pulaski Health Center",4	
+17_1001269,"RB Woodcraft, Inc.",4	
+17_1000413,"Red Creek-Westbury UMC",4	
+17_1001257,"River Rhythms Dance Center",4	
+17_1001465,"Rome Family YMCA",4	
+17_1001401,"Rome Laboratory",4	
+17_1001089,"Romulus Fire Department",4	
+17_1000797,"Rose Hill Baptist Church",4	
+17_1001113,"Sacred Heart Church, Auburn",4	
+17_1001181,"Salt City Karate",4	
+17_1000805,"SBDC at OCC",4	
+17_1001537,"Seneca Bible Baptist Academy",4	
+17_1001061,"Shining Stars Day Care",4	
+17_1001333,"Shirts n' Skirts",4	
+17_1001253,"ShoppingTown Mall",4	
+17_1000617,"Silver Fox Senior Club",4	
+17_1001305,"Skaneateles UMC",4	
+17_1000637,"Solvay Public Library",4	
+17_1001277,"Sotoomayer & Schaeffer",4	
+17_1001037,"Southern Missionary Baptist Church",4	
+17_1000725,"Southern Wine & Spirits",4	
+17_1000465,"Spencer Van Etten Central",4	
+17_1000833,"St. Bernard's Church, Waterville",4	
+17_1000877,"St. Francis-St. Hyacinth, Auburn",4	
+17_1000193,"St. Francis-St. Stephens, Geneva",4	
+17_1000717,"St. John The Baptist Ukrainian",4	
+17_1000329,"St. Margaret's, Homer",4	
+17_1000381,"St. Mark's Episcopal,  Syracuse",4	
+17_1001025,"St. Mark's Lutheran Church, Baldwinsville",4	
+17_1000553,"St. Paul's Lutheran Church, Penn Yan",4	
+17_1001301,"St. Paul's Nursery/Preschool, Syr.",4	
+17_1000857,"St. Peter's-Sacred Heart, Oswego",4	
+17_1001213,"SU Art Workshops for Young People",4	
+17_1000813,"Summit Federal Credit Union",4	
+17_1000897,"SUNY EOC",4	
+17_1001021,"SW Oswego United Methodist Church",4	
+17_1001489,"Syracuse Community Choir",4	
+17_1001545,"Syracuse Community Hebrew School",4	
+17_1001341,"Syracuse ENT Surgeons",4	
+17_1000657,"Syracuse Habitat for Humanity",4	
+17_1001041,"Syracuse Homeschool Choir",4	
+17_1000633,"Syracuse Indoor Sports Center",4	
+17_1001189,"Syracuse Jewish Family Service",4	
+17_1001497,"Syracuse Martial Arts Academy",4	
+17_1000769,"Syracuse Polish Home",4	
+17_1000921,"Syracuse Vineyard Children's Ctr.",4	
+17_1001121,"Tawn Marie's Dance Centre",4	
+17_1001285,"The Barking Orange Pet Day Care",4	
+17_1001425,"The Growing Place",4	
+17_1000885,"The Movement Box Dance Studio",4	
+17_1001541,"The New School",4	
+17_1000569,"The New School Elementary",4	
+17_1001393,"The Newland Center",4	
+17_1000957,"The Promise Land Church",4	
+17_1001377,"Third Day Worship Centre",4	
+17_1001101,"Together We Grow Child Care",4	
+17_1000525,"Tot Drop & Lunch Bunch Childcare",4	
+17_1000893,"Town of Camillus",4	
+17_1000901,"Town of Manlius",4	
+17_1001193,"Trinity Baptist Church",4	
+17_1000873,"Trinity Catholic School, Oswego",4	
+17_1000765,"Trinity UMC, Oswego",4	
+17_1000869,"Trinty Baptist Church, Syracuse",4	
+17_1000821,"True Vine Baptist Church",4	
+17_1001369,"Trufitness Health and Wellness",4	
+17_1000389,"United Church of Fayetteville",4	
+17_1001049,"University Dialysis",4	
+17_1000745,"USA Dance Oswego, Ch. 3057",4	
+17_1000913,"Vera House",4	
+17_1001169,"Verona 7th Day Baptist Church",4	
+17_1000789,"Warners United Methodist Church",4	
+17_1000645,"Weedsport Free Library",4	
+17_1000853,"WelchAllyn, Inc.",4	
+17_1001137,"Wells College",4	
+17_1000557,"West Baptist Church, Oswego",4	
+17_1000609,"Westcott Community Center",4	
+17_1000933,"Wetzel Road Church of Christ",4	
+17_1001129,"Women's Opportunity Center",4	
+17_1001413,"Word of Life Church",4	
+17_1000693,"WSYR School Alert",4	
+17_1000629,"YWCA, Syracuse",4	
+17_732722,"Abundant Life Academy",4	
+17_452171,"Adirondack Central School",4	
+17_638537,"Aesthetic Science Institute",4	
+17_987851,"Alcan Employees Credit Union",4	
+17_361543,"All Saints Elementary, Syracuse",4	
+17_000150,"Altmar-Parish-Williamstown Schools",4	
+17_335071,"ARC Yates County",4	
+17_599496,"Auburn City Schools",4	
+17_000002,"Bainbridge-Guilford Central",4	
+17_000003,"Baldwinsville Central",4	
+17_000033,"Baldwinsville Christian Academy",4	
+17_671870,"Baldwinsville Wesleyan Church",4	
+17_000372,"BASCOL Childcare",4	
+17_000486,"BASCOL, Sacred Heart",4	
+17_000485,"BASCOL, Stonehedge",4	
+17_000145,"Believers' Chapel School",4	
+17_000004,"Belleville-Henderson Central",4	
+17_000155,"Bishop Grimes",4	
+17_000005,"Bishop Ludden",4	
+17_000006,"Blessed Sacrament",4	
+17_000007,"Brookfield Central",4	
+17_000008,"Bryant and Stratton",4	
+17_530088,"BVM Academy",4	
+17_018794,"Camden Central",4	
+17_407639,"Canandaigua Schools",4	
+17_000160,"Canastota Central",4	
+17_715984,"CAPCO Head Start of Cortland",4	
+17_999845,"Cascadilla School",4	
+17_000009,"Cathedral Academy at Pompei School",4	
+17_000010,"Cato-Meridian Central",4	
+17_000011,"Cayuga CC, Auburn Campus",4	
+17_377538,"Cayuga CC, Fulton Campus",4	
+17_000149,"Cayuga-Onondaga BOCES",4	
+17_977178,"Cazenovia Central",4	
+17_000267,"Cazenovia College",4	
+17_000013,"Central Square Schools",4	
+17_078966,"Central Tech",4	
+17_468400,"Cherry Valley-Springfield Central",4	
+17_000527,"Children's Center, Morrisville",4	
+17_620966,"Children's Center, Oswego",4	
+17_000015,"Chittenango Central",4	
+17_000151,"Christian Brothers Academy",4	
+17_833252,"Cincinnatus Central",4	
+17_395912,"Cincinnatus Christian Academy",4	
+17_000075,"CITI (Oswego County BOCES)",4	
+17_271204,"Cleveland Head Start",4	
+17_865260,"Clyde-Savannah Schools",4	
+17_865809,"CNY Charter School",4	
+17_874731,"CNY Karate School",4	
+17_573280,"Colgate University",4	
+17_000144,"Columbia College",4	
+17_287782,"Community School of Music and Arts",4	
+17_661282,"Cornell Co-op Ext., Onondaga Cty",4	
+17_000135,"Cornell University",4	
+17_000146,"Cortland Christian Academy",4	
+17_000163,"Cortland City Schools",4	
+17_550111,"Cortland County BOCES",4	
+17_000557,"Cortland Cty Child Dev Center",4	
+17_004369,"Covenant Love Community School",4	
+17_000022,"Crouse School of Nursing",4	
+17_466206,"CSCAA Headstart, Auburn",4	
+17_342361,"CSCAA Headstart, Moravia",4	
+17_000454,"Day Treatment Pgm. for Children",4	
+17_969630,"Del.-Chen.-Madison-Otsego BOCES",4	
+17_677600,"DeRuyter Central",4	
+17_1000425,"Determination Center of CNY",4	
+17_135967,"Dexterville SDA Church School",4	
+17_000025,"Downsville Central",4	
+17_000027,"Dryden Central",4	
+17_000026,"Dundee Schools",4	
+17_000268,"E. John Gavras Center",4	
+17_1000205,"Earlville Preschool",4	
+17_982019,"East Syracuse Minoa",4	
+17_605249,"Edmeston Central",4	
+17_999897,"Educational Opportunity Ctr., Morrisville",4	
+17_238053,"Empire State College",4	
+17_000271,"Fabius-Pompey Schools",4	
+17_000158,"Fairmount Nursery School",4	
+17_000034,"Faith Heritage",4	
+17_000035,"Fayetteville-Manlius Schools",4	
+17_1000257,"Finger Lakes Christian School",4	
+17_999909,"Finger Lakes Community College",4	
+17_099999,"For School & Business closings",4	
+17_000273,"Franziska Racker Preschool Ctr",4	
+17_000038,"Fulton City Schools",4	
+17_361155,"Fulton Head Start",4	
+17_000039,"Geneva Schools",4	
+17_000040,"Gilbertsville Central",4	
+17_000409,"Gingerbread House",4	
+17_152218,"Grace Chapel, Skaneateles",4	
+17_000041,"Greene Central",4	
+17_000042,"Groton Central",4	
+17_000043,"Hamilton Central",4	
+17_000524,"Hammondsport Central School",4	
+17_000045,"Hannibal Central",4	
+17_322188,"Hannibal Head Start",4	
+17_638545,"Heritage Farm, Inc.",4	
+17_000172,"Highbridge Nursery School",4	
+17_575064,"Holland Patent Central",4	
+17_1000137,"Holy Cross Academy, Oneida",4	
+17_172964,"Holy Cross School, DeWitt",4	
+17_278306,"Holy Family Church, Auburn",4	
+17_000088,"Holy Trinity School",4	
+17_389577,"Holy Trinity/Fulton",4	
+17_696403,"Homer Central",4	
+17_433136,"Honey Tree Day Care",4	
+17_020329,"Huntington Learning Ctr.",4	
+17_926865,"Ihsan School of Excellence",4	
+17_189836,"Immaculate Conception, Fayetteville",4	
+17_557173,"Immaculate Heart of Mary, Liverpool",4	
+17_000049,"Ithaca City Schools",4	
+17_000184,"Ithaca College",4	
+17_000521,"ITT Technical Institute",4	
+17_000575,"Jamesville-DeWitt Schools",4	
+17_263875,"Jean-Elaine School of Dance",4	
+17_1000165,"Jefferson-Lewis BOCES",4	
+17_051391,"Jordan-Elbridge Children's Workshop",4	
+17_000164,"Jordan-Elbridge Schools",4	
+17_000280,"Jowonio School",4	
+17_270896,"Keuka College",4	
+17_738689,"Knowledge Learning Corp.",4	
+17_509519,"Kumon Math & Reading Ctr.",4	
+17_391208,"LaFayette Central",4	
+17_473456,"Lampher's Student Transport",4	
+17_000051,"Lansing Central",4	
+17_000052,"Le Moyne College",4	
+17_918845,"Little Lamb Preschool",4	
+17_730782,"Liverpool Central",4	
+17_465995,"Liverpool School of Dance",4	
+17_000054,"Living Word Academy",4	
+17_000055,"Lyncourt School",4	
+17_000137,"Lyons Central",4	
+17_000166,"Madison Central",4	
+17_000279,"Madison Cty. Head Start",4	
+17_000056,"Madison-Oneida BOCES",4	
+17_000165,"Manlius Pebble Hill",4	
+17_000057,"Marathon Central",4	
+17_000058,"Marcellus Central",4	
+17_667239,"McAuliffe Paper",4	
+17_000060,"McGraw Central",4	
+17_343497,"McNeil & Co., Inc.",4	
+17_626997,"Meals on Wheels, F-M/J-D",4	
+17_786814,"Meals on Wheels, Tompkins County",4	
+17_000305,"Merriday School",4	
+17_000525,"Mexico Central",4	
+17_312129,"Minetto Nursery Program",4	
+17_999989,"Mohawk Valley CC",4	
+17_999993,"Montessori Discovery School",4	
+17_625370,"Montessori School of Syracuse",4	
+17_000061,"Moravia Central",4	
+17_999997,"Morrisville State, Norwich Campus",4	
+17_000059,"Morrisville-Eaton Schools",4	
+17_881370,"Mt. Markham Central",4	
+17_000066,"New Hartford Central",4	
+17_000187,"New Life Christian School",4	
+17_237162,"New York Chiropractic College",4	
+17_000068,"North Rose-Wolcott Schools",4	
+17_866342,"North Syracuse Public & Parochial",4	
+17_000070,"Norwich City Schools",4	
+17_000531,"Odessa-Montour Central",4	
+17_000071,"Oneida City Schools",4	
+17_000171,"Onondaga Central",4	
+17_000483,"Onondaga Co. Head Start/EHS",4	
+17_000136,"Onondaga County  Head Start",4	
+17_877214,"Onondaga County BOCES",4	
+17_000274,"Onondaga Nation School",4	
+17_000418,"Onondaga School of Massage",4	
+17_109205,"Oriskany Central Schools",4	
+17_163994,"Oswego City Schools",4	
+17_158632,"Oswego Community Christian School",4	
+17_000564,"Oswego County Head Start",4	
+17_000077,"Otselic Valley Schools",4	
+17_000080,"Parkview Academy",4	
+17_000281,"Peanut Butter Nursery School",4	
+17_000167,"Phoenix Central",4	
+17_527155,"Phoenix Community Nursery School",4	
+17_469781,"Phoenix Headstart",4	
+17_701372,"Port Byron Schools",4	
+17_1000453,"Providence Christian School",4	
+17_000082,"Pulaski Central",4	
+17_752298,"Pulaski Head Start",4	
+17_183514,"Red Creek Central",4	
+17_193495,"Remsen Central",4	
+17_193134,"Richfield Springs Central",4	
+17_659890,"Rome City Public & Parochial",4	
+17_325703,"Romulus Central",4	
+17_704833,"Salem Hyde Elementary, Syracuse",4	
+17_000101,"Sandy Creek Central",4	
+17_000103,"Schenevus Central",4	
+17_204350,"Seneca Falls Central",4	
+17_708194,"Senior Companion Pgm/Syr. DSO",4	
+17_1000233,"Shade  of Orange Art Studio",4	
+17_000105,"Sherburne-Earlville Schools",4	
+17_000169,"Skaneateles Central",4	
+17_164185,"Solvay Schools",4	
+17_000109,"South Jefferson Central",4	
+17_790429,"South Lewis Central",4	
+17_000520,"South Seneca Central",4	
+17_000112,"Southern Cayuga Central",4	
+17_031734,"Southside Academy Charter School",4	
+17_000185,"St. Elizabeth Ann Seton Pre-School",4	
+17_191936,"St. Margaret's School, Mattydale",4	
+17_808963,"St. Mary's School, Cortland",4	
+17_000115,"St. Paul's Pre-K, Whitesboro",4	
+17_000113,"Stockbridge Valley Schools",4	
+17_718794,"SUNY Brockport",4	
+17_000117,"SUNY Cortland",4	
+17_404059,"SUNY ESF",4	
+17_742853,"SUNY IT Utica",4	
+17_031418,"SUNY Morrisville",4	
+17_124426,"SUNY Oswego",4	
+17_058952,"SUNY Upstate Medical University",4	
+17_434066,"Syracuse Academy of Science",4	
+17_000087,"Syracuse Catholic Schools",4	
+17_000265,"Syracuse Hebrew Day School",4	
+17_000086,"Syracuse Public Schools",4	
+17_000120,"Syracuse University",4	
+17_000182,"Temple Beth El Hebrew Day School",4	
+17_254846,"Test 1 -- do not delete",4	
+17_995830,"Test 2 -- do not delete",4	
+17_1000133,"Test School",4	
+17_449479,"TLC Nursery School",4	
+17_000183,"Tompkins Cortland CC",4	
+17_000156,"Tompkins-Seneca-Tioga BOCES",4	
+17_764246,"Town of Webb-Old Forge Schools",4	
+17_000122,"Trumansburg Central",4	
+17_000124,"Tully Central",4	
+17_317370,"Tully Nursery School",4	
+17_458353,"Tyburn Academy",4	
+17_026795,"UMOJA Aviation Cadet Program",4	
+17_517636,"Unadilla Valley Schools",4	
+17_349808,"Union Springs Schools",4	
+17_000126,"University College",4	
+17_140301,"Utica College/Burrstone Road Campus",4	
+17_000127,"Vernon-Verona-Sherrill Schools",4	
+17_000128,"Walton Central",4	
+17_272105,"Waterloo Central",4	
+17_000129,"Waterville Central",4	
+17_999797,"Web Site Test -- do not delete",4	
+17_000130,"Weedsport Central",4	
+17_000131,"West Genesee Central",4	
+17_592988,"West Side Learning Center",4	
+17_522314,"West Side Nursery School",4	
+17_000132,"Westhill Central",4	
+17_000133,"Westmoreland Central",4	
+17_525618,"Whitesboro Public & Parochial",4	
+17_943561,"Williamstown Head Start",4	
+17_230093,"Word of Life Academy",4	
+17_064210,"YWCA Childcare Center",4	
+17_999857,"Children's Beginnings",4	
+17_306015,"DeWitt Little Lukes, East Syracuse",4	
+17_882449,"Kiddie Company Day Care",4	
+17_1000153,"Kidz Club, Phoenix",4	
+17_999949,"KinderCare Learning Ctr., Brittonfield",4	
+17_999953,"KinderCare Learning Ctr., East Syracuse",4	
+17_000283,"Kirkpatrick Day Program",4	
+17_999965,"Lake Ontario ABCD",4	
+17_999969,"Lean On Me Day Care",4	
+17_038130,"Learn As You Grow",4	
+17_999973,"Learning Universe",4	
+17_988301,"Liverpool Community Nursery",4	
+17_159264,"Lydia's Lullaby Day Care Center",4	
+17_1000533,"Mara's Teddy Dreams Day Care",4	
+17_1000261,"Marcellus Community Childcare",4	
+17_1000001,"MUM Preschool",4	
+17_154033,"Nurturing World Child Care",4	
+17_000079,"Parkside Children's Center",4	
+17_043953,"Phoenix Children's Center",4	
+17_139852,"Red Creek ABCD",4	
+17_764931,"Rothschild Early Childhood Center",4	
+17_000386,"Salvation Army SW Daycare",4	
+17_1000277,"Skaneateles Early Childhood Ctr",4	
+17_000449,"Small Wonder Daycare/SPICE",4	
+17_000308,"SonShine Child Care",4	
+17_000100,"St. Vincent de Paul Day Care",4	
+17_1000221,"Stepping Stone Pre-School, Seneca Falls",4	
+17_000180,"SUNY HSC Childcare",4	
+17_1000077,"SUNY Upstate Child Care",4	
+17_1000101,"The Early Learning Center",4	
+17_560057,"City of Rome",4	
+17_999813,"Hancock Field ANG Base",4	
+17_000513,"Jefferson County",4	
+17_000514,"Lewis County",4	
+17_557563,"Madison County Dept of Personnel",4	
+17_1000141,"NYS Appellate Courts Division",4	
+17_524632,"OCWA",4	
+17_220686,"Oneida County",4	
+17_909582,"Onondaga County Parks",4	
+17_204703,"Oswego County Personnel",4	
+17_000359,"Seneca County",4	
+17_000333,"Tompkins County",4	
+17_016127,"Town of Clay Recreation Dept",4	
+17_571274,"Town of DeWitt",4	
+17_256668,"Town of Granby",4	
+17_716276,"Town of Hannibal",4	
+17_844250,"Town of Ira",4	
+17_823974,"Town of Lansing Parks and Rec",4	
+17_014249,"Town of New Haven",4	
+17_268771,"Town of Oswego",4	
+17_719617,"Town of Pompey",4	
+17_000546,"Town of Salina",4	
+17_174973,"Town of Schroeppel",4	
+17_372062,"Town of Scriba",4	
+17_839538,"Town of Sterling",4	
+17_870290,"Town of Sullivan Parks and Rec.",4	
+17_387430,"Town of Victory",4	
+17_000539,"Town of Volney",4	
+17_957377,"Village of Baldwinsville",4	
+17_066136,"Village of East Syracuse",4	
+17_1000529,"Village of Fayetteville",4	
+17_846753,"Yates County",4	
+17_000153,"A & E Transport, Syracuse",4	
+17_640130,"A.L. Lee Memorial Hospital",4	
+17_733284,"AAA Driver Programs",4	
+17_1000509,"Abbott's TaeKwonDo, Mexico",4	
+17_113756,"Acadia Insurance",4	
+17_1000125,"ACMG Federal Credit Union",4	
+17_741244,"Agway",4	
+17_640845,"Alcan Aluminum Corp.",4	
+17_727041,"Allergy-Asthma-Rheumatology Assoc.",4	
+17_999817,"Alliance Bank",4	
+17_1000177,"Allred & Associates",4	
+17_836573,"Alternatives Transportation Srv.",4	
+17_352191,"Anaren Microwave, Inc.",4	
+17_103481,"ARC Madison-Cortland Cty",4	
+17_999825,"ARC Oswego County",4	
+17_610769,"Armstrong Mold Corp.",4	
+17_1000349,"Associated Medical Professionals of NY",4	
+17_000417,"Auburn NY Federal Credit Union",4	
+17_000194,"Auburn Vacuum Forming Co.",4	
+17_669279,"AXA Equitable",4	
+17_200442,"Babbitt Bearings, Inc.",4	
+17_987210,"Ballet & Dance of Upstate NY",4	
+17_449087,"Barnes & Cone",4	
+17_000530,"BASCOL, Liverpool",4	
+17_000570,"Beacon Federal",4	
+17_339117,"Benbow Chemical Packaging",4	
+17_999837,"Bennett Conservatory",4	
+17_1000129,"Berkshire Bank, Oriskany Falls",4	
+17_605151,"Bo Mer Plastics",4	
+17_000202,"Bomac",4	
+17_222241,"Bombardier Transportation",4	
+17_688673,"BorgWarner Morse TEC",4	
+17_487174,"Brewerton Community Child Care",4	
+17_543623,"Buckbee Mears Co.",4	
+17_1000493,"Burger's Karate",4	
+17_263400,"CABLExpress",4	
+17_449589,"Camillus Consolidated Water District",4	
+17_000317,"Carousel Center",4	
+17_000352,"Carrier Corp.",4	
+17_000526,"Cayuga Bank",4	
+17_999849,"Cayuga Counseling Serivces",4	
+17_206641,"Cayuga County",4	
+17_000535,"Cayuga Cty Civil Service Comm.",4	
+17_759048,"Celebrations Dance Center",4	
+17_000544,"Centro Buses",4	
+17_024361,"CH Insurance",4	
+17_000190,"Chase Manhattan Corp.",4	
+17_330971,"Children's Place Day Care, Oswego",4	
+17_1000237,"Children's Therapy Network",4	
+17_651095,"Chittenango Child Care Center",4	
+17_566095,"CHOICES at Crouse Hospital",4	
+17_917919,"City of Fulton",4	
+17_587814,"City of Oswego",4	
+17_000334,"City of Syracuse",4	
+17_000523,"Clestra Cleanroom Inc.",4	
+17_000207,"Clinton's Ditch Coop.",4	
+17_484859,"CNY Gym Centre",4	
+17_1000241,"CNY Teaching Center",4	
+17_1000477,"CNY Yoga Center",4	
+17_000435,"Computer Education Services",4	
+17_502231,"ConMed",4	
+17_000304,"Consumer Credit Counseling",4	
+17_449007,"Cooper Tools",4	
+17_999873,"Cornell Co-op Ext., Madison Cty",4	
+17_999877,"Cornell Co-op Ext., Oswego Cty",4	
+17_1000361,"Countryside FCU",4	
+17_066804,"Countryway Insurance",4	
+17_000414,"County North Children's Center",4	
+17_999881,"CPS",4	
+17_000021,"Creative Environment",4	
+17_144778,"Crouse Hinds",4	
+17_261740,"Crouse Hosp Outpatients Chem. Dep.",4	
+17_666542,"Custom Tool & Model Corp.",4	
+17_073871,"CWR Manufacturing",4	
+17_061182,"DAV Transportation",4	
+17_000419,"Defense Contract Mgmt Command",4	
+17_000562,"DePaul Day Care Corp.",4	
+17_318589,"DHD Healthcare Corp.",4	
+17_639338,"Diemolding Corp.",4	
+17_695584,"Discovery Day Care of Phoenix",4	
+17_513819,"Dr. Carlos Dator",4	
+17_174795,"E-One New York, Inc",4	
+17_401043,"Eagle Comtronics, Inc.",4	
+17_584597,"Eastwood Baptist Nursery",4	
+17_1000313,"Eldercare Social Day Program",4	
+17_016632,"Empire DM, Inc.",4	
+17_758322,"Empire Federal Credit Union",4	
+17_417897,"Empire Medicare Services",4	
+17_000191,"Empire Transportation Services",4	
+17_000177,"Endometriosis Group of CNY",4	
+17_567852,"Ernst & Young, Syracuse",4	
+17_999901,"Everson Museum",4	
+17_817820,"Excellus BCBS, CNY region",4	
+17_355436,"Excellus BCBS, Utica",4	
+17_823925,"Falso Industries",4	
+17_641596,"Farah Dermatology Center/Fulton",4	
+17_757993,"Farnham, Inc.",4	
+17_371148,"Ferris Industries",4	
+17_643443,"First Niagara Bank",4	
+17_258128,"Food & Drug Admin, Syracuse",4	
+17_655046,"Foodnet",4	
+17_572132,"Frazer & Jones",4	
+17_492460,"Goulds Pumps",4	
+17_090084,"Griffiss Business & Technology Park",4	
+17_000349,"Hancock Intl. Airport",4	
+17_000547,"Hanley Federal Building",4	
+17_1000317,"Harbor Lights, Mexico",4	
+17_469292,"Haylor, Freyer & Coon",4	
+17_529970,"Healing Rooms",4	
+17_999925,"Healing Rooms of Syracuse",4	
+17_475401,"Health & Healing Ctr.",4	
+17_597494,"HealthLink/ShoppingTown",4	
+17_933350,"Healthsouth Regional Billing",4	
+17_1000473,"Hear 2 Learn",4	
+17_001529,"Heritage Family Medicine",4	
+17_569413,"Hiscock & Barclay",4	
+17_838338,"Homogeneous Metals",4	
+17_000518,"ICM Controls",4	
+17_033054,"Indian Springs Manufacturing",4	
+17_666413,"Inficon Inc.",4	
+17_328408,"InfiMed, Inc.",4	
+17_081959,"Jaquith Industries",4	
+17_356786,"JOBSplus!",4	
+17_999941,"Jones Professional Tax Services",4	
+17_1000253,"Jubilee Homes/SW Economics Ctr",4	
+17_643577,"Kemper Insurance",4	
+17_740170,"Kendall/Oriskany Falls",4	
+17_000561,"Kids Konnection",4	
+17_699876,"Killian Manufacturing Corp",4	
+17_000421,"Lifetime Health",4	
+17_000284,"Little Feet Montessori/Ithaca",4	
+17_999977,"Liverpool Schools Credit Union",4	
+17_000257,"Lockheed Martin",4	
+17_631264,"M&T Bank",4	
+17_1000485,"Mandel Therapy Group",4	
+17_833600,"MANOS Child & Family Center",4	
+17_000227,"Manth-Brownell, Inc.",4	
+17_000228,"Marquardt Switches, Inc.",4	
+17_999985,"McClurg Companies",4	
+17_968401,"McQuay International",4	
+17_198966,"Microwave Filter Company",4	
+17_1000481,"Money Federal Credit Union",4	
+17_939982,"Moonlight Ballroom",4	
+17_578401,"Morse Manufacturing",4	
+17_311310,"Murtaugh Recycling Corp",4	
+17_000176,"National Evaluation Systems",4	
+17_700603,"National Tractor Trailer School",4	
+17_000413,"Nationwide Insurance",4	
+17_378522,"Nestegg FCU",4	
+17_000234,"Nixon Gear, Inc.",4	
+17_283644,"North Area Athletic Club",4	
+17_744824,"North Country Taekwondo",4	
+17_380094,"NTTS",4	
+17_1000005,"NY Compensation Managers Inc.",4	
+17_1000017,"NYS AES, Geneva",4	
+17_259982,"O'Brien and Gere",4	
+17_561279,"Off Broadway Dance Center",4	
+17_236459,"Olsten Health Services",4	
+17_443544,"Oneida Ltd. Silversmiths",4	
+17_000512,"Oswego County",4	
+17_1000321,"Oswego Health",4	
+17_902013,"Oswego Industry Buses",4	
+17_1000025,"Oswego Integrative Counseling",4	
+17_1000029,"Oswego Teachers FCU",4	
+17_1000041,"Owens Martial Arts",4	
+17_944403,"Owl Wire & Cable",4	
+17_318138,"Pass & Seymour",4	
+17_321250,"PCI Paper Conversions",4	
+17_787058,"Pelco Electronic Components",4	
+17_788869,"Phillips Hairstyling Institute",4	
+17_870957,"Pomco",4	
+17_1000409,"PPC",4	
+17_1000469,"Prema Dance Fusion & Yoga",4	
+17_000533,"Radiotherapy Assoc.",4	
+17_1000105,"Raymond Parts Distribution Center",4	
+17_831204,"Revere Copper Products",4	
+17_325530,"Rite Aid Warehouse, Liverpool",4	
+17_770894,"Roberts Insurance Center",4	
+17_729076,"Roberts Office Furniture",4	
+17_000255,"Rome Strip Steel Co., Inc",4	
+17_000415,"Royal Insurance",4	
+17_000239,"RPM Industries, Inc.",4	
+17_186275,"Saperstein & Day",4	
+17_863036,"Schaub Chiropractic Center",4	
+17_321433,"Schott Fostec, LLC",4	
+17_666491,"Schweinfurth Art Center",4	
+17_816149,"Scientific Tool Co.",4	
+17_459821,"Selflock Screw Products",4	
+17_459006,"Seneca Data Distributors",4	
+17_024637,"Sensis Corp",4	
+17_581623,"Stickley",4	
+17_390380,"Strathmore Products",4	
+17_000141,"Sylvan Learning Center",4	
+17_527795,"Syracuse Behavioral Healthcare",4	
+17_401687,"Syracuse Castings Sales Corp",4	
+17_401880,"Syracuse China",4	
+17_120471,"Syracuse Dance Factory",4	
+17_646287,"Syracuse Plastics",4	
+17_1000353,"Syracuse Radiation Oncology",4	
+17_1000357,"Syracuse Urology Associates",4	
+17_1000097,"Tearney Karate School",4	
+17_750948,"Tearney's Martial Arts",4	
+17_920959,"The 1890 House",4	
+17_620962,"The Dance Studio of Fairmount & Manlius",4	
+17_235531,"The MRA Group",4	
+17_000247,"Thermold Corporation",4	
+17_466058,"Thermopatch Corp.",4	
+17_808250,"TMD Consulting & Technology Srvc.",4	
+17_000259,"Tompkins Brothers Co. Inc.",4	
+17_000193,"Travelers/Aetna Insurance",4	
+17_000272,"TRW-AEN, Auburn",4	
+17_071617,"Trygve Stout Financial Srvc.",4	
+17_702804,"Tyco Healthcare",4	
+17_1000113,"Ultimate Goal Family Sports Center",4	
+17_632587,"Ultralife Batteries Inc",4	
+17_000248,"Unity Mutual Life Ins.",4	
+17_921044,"Valley TNT",4	
+17_1000117,"VNA Home Care",4	
+17_219550,"Volpi Manufacturing",4	
+17_1000225,"Waterlook Library",4	
+17_000288,"Wausau Insurance",4	
+17_1000121,"Westar Federal Credit Union",4	
+17_1000181,"Winds of Agape Home Care",4	
+17_382946,"XTO Inc.",4	
+17_906911,"Young & Franklin",4	
+17_1000513,"1st United Methodist Church, Fulton",4	
+17_554818,"2nd Olivet Missionary Baptist Church",4	
+17_601772,"Access To Independence",4	
+17_1000273,"Always Dancing!",4	
+17_968838,"Alzheimer's Association CNY",4	
+17_230021,"American Cancer Society",4	
+17_081239,"American Heart Association",4	
+17_031819,"American Legion Valley Post #1468",4	
+17_956829,"ARC Oneida-Lewis County",4	
+17_000439,"ARC Onondaga County",4	
+17_993511,"ARC Seneca-Cayuga County",4	
+17_785806,"ARISE and Ski",4	
+17_303294,"ARISE, Onondaga County",4	
+17_630721,"ARISE, Oswego Office",4	
+17_999829,"Arthur Murray Dance School",4	
+17_184113,"Baldwinsville Moose Lodge",4	
+17_533646,"Believers' Chapel",4	
+17_999833,"Believers' Chapel North, Mexico",4	
+17_473391,"Bellgrove Missionary Baptist Church",4	
+17_465720,"Bethany Baptist",4	
+17_746750,"Boy Scouts, Cayuga County",4	
+17_1000245,"Caitlin Clark's Centre of Dance",4	
+17_1000373,"Calvary Baptist Church, Brewerton",4	
+17_1000401,"Calvary Chapel, Syracuse",4	
+17_098525,"Camillus 1st United Methodist",4	
+17_999809,"Camillus Dance Centre",4	
+17_1000217,"Camillus First Baptist Church",4	
+17_999841,"Camillus Seniors",4	
+17_1000161,"Canastota VFW Post 600",4	
+17_117410,"Carpenters Local 747",4	
+17_313961,"Carriage House Community Ctr",4	
+17_475824,"Cathedral Of The Immaculate Conception",4	
+17_602339,"Cato-Meridian Recreation Center",4	
+17_670548,"Cazenovia Children's House",4	
+17_332555,"Cazenovia Public Library",4	
+17_001647,"CHAD, Auburn",4	
+17_004979,"Christ the King Church, Liverpool",4	
+17_999861,"Christ The King Retreat & Conf. Ctr.",4	
+17_999865,"Church of God",4	
+17_615004,"Church of St. Therese",4	
+17_490041,"Cicero Senior Center",4	
+17_196641,"Cicero Youth Bureau Parks & Rec",4	
+17_623625,"CNY Alliance for Retired Americans",4	
+17_509656,"CNY Cat Coalition",4	
+17_000522,"CNY Developmental Services",4	
+17_858922,"CNY Labor Federation AFL-CIO",4	
+17_684344,"CNY School Boards Association",4	
+17_999869,"Community Folk Art Center",4	
+17_894141,"Cortland Cty E&T Grant Adm",4	
+17_976368,"Cortland Youth Bureau",4	
+17_999889,"Dance Art Studios",4	
+17_1000149,"Dance Lovers of CNY",4	
+17_1000213,"DeWitt Community Church",4	
+17_262357,"DeWitt Community Library",4	
+17_999885,"Doreen's Dance Studio",4	
+17_999893,"East Syracuse Free Library",4	
+17_679082,"Eastern Hills Bible Church",4	
+17_515672,"Eastwood Community Center",4	
+17_604470,"ECHO Meals on Wheels",4	
+17_1000369,"Emmanuel Baptist Bible Church",4	
+17_000014,"Enable",4	
+17_564114,"Eternal Hope Worship Church",4	
+17_804003,"Exceptional Family Resources",4	
+17_125969,"Faith Formation of Utica",4	
+17_1000325,"Family Worship Center, Clay",4	
+17_999905,"Fayetteville Free Library",4	
+17_1000497,"First Baptist Church, Fernwood",4	
+17_155207,"First Christian Assembly Church",4	
+17_997912,"First Church of Christ, Scientist",4	
+17_211832,"First Presbyterian Church United",4	
+17_508471,"First Unitarian Universialist Society",4	
+17_1000505,"First United Church of Fulton",4	
+17_079054,"First Universalist Church, Central Square",4	
+17_569866,"Fort Drum",4	
+17_000269,"Foster Grandparent Program",4	
+17_550310,"Fulton Alliance Church",4	
+17_263045,"Fulton Public Library",4	
+17_506144,"Fulton Youth Basketball",4	
+17_999913,"Fulton Youth Hockey",4	
+17_1000281,"GC2 Gymnastics",4	
+17_000218,"General Super Plating Co",4	
+17_000360,"Girl Scout Council of CNY",4	
+17_180320,"Girls, Inc.",4	
+17_391119,"Grace Assembly of God",4	
+17_999917,"Grace Christian Fellowship Church",4	
+17_1000309,"Grace Covenant Church, Clay",4	
+17_1000517,"Grace Episcopal Church, Cortland",4	
+17_953968,"Grace Evangelical Covenant Church",4	
+17_1000501,"Granby Center UMC",4	
+17_849657,"Gray Syracuse",4	
+17_430389,"Greater New Testament MBC",4	
+17_999921,"Groton Public Library",4	
+17_885655,"Holy Family School, Fairmount",4	
+17_585953,"Hope for Bereaved",4	
+17_188529,"Hospice CNY",4	
+17_1000301,"Immaculate Conception, Tully",4	
+17_026305,"Jacksonville United Methodist Church",4	
+17_999933,"Jean Stelter Dance Studio",4	
+17_999937,"Jervis Public Library",4	
+17_000289,"Jewish Community Center",4	
+17_000231,"JM Murray Center, Inc.",4	
+17_999957,"Knights of Columbus, Taft Road",4	
+17_1000173,"Lang Memorial Library, Cato",4	
+17_621011,"Leukemia & Lymphoma Society",4	
+17_478165,"Liverpool Christian Church",4	
+17_1000249,"Liverpool Community Chorus",4	
+17_190349,"Liverpool Public Library",4	
+17_1000461,"Lycoming United Methodist Church",4	
+17_828079,"Lyncourt Wesleyan Church",4	
+17_864449,"Madison Co. Music Educator's Assoc.",4	
+17_811500,"Manlius Library",4	
+17_895355,"Marcellus 1st Presbyterian Church",4	
+17_999981,"Marcellus Masonic Temple #524",4	
+17_000175,"Meals on Wheels, Auburn",4	
+17_161923,"Meals on Wheels, Baldwinsville",4	
+17_341950,"Meals on Wheels, Cortland",4	
+17_000266,"Meals on Wheels, ES-M",4	
+17_530160,"Meals on Wheels, Liverpool",4	
+17_000420,"Meals on Wheels, North Area",4	
+17_771128,"Meals on Wheels, Syracuse",4	
+17_213077,"Morrisville Public Library",4	
+17_000538,"Most Holy Rosary",4	
+17_551957,"Native American Service Agency",4	
+17_637729,"Neighborhood Watch Groups/Syracuse",4	
+17_1000169,"New Woodstock Free Library",4	
+17_910865,"No. Cayuga Catholic Community",4	
+17_1000157,"North Central Assembly of God",4	
+17_682430,"North Chittenango Fire Dept",4	
+17_983950,"North Shore Parish",4	
+17_381298,"North Syracuse Baptist Church",4	
+17_000261,"North Syracuse Baptist-Lamb",4	
+17_000565,"Northeast Community Center",4	
+17_1000009,"Northern Onondaga Public Library",4	
+17_1000013,"Northside Academy of Fine Arts",4	
+17_751907,"Northside Baptist",4	
+17_245999,"OASIS Center",4	
+17_860541,"OCO Senior Services",4	
+17_1000333,"On The Hill Child Care",4	
+17_1000021,"Onondaga Free Library",4	
+17_000568,"Onondaga Pastoral Center",4	
+17_647134,"Oswego Alliance Church",4	
+17_471654,"Oswego County Health Services",4	
+17_621897,"Oswego Cty. Catholic Charities",4	
+17_284199,"Oswego Cty. Council on Alcholism & Addicitions",4	
+17_598965,"Oswego Industry Busses",4	
+17_006987,"Oswego Public Library",4	
+17_270509,"Oswego Youth Basketball",4	
+17_1000033,"Our Lady of Good Counsel Church",4	
+17_000089,"Our Lady of Lourdes",4	
+17_000090,"Our Lady of Pompei",4	
+17_1000037,"Our Lady of Rosary, Hannibal",4	
+17_000091,"Our Lady of Solace",4	
+17_000186,"Our Lady of Solace Church",4	
+17_302819,"PACE CNY",4	
+17_1000045,"Parish Community Recreation",4	
+17_915800,"PEACE Inc.",4	
+17_000563,"PEACE Senior Nutrition Sites",4	
+17_305847,"Pennellville Firemen's Assoc.",4	
+17_720335,"Phoenix Fire Department",4	
+17_046263,"Phoenix Public Library",4	
+17_000285,"Planned Parenthood, Syracuse",4	
+17_609252,"Plumbers & Steamfitters Local 267",4	
+17_917765,"Pope John XXIII Church, Liverpool",4	
+17_903188,"Port Leyden Community Library",4	
+17_1000185,"Preble Children's Center",4	
+17_1000049,"Progresso Lodge #1047",4	
+17_824135,"ProLiteracy Worldwide",4	
+17_999805,"Pulaski Public Library",4	
+17_1000145,"Pulaski Wesleyan Church",4	
+17_119377,"Redeemer Covenant/Liverpool",4	
+17_1000057,"Redemption Tabernacle Worship Ctr.",4	
+17_426488,"Rescue Mission",4	
+17_1000305,"River of Life Church",4	
+17_680012,"Rosamond Gifford Zoo",4	
+17_000092,"Sacred Heart Basilica, Syracuse",4	
+17_899541,"Sacred Heart Parish, Cicero",4	
+17_798410,"Salina Free Library",4	
+17_000394,"Salvation Army",4	
+17_375745,"Scriba Recreation Center",4	
+17_847997,"Second Baptist Church, Auburn",4	
+17_620625,"Section III Athletics",4	
+17_551915,"SEFCU",4	
+17_563951,"SEFCU",4	
+17_484320,"Seneca Hill Adult Day Care Program",4	
+17_685238,"Seymour Public Library, Auburn",4	
+17_548277,"Skaneateles Community Center",4	
+17_956405,"Solid Rock Family Church",4	
+17_696181,"Solvay Tigers Athletic Club",4	
+17_054397,"Solvay/Geddes Community Youth Ctr.",4	
+17_000506,"Southwest Community Center",4	
+17_000321,"Spanish Action League",4	
+17_719490,"Special Olympics of Syracuse",4	
+17_287874,"Special Olympics Onondaga County",4	
+17_1000421,"Spiritual Renewal Center",4	
+17_1000061,"St. Alphonsus Church, Auburn",4	
+17_235748,"St. Ann's, Manlius",4	
+17_379290,"St. Anne, Mother of Mary, Mexico",4	
+17_1000265,"St. Augustine's, Baldwinsville",4	
+17_312220,"St. Cecilia's Church",4	
+17_000093,"St. Charles-St. Ann, Syracuse",4	
+17_761402,"St. Daniel Church",4	
+17_499230,"St. Elizabeth Ann Seton Church",4	
+17_453747,"St. Francis of Assisi, Bridgeport",4	
+17_801704,"St. Francis Xavier, Marcellus",4	
+17_000096,"St. James Church, Syracuse",4	
+17_1000209,"St. James, Cazenovia",4	
+17_000097,"St. John the Baptist, Rome",4	
+17_038948,"St. John the Baptist, Syracuse",4	
+17_443823,"St. John The Evangelist, Syracuse",4	
+17_232696,"St. Joseph the Worker, Liverpool",4	
+17_000138,"St. Joseph's College of Nursing",4	
+17_970850,"St. Joseph's Hospital",4	
+17_662864,"St. Joseph's Pre School, Camillus",4	
+17_1000201,"St. Joseph's Wellness Place",4	
+17_1000297,"St. Joseph's, LaFayette",4	
+17_973175,"St. Joseph's, Oswego",4	
+17_1000293,"St. Leo's Church, Tully",4	
+17_000098,"St. Lucy's Church",4	
+17_527051,"St. Luke Adult Day Care, Oswego",4	
+17_939187,"St. Luke Health Services",4	
+17_1000365,"St. Luke's Episcopal Church",4	
+17_625956,"St. Mary & St. Bernadette",4	
+17_328052,"St. Mary's Church, Jamesville",4	
+17_835284,"St. Mary's of the Lake, Skaneateles",4	
+17_813979,"St. Mary's, Baldwinsville",4	
+17_320370,"St. Mary's, Minoa",4	
+17_677080,"St. Mary's, Oswego",4	
+17_153021,"St. Matthew's Church, East Syracuse",4	
+17_988089,"St. Matthew's, Syracuse",4	
+17_196102,"St. Michael's, Central Square",4	
+17_073800,"St. Michael's-St. Peter's",4	
+17_1000189,"St. Patrick's Church, Chittenango",4	
+17_1000289,"St. Patrick's Church, Otisco",4	
+17_447353,"St. Patrick's, Jordan",4	
+17_139109,"St. Patrick's, Oneida",4	
+17_121681,"St. Patrick's, Syracuse",4	
+17_337136,"St. Paul's, Oswego",4	
+17_952838,"St. Peter & Paul, Auburn",4	
+17_1000065,"St. Peter & St. Paul, Syracuse",4	
+17_826229,"St. Rose of Lima, North Syracuse",4	
+17_670807,"St. Stephen's, Oswego",4	
+17_018240,"St. Stephen's, Phoenix",4	
+17_611055,"St. Vincent de Paul",4	
+17_020297,"Sterling Nature Center Friends",4	
+17_1000069,"Studio B Dance Company",4	
+17_1000073,"Summit Church",4	
+17_1000081,"Syracuse Alliance Church",4	
+17_133135,"Syracuse Catholic Charities",4	
+17_1000085,"Syracuse Children's Chorus",4	
+17_000030,"Syracuse Educational Opportunity Ctr",4	
+17_1000089,"Syracuse Moose Lodge",4	
+17_564458,"Syracuse Parks & Recreation",4	
+17_1000269,"Syracuse School of Dance",4	
+17_1000405,"Syracuse Sunrise Rotary Club",4	
+17_000121,"Temple Adath Yeshurun",4	
+17_000123,"Temple Society of Concord",4	
+17_1000285,"The Vision Center",4	
+17_381105,"Tipperary Hill Neighborhood Assoc.",4	
+17_710799,"Town of Granby Sr. Citizen Club",4	
+17_1000109,"Trach Auringer Post 7325",4	
+17_960517,"Trinity Assembly of God, Clay",4	
+17_673169,"Trinity United Methodist, Clay",4	
+17_452097,"Tucker Missionary Baptist Church",4	
+17_993290,"United Baptist Church of Scriba",4	
+17_000192,"United Methodist Church/Fayetteville",4	
+17_755228,"Unity House of Cayuga County",4	
+17_130716,"University Health Care Center",4	
+17_000270,"Urban League",4	
+17_351024,"Wanderers' Rest",4	
+17_191192,"Wellspring Family Life Church",4	
+17_780960,"YMCA, Cortland County",4	
+17_629458,"YMCA, Downtown",4	
+17_110983,"YMCA, Fulton",4	
+17_960720,"YMCA, North Area",4	
+17_404695,"YMCA, Oswego",4	
+17_999821,"Allegro Youth Wind Ensemble",4	
+17_000094,"St. Anthony of Padua",4	
+17_312966,"WSYR Storm Team Forecast",4	
+17_918537,"WSYR Storm Team Forecast",4	
+17_802043,"WSYR Storm Team Forecast",4	
+17_400716,"WSYR Traffic Alert",4	

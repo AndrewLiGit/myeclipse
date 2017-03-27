@@ -1,0 +1,1928 @@
+Organization Code,Organization Name,Audience Provider ID
+183_10155,"Arkansas Children's Hospital Outpatient Clinics",4
+183_9703,"CARTI",4
+183_9595,"Cleburne Co. District Court",4
+183_10063,"Cross",4
+183_9563,"Ozarka College-Baxter County",4
+183_9575,"Radiologist of Arkansas",4
+183_9579,"St. Vincent Breast Clinci",4
+183_9695,"UAMS Outpatient Clinics",4
+183_6886,"1st Presbyterian School-Pine Bluff",4
+183_7879,"A-1 Thompson Driving School",4
+183_9239,"ABC Inspection Institute",4
+183_2714,"Abiding Faith Christian",4
+183_1000,"Abundant Life",4
+183_9219,"Academic World of Cosmetology",4
+183_1004,"Academics Plus Charter",4
+183_1008,"Access Schools",4
+183_8039,"ACEF-Forrest City",4
+183_8031,"ACEF-Jonesboro",4
+183_8027,"ACEF-Little Rock",4
+183_8035,"ACEF-Morrilton",4
+183_9587,"Acorn Public Schools",4
+183_2726,"AEDD",4
+183_1104,"Agape Academy",4
+183_8019,"Agape College",4
+183_2734,"Alexander Youth Services",4
+183_9483,"All Children's Academy",4
+183_2742,"Allied Tech Sciences-Helena",4
+183_1012,"Allied Tech Sciences-LR",4
+183_2746,"Allied Tech Sciences-Pine Bluff",4
+183_2750,"Allied Tech Sciences-Stuttgart",4
+183_1016,"Alma School District",4
+183_1020,"Alpena School District",4
+183_5026,"Alread School Campus",4
+183_1024,"Altheimer Unified School District",4
+183_7342,"Ambassador Academy-Greenbrier",4
+183_7062,"Amity Head Start",4
+183_1028,"Anthony School",4
+183_6842,"Apple Project Upward Bound-Lyon College",4
+183_1032,"Arbanna Baptist Academy",4
+183_10075,"Arch Ford Career Academy",4
+183_2778,"Arch Ford Coop",4
+183_2782,"Archild",4
+183_6686,"Arkadelphia Head Start",4
+183_1036,"Arkadelphia School District",4
+183_8375,"Arkansas Arts Center",4
+183_1040,"Arkansas Baptist College",4
+183_1044,"Arkansas Baptist School System",4
+183_7915,"Arkansas Beauty College-Russellville",4
+183_1048,"Arkansas Beauty School-Conway",4
+183_5142,"Arkansas Beauty School-Little Rock",4
+183_2790,"Arkansas Career Training Institute",4
+183_9735,"Arkansas Christian Academy",4
+183_7867,"Arkansas Christian Academy-Bryant",4
+183_9475,"Arkansas College of Barbering",4
+183_7791,"Arkansas Ctr. for Music Education",4
+183_10103,"Arkansas Extended Learning",4
+183_5218,"Arkansas Institute of Languages",4
+183_1176,"Arkansas Northeastern College",4
+183_8383,"Arkansas Pet Grooming School",4
+183_8603,"Arkansas River Education Coop",4
+183_2256,"Arkansas River Valley Montessori",4
+183_1052,"Arkansas School for Math/Science/Arts",4
+183_1056,"Arkansas School for the Blind",4
+183_1060,"Arkansas School for the Deaf",4
+183_8387,"Arkansas School of Ministry",4
+183_9647,"Arkansas Tech Career Center",4
+183_7663,"Arkansas Tech University-Ozark",4
+183_1064,"Arkansas Tech University-Russellville",4
+183_7963,"Arkansas Virtual Academy",4
+183_1072,"Arkansas Youth Services System",4
+183_1076,"Armorel School District",4
+183_7447,"Arthur's Beauty College-Conway",4
+183_7451,"Arthur's Beauty College-Fort Smith",4
+183_1080,"Arthur's Beauty College-Jacksonville",4
+183_5014,"Arthur's Beauty College-Pine Bluff",4
+183_6762,"Ascent/Pediatric Care-Benton",4
+183_6758,"Ascent/Pediatric Care-NLR",4
+183_1084,"Ashdown School District",4
+183_9991,"ASU Newport (Jonesboro)",4
+183_9987,"ASU Newport (Marked Tree)",4
+183_1088,"ASU-Beebe",4
+183_9599,"ASU-Beebe(LRAFB Campus)",4
+183_1092,"ASU-Heber Springs",4
+183_1180,"ASU-Jonesboro",4
+183_1100,"ASU-LRAFB",4
+183_1188,"ASU-Mountain Home",4
+183_1192,"ASU-Newport",4
+183_9659,"ASU-Paragould",4
+183_9467,"ASU-Searcy",4
+183_1108,"Atkins School District",4
+183_1112,"Augusta School District",4
+183_1116,"Avilla Christian Academy",4
+183_1120,"Bald Knob School District",4
+183_2264,"Baptist Health Schools",4
+183_1124,"Barton-Lexa School District",4
+183_4698,"Batesville Christian School",4
+183_1128,"Batesville School District",4
+183_1132,"Bauxite School District",4
+183_1136,"Bay School District",4
+183_4954,"Beacon Hill Adventist & Elem.",4
+183_1140,"Bearden School District",4
+183_1144,"Beebe School District",4
+183_6806,"Benton Head Start",4
+183_1148,"Benton School District",4
+183_3614,"Bentonville Adventist",4
+183_1156,"Bentonville School District",4
+183_1160,"Bergman School District",4
+183_1164,"Berryville School District",4
+183_6638,"Bismarck Head Start",4
+183_1168,"Bismarck School District",4
+183_1196,"Black River Technical College",4
+183_1200,"Black Rock School District",4
+183_8687,"Blackbird Academy of Arts",4
+183_7671,"Blessed Hope Baptist College",4
+183_1204,"Blessed Sacrament School",4
+183_1208,"Blevins School District",4
+183_1212,"Blytheville School District",4
+183_7463,"BMA Seminary-Conway",4
+183_1216,"Booneville School District",4
+183_1220,"Bradford School District",4
+183_1224,"Bradley School District",4
+183_1228,"Brinkley School District",4
+183_1232,"Brookland School District",4
+183_2902,"Bruno-Pyatt",4
+183_1236,"Bryant School District",4
+183_1240,"Buffalo Island School District",4
+183_7739,"Cabot Extended Learning",4
+183_7751,"Cabot Montessori",4
+183_1248,"Cabot School District",4
+183_7591,"CADC Saline Co. Head Start",4
+183_1252,"Caddo Hills School District",4
+183_1256,"Calico Rock School District",4
+183_7667,"Calvary Academy",4
+183_4918,"Calvary Christian Academy-Benton",4
+183_2918,"Calvary Christian School-Forrest City",4
+183_8767,"Calvary's Cross Academy",4
+183_2926,"Camden Christian Academy",4
+183_1500,"Camden Fairview School District",4
+183_9711,"CAPCA Head Start - Cabot",4
+183_9715,"CAPCA Head Start - Gould",4
+183_9719,"CAPCA Head Start - Lonoke",4
+183_7142,"CAPCA Head Start-Beebe",4
+183_7134,"CAPCA Head Start-Conway",4
+183_3346,"CAPCA Head Start-Greenbrier",4
+183_7154,"CAPCA Head Start-Heber Springs",4
+183_7162,"CAPCA Head Start-Mills Ctr.",4
+183_7150,"CAPCA Head Start-Quitman",4
+183_7158,"CAPCA Head Start-Rose Bud",4
+183_7146,"CAPCA Head Start-Searcy",4
+183_4246,"CAPCA Head Start-Southside",4
+183_2934,"Capital City Christian",4
+183_1260,"Carlisle School District",4
+183_2294,"Catholic Schools in Little Rock & NLR",4
+183_1268,"Cave City School District",4
+183_7186,"Cedar Heights Christian",4
+183_1272,"Cedar Ridge School District",4
+183_1276,"Cedarville School District",4
+183_5002,"Center Hill School",4
+183_1280,"Centerpoint School District",4
+183_1284,"Central Arkansas Christian",4
+183_8355,"Central Arkansas Library System",4
+183_8047,"Central Arkansas Plumbing School",4
+183_1739,"Central Baptist College",4
+183_1292,"Charleston School District",4
+183_7607,"Chenal Adult Day Services",4
+183_2260,"Chenal Valley Montessori",4
+183_8327,"Child & Youth Pediatric Clinic-Batesville",4
+183_2994,"Children's House Montessori",4
+183_5098,"Christ Lutheran School",4
+183_7651,"Christian Ministries Academy",4
+183_8179,"Civitan Services",4
+183_4890,"Clara Muhammad School",4
+183_1296,"Clarendon School District",4
+183_3030,"Clark County Christian",4
+183_1300,"Clarksville School District",4
+183_1304,"Clay Co. School District",4
+183_7771,"Clearview Christian-Heber Springs",4
+183_7763,"Cleburne County Christian",4
+183_1308,"Cleveland Co. School District",4
+183_1312,"Clinton Public Schools",4
+183_7394,"Clinton School of Public Service",4
+183_2088,"College of the Ouachitas",4
+183_3034,"Columbia Christian",4
+183_7775,"Community Christian-Russellville",4
+183_1320,"Community School-Heber Springs",4
+183_1324,"Concord School District",4
+183_9043,"Conway Adult Education Ctr.",4
+183_7507,"Conway Apprenticeship",4
+183_1328,"Conway Christian School",4
+183_3046,"Conway Montessori",4
+183_1332,"Conway School District",4
+183_8003,"Cornerstone Christian Academy-Searcy",4
+183_3050,"Cornerstone Christian Academy-Tillar",4
+183_1336,"Corning School District",4
+183_1340,"Cossatot Community College",4
+183_2522,"Cossatot River School District",4
+183_1344,"Cotter School District",4
+183_1348,"County Line School District",4
+183_7767,"Covenant Christian Academy",4
+183_7967,"Covenant Keepers Charter",4
+183_4458,"Crittenden Pentecostal Academy",4
+183_1352,"Cross County School District",4
+183_1356,"Crossett School District",4
+183_10071,"CrossRoads (CALC) - Atkins",4
+183_10067,"CrossRoads (CALC) - Quitman",4
+183_8427,"Crossroads Alternative Learning",4
+183_1360,"Crowley's Ridge Academy",4
+183_1368,"Crowley's Ridge College",4
+183_1372,"Crowley's Ridge Technical Institute",4
+183_7551,"CSO Head Start-Hot Springs",4
+183_8267,"CSO Head Start-Lake Hamilton",4
+183_8263,"CSO Head Start-Mtn. Pine",4
+183_8271,"CSO Head Start-North Garland Co.",4
+183_1380,"Cutter Morning Star School District",4
+183_1384,"Danville School District",4
+183_1388,"Dardanelle School District",4
+183_5046,"Dawson Education Coop",4
+183_3090,"Dayspring Christian Academy",4
+183_1392,"De Queen School District",4
+183_3094,"De Soto School",4
+183_1396,"Decatur School District",4
+183_1400,"Deer-Mt. Judea School District",4
+183_7066,"Delight Head Start",4
+183_1408,"Dept. of Correction School",4
+183_1412,"Dermott School District",4
+183_1416,"Des Arc School District",4
+183_1424,"DeWitt School District",4
+183_8023,"DHS IOP",4
+183_1428,"Dierks School District",4
+183_9067,"Diesel Driving Academy",4
+183_1432,"Dollarway School District",4
+183_1436,"Dover School District",4
+183_7687,"Dreamland Academy",4
+183_1440,"Drew Central School District",4
+183_1444,"Dumas School District",4
+183_7971,"E-Stem Charter",4
+183_1448,"Earle School District",4
+183_4870,"East Arkansas Christian School",4
+183_1456,"East Arkansas Community College",4
+183_4338,"East End School District",4
+183_1460,"East Poinsett Co. School District",4
+183_1464,"Eastern College of Health Vocations",4
+183_4434,"Eastside Baptist Academy",4
+183_1468,"El Dorado School District",4
+183_1480,"Emerson-Taylor School District",4
+183_9539,"Emmanuel Learning Ctr.",4
+183_1484,"England School Distict",4
+183_7871,"Enrichment Academy",4
+183_1488,"Episcopal Collegiate School",4
+183_4406,"Eudora Christian School",4
+183_1496,"Eureka Springs School District",4
+183_4694,"Ewing Adventist Junior Academy",4
+183_1556,"F.C.P.C.",4
+183_4894,"Faith Christian School",4
+183_4402,"Faith Fellowship Christian Academy",4
+183_9707,"Family Church  Preschool - Bryant",4
+183_1504,"Farmington School District",4
+183_1508,"Fayetteville School District",4
+183_7543,"First Lutheran School",4
+183_6878,"First Step-Fordyce",4
+183_3242,"First Step-Glenwood",4
+183_8743,"First Step-Hamburg",4
+183_3246,"First Step-Hot Springs",4
+183_3250,"First Step-Malvern",4
+183_1520,"Flippin School District",4
+183_1524,"Fordyce School District",4
+183_1528,"Foreman School District",4
+183_1532,"Forrest City School District",4
+183_1544,"Fouke School District",4
+183_1548,"Fountain Lake School District",4
+183_7939,"Fourche Valley",4
+183_1552,"Francis Allen Exceptional",4
+183_4486,"Franklin Co. Learning Center",4
+183_7527,"Full Counsel BibleTraining",4
+183_4418,"Full Holiness Academy",4
+183_1564,"Genoa Central School District",4
+183_1568,"Gentry School District",4
+183_8975,"Gideon Learning Center",4
+183_1572,"Glen Rose School District",4
+183_4878,"Glenwood Christian",4
+183_7070,"Glenwood Head Start",4
+183_3294,"Goodwill Industries",4
+183_1576,"Gosnell School District",4
+183_7899,"Gospel Light Christian School-Hot Springs",4
+183_7559,"Grace Academy-Bryant",4
+183_8231,"Grace Academy-Hot Springs",4
+183_3602,"Grace Baptist School",4
+183_4474,"Grace Christian Academy-Monticello",4
+183_4382,"Grace Christian-Harrison",4
+183_4358,"Gravette Holiness Bible School",4
+183_1584,"Gravette School District",4
+183_1588,"Great Rivers Education Coop",4
+183_1592,"Green Forest School District",4
+183_9547,"Greenbrier Christian Academy",4
+183_1596,"Greenbrier School District",4
+183_1600,"Greene County Tech School District",4
+183_1604,"Greenland School District",4
+183_1608,"Greenwood School District",4
+183_3350,"Group Living Incorporated",4
+183_6690,"Gurdon Head Start",4
+183_1612,"Gurdon School District",4
+183_1616,"Guy-Perkins School District",4
+183_1620,"Hackett School District",4
+183_1624,"Hamburg School District",4
+183_1628,"Hampton School District",4
+183_1632,"Harding Academy",4
+183_1636,"Harding Professional Center",4
+183_1640,"Harding University",4
+183_6818,"Harmony Grove Head Start",4
+183_1644,"Harmony Grove-Benton",4
+183_1648,"Harmony Grove-Camden",4
+183_1652,"Harrisburg School District",4
+183_4386,"Harrison Adventist",4
+183_1656,"Harrison School District",4
+183_1660,"Hartford School District",4
+183_1664,"Hazen School District",4
+183_7358,"Heartbeat 2 Heartbeat CNA",4
+183_1668,"Heber Springs School District",4
+183_1672,"Hector School District",4
+183_1676,"Helena-West Helena School District",4
+183_1680,"Henderson State University",4
+183_1684,"Hendrix College",4
+183_1688,"Heritage Christian School",4
+183_8247,"Heritage College",4
+183_1692,"Hermitage School District",4
+183_10095,"HFWC-Positive Impact for Youth",4
+183_1696,"Highland School District",4
+183_1700,"Hillcrest School District",4
+183_1708,"Holy Rosary Catholic",4
+183_1716,"Homeschool Center-Greenbrier",4
+183_7975,"Hope Academy",4
+183_4706,"Hope Lutheran School-Batesville",4
+183_1724,"Hope School District",4
+183_1728,"Horatio School District",4
+183_1732,"Hot Springs Adventist",4
+183_3414,"Hot Springs Beauty College",4
+183_8143,"Hot Springs Christian",4
+183_1736,"Hot Springs School District",4
+183_6813,"Hoxie School District",4
+183_5094,"Huda Academy",4
+183_1744,"Hughes School District",4
+183_8103,"Huntington Learning Center",4
+183_1748,"Huntsville School District",4
+183_2244,"Imboden Area Charter",4
+183_2240,"Immaculate Conception-Blytheville",4
+183_9039,"Independent Living Services",4
+183_9331,"Integrity Healthcare CNA",4
+183_8075,"Integrity Inc.",4
+183_1756,"ITT Technical Institute",4
+183_1760,"Izard County Consolidated",4
+183_1764,"Jackson County School District",4
+183_1768,"Jacksonville Christian Academy",4
+183_8883,"Jamileh Kamran School of Fashion",4
+183_1772,"Jasper School District",4
+183_8843,"Jefferson Co. Head Start",4
+183_1776,"Jessieville School District",4
+183_4470,"Jodie Partridge Center",4
+183_1852,"John Brown University-Little Rock",4
+183_4114,"Johnson's Montessori",4
+183_1780,"Jonesboro School District",4
+183_1836,"Jonesboro Westside School District",4
+183_8955,"JRMC School of Nursing",4
+183_1784,"Junction City School District",4
+183_9679,"Kids Unlimited - Cabot",4
+183_7911,"King of Kings Christian Academy",4
+183_7755,"Kingston Schools",4
+183_9071,"KIPP Delta-Blytheville",4
+183_7979,"KIPP Delta-Helena",4
+183_7074,"Kirby Head Start",4
+183_1788,"Kirby School District",4
+183_8331,"Kumon Center",4
+183_1792,"Lafayette County School District",4
+183_1796,"Lake Hamilton School District",4
+183_2298,"Lakeside School District-Garland Co.",4
+183_1800,"Lakeside School District-Lake Village",4
+183_7595,"Laman Public Library-NLR",4
+183_1804,"Lamar School District",4
+183_1808,"Lavaca School District",4
+183_6626,"Law Enforcement Training-Camden",4
+183_1812,"Lead Hill School District",4
+183_1868,"Lee Academy",4
+183_1816,"Lee County School District",4
+183_1840,"Lee's School of Cosmetology",4
+183_5106,"Leslie Schools",4
+183_2248,"Liberty Christian School",4
+183_7803,"Liberty Homeschool Academy-Conway",4
+183_8983,"Life Skills for Youth",4
+183_8783,"Lifelong Learning Classes",4
+183_8275,"Lighthouse Charter-Jacksonville",4
+183_4990,"Lighthouse Christian-Beebe",4
+183_4490,"Lighthouse Christian-Hot Springs",4
+183_1820,"Lincoln School District",4
+183_8439,"Lions World Services",4
+183_7034,"Lisa Academy-Little Rock",4
+183_7999,"Lisa Academy-NLR",4
+183_1844,"Literacy Council of Jefferson Co.",4
+183_1872,"Little Rock Adventist Academy",4
+183_1876,"Little Rock Christian Academy",4
+183_1712,"Little Rock Homeschool Academy",4
+183_8675,"Little Rock Jams Music School",4
+183_7487,"Little Rock Kaplan Center",4
+183_3642,"Little Rock Montessori",4
+183_8435,"Little Rock Prepartory",4
+183_1828,"Little Rock School District",4
+183_9051,"Little Rock School District-Elementary",4
+183_9055,"Little Rock School District-Secondary",4
+183_1832,"Lockesburg School District",4
+183_3686,"Lonoke Exceptional",4
+183_1880,"Lonoke School District",4
+183_1888,"Lyon College",4
+183_1892,"Magazine School District",4
+183_6634,"Magnet Cove Head Start",4
+183_1896,"Magnet Cove School District",4
+183_1900,"Magnolia School District",4
+183_1904,"Malvern Christian Academy",4
+183_5282,"Malvern Christian Childcare",4
+183_6630,"Malvern Head Start",4
+183_1908,"Malvern School District",4
+183_1912,"Mammoth Spring School District",4
+183_1916,"Manila School District",4
+183_1920,"Mansfield School District",4
+183_4958,"Maranatha Baptist-El Dorado",4
+183_1924,"Maranatha Baptist-Pine Bluff",4
+183_8187,"Margaret's Hair Academy-Russellville",4
+183_1932,"Marion School District",4
+183_1936,"Marked Tree School District",4
+183_1940,"Marmaduke School District",4
+183_1944,"Marshall School District",4
+183_1948,"Marvell Academy",4
+183_1952,"Marvell-Elaine School District",4
+183_1956,"Mayflower School District",4
+183_1960,"Maynard School District",4
+183_1964,"McCrory School District",4
+183_1968,"McGehee School District",4
+183_1972,"Melbourne School District",4
+183_1976,"Mena School District",4
+183_7839,"MiChild Enrichment Ctr-Bryant",4
+183_7835,"MiChild Enrichment Ctr-Marshall",4
+183_7843,"MiChild Enrichment Ctr-Pottsville",4
+183_7831,"MiChild Enrichment Ctr-Russellville",4
+183_8447,"Mid America Truck Driving",4
+183_2132,"Mid-South Community College",4
+183_1980,"Midland School District",4
+183_4466,"Millcreek of Arkansas",4
+183_1984,"Mineral Springs School District",4
+183_3774,"Miss Selma's",4
+183_3786,"Missionary Baptist Seminary",4
+183_8183,"Missions Barber College",4
+183_3798,"Monroe Co. Human Development",4
+183_4390,"Montessori Children's Schoolhouse",4
+183_4446,"Montessori School-Jonesboro",4
+183_1996,"Monticello School District",4
+183_2000,"Morrilton School District",4
+183_2004,"Mount Ida School District",4
+183_2008,"Mount Vernon/Enola Schools",4
+183_3610,"Mountain Home Adventist",4
+183_3606,"Mountain Home Christian Academy",4
+183_2012,"Mountain Home School District",4
+183_2016,"Mountain Pine School District",4
+183_2020,"Mountain View School District",4
+183_2024,"Mountainburg School District",4
+183_7078,"Mt. Ida Head Start",4
+183_8175,"Mt. Pleasant Baptist Academy",4
+183_2028,"Mulberry School District",4
+183_7082,"Murfreesboro Head Start",4
+183_2036,"Nashville School District",4
+183_2140,"National Park Community College",4
+183_2040,"Nemo Vista School District",4
+183_2044,"Nettleton School District",4
+183_2048,"Nevada School District",4
+183_4854,"New Faith Tabernacle Academy",4
+183_10107,"New Life Christian-Marion",4
+183_8703,"New Tyler Barber College",4
+183_2052,"Newport School District",4
+183_4910,"NLR Montessori School",4
+183_2060,"Norfork School District",4
+183_2064,"Norphlet School District",4
+183_2144,"North Arkansas College",4
+183_9663,"North Arkansas College-Carrol Co.",4
+183_7731,"North Central Career Ctr-Clinton",4
+183_7727,"North Central Career Ctr-Leslie",4
+183_7378,"North Hills Services",4
+183_2056,"North Little Rock School District",4
+183_7759,"Oark Schools",4
+183_2076,"Oden Public Schools",4
+183_7943,"Ola Elementary",4
+183_2068,"Omaha School District",4
+183_2072,"Osceola School District",4
+183_2148,"Ouachita Baptist University",4
+183_2084,"Ouachita School District",4
+183_2268,"Our Lady of Fatima",4
+183_7459,"Oxford Learning Center",4
+183_3922,"Ozark Adventist Academy",4
+183_2302,"Ozark Mountain School District",4
+183_2092,"Ozark School District",4
+183_7859,"Ozarka College-All Campuses",4
+183_7823,"Ozarka College-Ash Flat",4
+183_9011,"Ozarka College-Mammoth Spring",4
+183_2096,"Ozarka College-Melbourne",4
+183_7827,"Ozarka College-Mountain View",4
+183_2100,"Palestine-Wheatley School District",4
+183_2104,"Pangburn School District",4
+183_2108,"Paragould School District",4
+183_2112,"Paris School District",4
+183_2116,"Parkers Chapel School District",4
+183_5054,"Paron Elementary",4
+183_6814,"Paron Head Start",4
+183_3962,"Pathfinder Preschool",4
+183_8347,"Pathfinder-Bussey Child Dev.",4
+183_8343,"Pathfinder-Pickens Training Ctr.",4
+183_5170,"Paul Mitchell Beauty School",4
+183_3174,"Paul Mitchell the School-Fayetteville",4
+183_2124,"Pea Ridge School District",4
+183_2128,"Perryville School District",4
+183_7735,"Petra Allied Health Education",4
+183_2156,"Philander Smith College",4
+183_2160,"Phillips Community College-DeWitt",4
+183_2164,"Phillips Community College-Helena",4
+183_2168,"Phillips Community College-Stuttgart",4
+183_2188,"Piggott School District",4
+183_2192,"Pine Bluff School District",4
+183_9107,"Pinnacle Classical Academy",4
+183_4046,"Pinnacle Pointe",4
+183_7947,"Plainview-Rover Elementary",4
+183_2196,"Pocahontas School District",4
+183_2200,"Pottsville School District",4
+183_2204,"Poyen School District",4
+183_2208,"Prairie Grove School District",4
+183_9687,"Premier High School",4
+183_2212,"Prescott School District",4
+183_6870,"Professional Cosmetology-El Dorado",4
+183_2216,"Pulaski Academy",4
+183_2220,"Pulaski Co. Special School District",4
+183_2224,"Pulaski Technical College",4
+183_9683,"Quest Middle School of PB",4
+183_2232,"Quitman School District",4
+183_4342,"Rector School District",4
+183_10083,"Regency Beauty Institute",4
+183_2272,"Remington College",4
+183_8963,"Rhythm88 Music School",4
+183_2172,"Rich Mountain Community College",4
+183_5166,"Richmond School of Music",4
+183_2280,"Ridgefield Christian School",4
+183_2284,"Ridgway Christian",4
+183_7535,"River Valley Tech Center",4
+183_2314,"Riverside School District",4
+183_4426,"Riverview Baptist Christian",4
+183_2318,"Riverview School District",4
+183_2322,"Rogers School District",4
+183_2326,"Rose Bud School District",4
+183_2330,"Russellville School District",4
+183_4146,"Sacred Heart-Morrilton",4
+183_2338,"Salem School District",4
+183_4162,"SAU Tech",4
+183_7891,"Scholastic Academy",4
+183_5030,"Scotland School Campus",4
+183_2342,"Scranton School District",4
+183_4346,"Searcy County School District",4
+183_2346,"Searcy Public School District",4
+183_6810,"Shannon Hills Head Start",4
+183_2350,"Sheridan School District",4
+183_4182,"Shiloh Adventist School",4
+183_2354,"Shiloh Christian School District",4
+183_2358,"Shirley School District",4
+183_2176,"Shorter College",4
+183_9675,"SIA Tech Charter High School",4
+183_2362,"Siloam Springs School District",4
+183_2366,"Sloan Hendrix School District",4
+183_2370,"Smackover School District",4
+183_9755,"Smart Start Christian Academy",4
+183_2184,"South Arkansas Comm. College",4
+183_8827,"South Arkansas Dev. Center",4
+183_4218,"South Central Education Coop",4
+183_4222,"South Conway Co. School District",4
+183_2310,"South Mississippi Co School District",4
+183_4226,"South Mississippi County 57",4
+183_2032,"South Pike County School District",4
+183_4234,"Southeast Arkansas College",4
+183_4238,"Southeast Education Coop",4
+183_2542,"Southern Arkansas University",4
+183_4242,"Southside Christian Academy",4
+183_2826,"Southside School District",4
+183_6746,"Southside-Bee Branch School District",4
+183_4250,"Southwest Christian Academy",4
+183_2382,"Spring Hill School District",4
+183_4258,"Springdale Adventist",4
+183_2386,"Springdale School District",4
+183_4278,"St. Joe School District",4
+183_4494,"St. John's Catholic School-Hot Springs",4
+183_4886,"St. John's Catholic-Russellville",4
+183_9983,"St. John's Eagles Nest- Stuttgart",4
+183_4290,"St. John's Lutheran-Stuttgart",4
+183_4298,"St. Joseph Catholic-Paris",4
+183_2410,"St. Joseph School-Conway",4
+183_7511,"St. Joseph's Catholic School-Pine Bluff",4
+183_4498,"St. Luke's School-Hot Springs",4
+183_4410,"St. Mary School-Lake Village",4
+183_4686,"St. Mary School-Paragould",4
+183_4334,"St. Paul School District",4
+183_4506,"St. Paul's School-Pocahontas",4
+183_7695,"St. Peter Catholic",4
+183_4378,"St. Vincent De Paul School",4
+183_2390,"Star City School District",4
+183_7855,"STAR Industries-Bryant",4
+183_7851,"STAR Industries-Mountain View",4
+183_7847,"STAR Industries-Russellville",4
+183_2394,"Stephens School District",4
+183_8699,"Strayer University",4
+183_2398,"Strong-Huttig School District",4
+183_7539,"Stuttgart Evangelical Methodist",4
+183_8443,"Stuttgart Public Library",4
+183_2402,"Stuttgart School District",4
+183_2414,"Subiaco Academy",4
+183_4522,"Sunshine School-Searcy",4
+183_4534,"Sylvan Learning Center",4
+183_9507,"test 2",4
+183_9511,"test 3",4
+183_9515,"test 4",4
+183_2422,"Texarkana School District",4
+183_2252,"The Academy at Riverdale",4
+183_4394,"The Academy of Excellence",4
+183_8787,"The Arc",4
+183_4398,"The Clear Spring School",4
+183_1316,"The Community School-Batesville",4
+183_2430,"Trinity Christian-Texarkana",4
+183_4846,"Trinity Episcopal School",4
+183_2434,"Trumann School District",4
+183_9003,"Turning Points-Hot Springs",4
+183_8779,"Two Rivers High School",4
+183_2446,"Two Rivers School District",4
+183_2550,"U of A - Fayetteville",4
+183_2554,"U of A - Fort Smith",4
+183_2562,"U of A - Monticello",4
+183_4626,"U of A Community College-Batesville",4
+183_2546,"U of A Community College-Hope",4
+183_4630,"U of A Community College-Morrilton",4
+183_9651,"U of A Cooperative Extension Service",4
+183_2558,"UALR",4
+183_5202,"UALR Law Library",4
+183_6798,"UAM College of Technology-Crossett",4
+183_4634,"UAM College of Technology-McGehee",4
+183_5022,"UAMS",4
+183_8951,"UAMS AHEC-Pine Bluff",4
+183_2566,"UAPB",4
+183_8455,"UAPB-NLR",4
+183_9567,"UCA",4
+183_7467,"UCA Community School of Music",4
+183_4642,"UCP Adult Center",4
+183_2570,"University of Central Arkansas",4
+183_2574,"University of Ozarks",4
+183_8667,"University of Phoenix",4
+183_2450,"Valley Springs School District",4
+183_2454,"Valley View School District",4
+183_6706,"Van Buren Co. Special School",4
+183_2458,"Van Buren School District",4
+183_4666,"Velvatex Beauty College",4
+183_4670,"Victory Baptist School-Sherwood",4
+183_4874,"Victory Christian-Camden",4
+183_2466,"Vilonia School District",4
+183_6858,"Vincennes University",4
+183_4710,"Vincent University",4
+183_2470,"Viola School District",4
+183_4170,"Vision Christian Academy",4
+183_2478,"Waldron School District",4
+183_4354,"Walnut Ridge School District",4
+183_2482,"Warren School District",4
+183_9723,"Washington Barber College",4
+183_2486,"Watson Chapel School District",4
+183_4726,"Webster University",4
+183_4730,"Webster University-LRAFB",4
+183_2490,"Weiner School District",4
+183_2494,"West Fork School District",4
+183_4462,"West Memphis Christian School",4
+183_2498,"West Memphis School District",4
+183_4962,"West Side Christian School",4
+183_2502,"West Side-Greers Ferry",4
+183_7122,"Western Grove Schools",4
+183_2506,"Western Yell School District",4
+183_2510,"Westside, Johnson Co. School District",4
+183_2514,"White Co. Central School District",4
+183_8599,"White Co. Library System",4
+183_4842,"White Hall Christian Academy",4
+183_2518,"White Hall School District",4
+183_9463,"White River Specialized Industries",4
+183_4754,"Wilbur Mills Coop",4
+183_2582,"Williams Baptist College",4
+183_2526,"Wonderview School District",4
+183_4790,"Woodland Hills Christian High School",4
+183_2530,"Woodlawn School District",4
+183_6794,"Word of Faith Christian Academy",4
+183_4798,"Word of Outreach Academy",4
+183_10151,"World Services for the Blind",4
+183_2534,"Wynne School District",4
+183_7126,"Yell Co. Special Services",4
+183_2538,"Yellville-Summit School District",4
+183_9111,"5th Division Circuit Court",4
+183_5018,"Arkansas Federal Offices",4
+183_9551,"Arkansas Game and Fish",4
+183_8771,"Arkansas House of Representatives",4
+183_8707,"Arkansas National Guard",4
+183_4834,"Arkansas State Offices",4
+183_9767,"Baptist Medical Center",4
+183_8403,"Batesville City Government",4
+183_8411,"Benton City Government",4
+183_8415,"Bryant City Government",4
+183_9395,"Cabot District Court",4
+183_10099,"City of England - District Court",4
+183_8399,"Clinton City Government",4
+183_8431,"Conway City Government",4
+183_9119,"Faulkner County Courthouse",4
+183_10163,"Federal Offices",4
+183_9115,"Garland County Offices",4
+183_9427,"Grant County Offices",4
+183_8371,"Jacksonville City Government",4
+183_9411,"Jefferson Co. Courthouse",4
+183_8251,"Little Rock Air Force Base",4
+183_8363,"Little Rock City Government",4
+183_9519,"Lonoke Co. Courthouse",4
+183_10167,"Lonoke District Court",4
+183_9139,"Malvern-Hot Spring Co. Library",4
+183_8423,"Maumelle City Government",4
+183_8395,"Newport City Government",4
+183_8391,"North Little Rock City Government",4
+183_10039,"Perry Co. Government Offices",4
+183_8367,"Pine Bluff City Government",4
+183_9123,"Pulaski Co. District Court",4
+183_7166,"Pulaski Co. Government",4
+183_10111,"Pulaski Co. Juvenile Circuit Ct",4
+183_9451,"Russellville City Government",4
+183_8407,"Searcy City Government",4
+183_8419,"Sherwood City Government",4
+183_9559,"St. Vincent Heart Clinic Arkansas",4
+183_9731,"Vilonia City Government",4
+183_9419,"White County District Court-Beebe",4
+183_9447,"Yell County Courthouse",4
+183_5058,"Arkansas Road Conditions",4
+183_5070,"Missouri Road Conditions",4
+183_5074,"Oklahoma Road Conditions",4
+183_9571,"Perry Primary Care",4
+183_9555,"Renaissance Women's Center - Conway",4
+183_5082,"Tennessee Road Conditions",4
+183_5078,"Texas Road Conditions",4
+183_8487,"1st Assembly-Bald Knob",4
+183_6238,"1st Assembly-Beebe",4
+183_2834,"1st Assembly-Benton",4
+183_5922,"1st Assembly-Greers Ferry",4
+183_2594,"1st Assembly-Gurdon",4
+183_3206,"1st Assembly-Heber Springs",4
+183_5406,"1st Assembly-Hector",4
+183_6974,"1st Assembly-Hot Springs",4
+183_5278,"1st Assembly-Malvern",4
+183_2586,"1st Assembly-NLR",4
+183_9915,"1st Assembly-Pine Bluff",4
+183_7266,"1st Assembly-Russellville",4
+183_8575,"1st Assembly-Searcy",4
+183_6658,"1st Assembly-White Hall",4
+183_9775,"1st Baptist - Augusta",4
+183_7242,"1st Baptist-9th & Calhoun",4
+183_2610,"1st Baptist-Arkadelphia",4
+183_7647,"1st Baptist-Atkins",4
+183_6302,"1st Baptist-Bald Knob",4
+183_3230,"1st Baptist-Beebe",4
+183_2614,"1st Baptist-Benton",4
+183_2618,"1st Baptist-Bryant",4
+183_5498,"1st Baptist-Cabot",4
+183_2622,"1st Baptist-Camden",4
+183_6354,"1st Baptist-Carlisle",4
+183_9379,"1st Baptist-Casa",4
+183_6534,"1st Baptist-Clinton",4
+183_3210,"1st Baptist-Conway",4
+183_9471,"1st Baptist-Curtis",4
+183_8527,"1st Baptist-Damascus",4
+183_8563,"1st Baptist-Dardanelle",4
+183_6922,"1st Baptist-DeValls Bluff",4
+183_9855,"1st Baptist-Dover",4
+183_3214,"1st Baptist-England",4
+183_6046,"1st Baptist-Floyd",4
+183_5518,"1st Baptist-Fordyce",4
+183_2626,"1st Baptist-Gravel Ridge",4
+183_3234,"1st Baptist-Heber Springs",4
+183_2630,"1st Baptist-Highland Park",4
+183_3226,"1st Baptist-Hot Springs",4
+183_4822,"1st Baptist-Jacksonville",4
+183_5762,"1st Baptist-Kensett",4
+183_9631,"1st Baptist-Little Rock",4
+183_6290,"1st Baptist-Malvern",4
+183_5570,"1st Baptist-Maumelle",4
+183_9231,"1st Baptist-Mayflower",4
+183_2634,"1st Baptist-McRae",4
+183_9803,"1st Baptist-Morrilton",4
+183_2598,"1st Baptist-Mount Ida",4
+183_5954,"1st Baptist-NLR Main St.",4
+183_7038,"1st Baptist-NLR N. Hills",4
+183_7206,"1st Baptist-Oppelo",4
+183_2602,"1st Baptist-Pankey",4
+183_6362,"1st Baptist-Pine Bluff",4
+183_7322,"1st Baptist-Plumerville",4
+183_6678,"1st Baptist-Quitman",4
+183_8831,"1st Baptist-Russellville",4
+183_8663,"1st Baptist-SA Jones",4
+183_3222,"1st Baptist-Searcy",4
+183_2638,"1st Baptist-Shannon Hills",4
+183_2642,"1st Baptist-Sheridan",4
+183_6358,"1st Baptist-Sherwood",4
+183_5566,"1st Baptist-Vilonia",4
+183_8991,"1st Baptist-Ward",4
+183_5510,"1st Baptist-White Hall",4
+183_5546,"1st Baptist-Woodson",4
+183_2646,"1st Christian-Benton",4
+183_5682,"1st Christian-LR",4
+183_7174,"1st Christian-Maumelle",4
+183_9131,"1st Christian-Murfreesboro",4
+183_6430,"1st Christian-Sheridan",4
+183_9423,"1st Church of Nazarene-Benton",4
+183_10019,"1st Church of Nazarene-Hot Springs",4
+183_8671,"1st Cumberland Presbyterian",4
+183_2650,"1st Free Will Baptist-NLR",4
+183_9227,"1st Free Will Baptist-Russellville",4
+183_7086,"1st General Baptist-Heber Springs",4
+183_5342,"1st Landmark Baptist-Sheridan",4
+183_9771,"1st Lutheran - Hot Springs",4
+183_5638,"1st Lutheran-LR",4
+183_8511,"1st Methodist-Batesville",4
+183_9103,"1st Methodist-Beebe",4
+183_6970,"1st Methodist-Bryant",4
+183_8567,"1st Methodist-Des Arc",4
+183_7098,"1st Methodist-Heber Springs",4
+183_3202,"1st Methodist-Hot Springs",4
+183_2590,"1st Methodist-Jacksonville",4
+183_4818,"1st Methodist-Maumelle",4
+183_9291,"1st Methodist-Murfreesboro",4
+183_2654,"1st Methodist-NLR",4
+183_6394,"1st Methodist-Sheridan",4
+183_2658,"1st Missionary Baptist",4
+183_2838,"1st Nazarene-Benton",4
+183_7222,"1st Nazarene-Conway",4
+183_5418,"1st Nazarene-LR",4
+183_7130,"1st Pentecostal-Benton",4
+183_5902,"1st Pentecostal-Bryant",4
+183_6506,"1st Pentecostal-Hot Springs",4
+183_7050,"1st Pentecostal-NLR",4
+183_8507,"1st Presbyterian-Batesville",4
+183_9223,"1st Presbyterian-Beebe",4
+183_2662,"1st Presbyterian-Benton",4
+183_7639,"1st Presbyterian-Harrison",4
+183_7102,"1st Presbyterian-Heber Springs",4
+183_9867,"1st Presbyterian-Jacksonville",4
+183_8583,"1st Presbyterian-Little Rock",4
+183_6654,"1st Presbyterian-Lonoke",4
+183_5938,"1st Presbyterian-NLR",4
+183_5322,"1st Presbyterian-Pine Bluff",4
+183_6258,"1st Southern Baptist-Magnet Cove",4
+183_5270,"1st Southern Baptist-Sheridan",4
+183_10123,"1st United Methodist - NLR",4
+183_9603,"1st United Methodist Church-Russellville",4
+183_9895,"1st United Methodist-LR",4
+183_2686,"2nd Baptist-Arkadelphia",4
+183_6566,"2nd Baptist-Barrow Road",4
+183_5530,"2nd Baptist-Conway",4
+183_6542,"2nd Baptist-Downtown LR",4
+183_2674,"2nd Baptist-England",4
+183_5146,"2nd Baptist-Jacksonville",4
+183_6866,"2nd Baptist-Malvern",4
+183_9851,"2nd Baptist-Russellville",4
+183_2678,"2nd Presbyterian-LR",4
+183_6586,"34th St. Missionary Baptist",4
+183_2682,"3rd Baptist-Malvern",4
+183_5338,"47th Street Baptist-NLR",4
+183_7326,"65th St. Baptist",4
+183_8591,"7th Day Adventist-Little Rock",4
+183_5226,"7th Day Baptist",4
+183_5914,"8th Street Baptist-NLR",4
+183_7627,"Abundance of Grace-NLR",4
+183_9163,"Abundant Grace Christian",4
+183_7338,"ACTS-NLR",4
+183_7330,"Agape Church",4
+183_6530,"Airport Church of Christ",4
+183_6554,"All Saints Anglican",4
+183_5190,"All Saints Episcopal-Russellville",4
+183_5750,"All Souls Church",4
+183_7919,"Allen Chapel-Batesville",4
+183_7531,"Allport Community Fellowship",4
+183_6058,"Amboy Methodist",4
+183_9371,"Amity 2nd Baptist",4
+183_5578,"Annunciation Greek Orthodox",4
+183_6514,"Antioch Baptist",4
+183_2766,"Antioch Baptist-Conway",4
+183_2762,"Antioch Baptist-LR",4
+183_2770,"Antioch Church-College Station",4
+183_2774,"Apostolic Church-NLR",4
+183_9971,"Arkansas House of Prayer",4
+183_6346,"Asbury Methodist-Batesville",4
+183_2806,"Asbury Methodist-LR",4
+183_8627,"Augusta Baptist",4
+183_6030,"Bailey Chapel Baptist-NLR",4
+183_5486,"Balboa Baptist",4
+183_9095,"Barcelona Road Baptist",4
+183_2818,"Baring Cross Baptist",4
+183_6042,"Baseline Pitstop Church",4
+183_2822,"Batesville Calvary Baptist",4
+183_5474,"Baugh Chapel Baptist",4
+183_5494,"Bayou Meto Baptist",4
+183_9387,"Bearden 1st Assembly",4
+183_6406,"Bearden Methodist",4
+183_6090,"Bee Branch Baptist",4
+183_9823,"Beebe Church of the Nazarene",4
+183_9299,"Believers Fellowship Assembly",4
+183_2850,"Berean Baptist-NLR",4
+183_7262,"Beryl Baptist-Vilonia",4
+183_2858,"Bethel AME-NLR",4
+183_5850,"Bethel Baptist-Benton",4
+183_6178,"Bethel Baptist-Jacksonville",4
+183_2862,"Bethesda Baptist",4
+183_2866,"Bethlehem Baptist-Greenbrier",4
+183_7250,"Bethlehem Baptist-Searcy",4
+183_9327,"Bethlehem Worship Ctr.-Dumas",4
+183_9843,"Bible Church of Cabot",4
+183_2870,"Bible Church-LR",4
+183_2874,"Bingham Road Baptist",4
+183_6522,"Bismarck Pentecostal",4
+183_5262,"Bono Baptist-Greenbrier",4
+183_2886,"Bountiful Blessings Fellowship",4
+183_5430,"Briarwood Baptist-Cabot",4
+183_5290,"Brockington Road Nazarene",4
+183_6942,"Brownsville Baptist",4
+183_9967,"Brownsville Baptist-Lonoke",4
+183_9263,"Brumley Baptist",4
+183_9827,"Cabot Family Life",4
+183_5594,"Caddo Valley Baptist Church",4
+183_5410,"Calvary Baptist -NLR",4
+183_5354,"Calvary Baptist-Benton",4
+183_2914,"Calvary Baptist-LR",4
+183_6306,"Calvary Baptist-Sherwood",4
+183_5274,"Calvary Chapel-Bauxite",4
+183_2922,"Calvary Church of Nazarene",4
+183_5778,"Calvary Missionary Baptist-Sheridan",4
+183_9399,"Calvary Temple New Life-Conway",4
+183_8763,"Calvary's Cross Chapel",4
+183_5438,"Canaan Baptist",4
+183_9343,"Canaan Christian Center",4
+183_7110,"Caney Creek Baptist",4
+183_10159,"Canvas Community Church",4
+183_9871,"Carlisle United Methodist",4
+183_5714,"Cedar Creek Community Church",4
+183_9251,"Cedar Heights Baptist",4
+183_2946,"Centenniel Fellowship",4
+183_2950,"Centerpoint Church-Benton",4
+183_2958,"Central Baptist-Conway",4
+183_5470,"Central Baptist-Hot Springs",4
+183_6102,"Central Baptist-NLR",4
+183_2962,"Central Baptist-Pine Bluff",4
+183_2966,"Central Church of Christ-LR",4
+183_6650,"Central Presbyterian-Pine Bluff",4
+183_9075,"Central Presbyterian-Russellville",4
+183_6558,"Changing Channels Ministries",4
+183_9355,"Charity Baptist-Ward",4
+183_5514,"Chenal Valley Baptist",4
+183_5326,"Chenal Valley Church of Christ",4
+183_6334,"Chicot Road Baptist",4
+183_6142,"Christ Centered Fellowship Bible",4
+183_6926,"Christ Church",4
+183_6610,"Christ Hope",4
+183_8239,"Christ Lutheran-LR",4
+183_5434,"Christ of the Hills",4
+183_5162,"Christ Temple Cathedral",4
+183_10059,"Christ Temple COCHUSA",4
+183_5118,"Christ the King-LR",4
+183_9883,"Christ United Methodist",4
+183_5834,"Christ Worship Center Church",4
+183_7523,"ChristCom Ministries",4
+183_3010,"Christian Assembly of God-Sherwood",4
+183_7054,"Christian Church-Jacksonville",4
+183_6642,"Christian Life Center-LR",4
+183_3014,"Christian Life Ministries-Maumelle",4
+183_6026,"Christian Science Church-NLR",4
+183_3022,"Christway Baptist",4
+183_5502,"Church Alive",4
+183_6190,"Church at Pinnacle Mtn.",4
+183_9791,"Church at Rock Creek",4
+183_6954,"Church at Willow Beach",4
+183_5890,"Church of Lord Jesus Christ",4
+183_10091,"City of Refuge Community Church",4
+183_8163,"Clearview Baptist-Heber Springs",4
+183_5978,"Cleveland Baptist",4
+183_9243,"Cloverdale Church of Christ-Searcy",4
+183_8503,"College Church of Christ",4
+183_8959,"College Heights Church of Christ",4
+183_6286,"Communion Christian Fellowship-Bryant",4
+183_5758,"Concord Methodist-Lonoke",4
+183_5806,"Concord Methodist-LR",4
+183_8651,"Conway Church of Nazarene",4
+183_8571,"Copperas Springs Baptist",4
+183_7274,"Cornerstone Assembly-NLR",4
+183_9403,"Cornerstone Assembly-Ward",4
+183_6198,"Cornerstone Bible Fellowship",4
+183_5690,"Cornerstone Nazarene",4
+183_5706,"Coronado Baptist Church",4
+183_5726,"Country Chapel",4
+183_6426,"County Line Baptist",4
+183_6598,"Covenant Faith Praise & Worship",4
+183_3058,"Covenant of Zion-LR",4
+183_6478,"Covenant Presbyterian-LR",4
+183_3062,"Cross Point Baptist",4
+183_7238,"Cross Point-LR",4
+183_6402,"Cross Roads Missionary-Benton",4
+183_3066,"Cross Street Christian",4
+183_9211,"Crossgate Church",4
+183_9927,"Crosspoint Ministries",4
+183_6374,"Crosspoint-Ferndale",4
+183_5982,"Crosspointe-Cabot",4
+183_3070,"Crosswalk Family of God",4
+183_3074,"Crystal Hill Assembly of God",4
+183_5034,"Crystal Valley Baptist",4
+183_3078,"Crystal Valley Baptist",4
+183_9207,"Dallas Avenue Baptist-Mena",4
+183_3082,"Damascus Spiritual",4
+183_5346,"Daugherty Hill Baptist",4
+183_6386,"Dayspring-Pearcy",4
+183_5134,"Disciples of Love",4
+183_5822,"Divine Grace Apostolic Church",4
+183_3106,"Dover Methodist",4
+183_9267,"Downtown Church of Christ-Morrilton",4
+183_8727,"Downtown Church of Christ-Searcy",4
+183_3114,"Eagle Point Church",4
+183_5710,"Eagle Rock Temple",4
+183_6310,"East End Baptist",4
+183_6770,"East Union Baptist-Hensley",4
+183_5558,"Eastern Star Baptist",4
+183_7030,"Ebenezer Baptist-Hot Springs",4
+183_9691,"Elect Temple COGIC",4
+183_3134,"Embassy Church",4
+183_6366,"Emmanuel Baptist-LR",4
+183_5574,"Epoch Church",4
+183_3142,"Evangelical Methodist-Stuttgart",4
+183_6214,"Evangelist Temple Church",4
+183_7679,"Evangelistic Ministry-Jacksonville",4
+183_8635,"Evans Mountain Full Gospel",4
+183_9271,"Fair Park Baptist-Russellville",4
+183_5658,"Fairfield Bay Methodist",4
+183_3150,"Fairplay Missionary Baptist",4
+183_5974,"Fairview Christian-McAlmont",4
+183_6986,"Faith Assembly-Searcy",4
+183_5854,"Faith Baptist-Cabot",4
+183_3154,"Faith Baptist-NLR",4
+183_3158,"Faith Baptist-Searcy",4
+183_5934,"Faith Community-Furlow",4
+183_5994,"Faith Lutheran-LR",4
+183_5386,"Faith Methodist-Little Rock",4
+183_8555,"Faith Springs-Little Rock",4
+183_6074,"Faith United Church of Christ",4
+183_3162,"Family Church-Bryant",4
+183_5794,"Family Church-Pine Bluff",4
+183_3182,"Fellowship Baptist-Cabot",4
+183_3190,"Fellowship Bible-Benton",4
+183_7290,"Fellowship Bible-Conway",4
+183_3186,"Fellowship Bible-LR",4
+183_6122,"Fellowship Bible-Searcy",4
+183_5930,"Fellowship Christian-Sherwood",4
+183_8579,"Fellowship Missionary Baptist",4
+183_9959,"First Free Will Baptist",4
+183_9891,"Floyd United Methodist",4
+183_2842,"Four Square Church-Benton",4
+183_5554,"Freedom Worship Center",4
+183_5234,"Friendly Chapel of Nazarene",4
+183_5542,"Full Life Family Fellowship",4
+183_5962,"Gaines St. Baptist",4
+183_6946,"Gardner Memorial",4
+183_8559,"Garner Baptist",4
+183_3274,"Geyer Springs Baptist",4
+183_9787,"Geyer Springs COC",4
+183_5490,"Geyer Springs Methodist",4
+183_3282,"Glad Tidings Assembly of God",4
+183_6022,"Glen Rose Assembly of God",4
+183_9143,"God's Place International-Camden",4
+183_3298,"Good Stewardship Baptist",4
+183_7094,"Gospel Light Baptist-Heber Springs",4
+183_5618,"Grace Church",4
+183_3302,"Grace Church of Nazarene-NLR",4
+183_5374,"Grace Community-Cabot",4
+183_5886,"Grace Fellowship-Sheridan",4
+183_6494,"Grace Lutheran-LR",4
+183_6570,"Grace Methodist-Conway",4
+183_3314,"Grace Missionary Baptist",4
+183_10007,"Grace Temple",4
+183_8219,"Grace Temple COGIC",4
+183_6742,"Grace Temple-Pine Bluff",4
+183_5686,"Grand Avenue Baptist-Hot Springs",4
+183_8855,"Grand Avenue Methodist-Hot Springs",4
+183_3306,"Grand Prairie Evangelical Methodist",4
+183_5590,"Graves Memorial Baptist",4
+183_3322,"Greater 2nd Baptist-LR",4
+183_3326,"Greater Arch View Baptist",4
+183_3330,"Greater Friendship Church",4
+183_5238,"Greater Grace Baptist",4
+183_5770,"Greater Grace Temple",4
+183_3334,"Greater Macedonia Baptist",4
+183_3338,"Greater New Hope Bapist-NLR",4
+183_5910,"Greater New Hope Baptist-LR",4
+183_9191,"Greater Pleasant Hill Baptist",4
+183_6006,"Greater Rose of Sharon",4
+183_6470,"Greater Shiloh Baptist-NLR",4
+183_6018,"Greater St. John Baptist-LR",4
+183_7931,"Greater Trinity Church of God",4
+183_6902,"Greater Unity Missionary-LR",4
+183_5946,"Green Meadows Baptist-Pine Bluff",4
+183_9611,"Greenbrier Church of the Nazarene",4
+183_5698,"Hardin Baptist Church",4
+183_6202,"Hardrider Biker Church",4
+183_5678,"Harlan Park Baptist",4
+183_3366,"Harmony Baptist",4
+183_7026,"Harvest Baptist-Cabot",4
+183_6274,"Heber Springs Baptist",4
+183_5742,"Heber Springs Church of Christ",4
+183_3374,"Hebron Baptist",4
+183_6110,"Henderson Methodist",4
+183_6082,"Hickory Grove Baptist-Bismarck",4
+183_3386,"Highland Heights Baptist",4
+183_3390,"Highland Valley Methodist",4
+183_3394,"Highway 5 Church of Christ",4
+183_6126,"Highway Baptist-Sherwood",4
+183_9215,"Hillside Baptist-Camden",4
+183_6390,"Hilltop Baptist-Cabot",4
+183_5774,"His Way Ministries",4
+183_5122,"Holland Chapel Baptist",4
+183_3402,"Holly Grove AME",4
+183_6138,"Holy Cross Baptist-LR",4
+183_6442,"Holy Ground Baptist",4
+183_9127,"Hope Lutheran Church-Jacksonville",4
+183_9311,"Hope Pentecostal-Sheridan",4
+183_6590,"Hot Springs Baptist",4
+183_5398,"House of Prayer-Greenbrier",4
+183_7226,"House of Refuge-Mayflower",4
+183_6226,"Howard General Baptist",4
+183_9363,"Humnoke Pentecostal",4
+183_6282,"Hunter Methodist",4
+183_5522,"Hurricane Lake Baptist",4
+183_6174,"Immanuel Baptist-Camden",4
+183_8735,"Immanuel Baptist-Greenbrier",4
+183_3434,"Immanuel Baptist-LR",4
+183_3438,"Immanuel Baptist-Sheridan",4
+183_9275,"Immanuel Christian-Hot Springs",4
+183_10023,"In His Presence Worship Ministries",4
+183_5598,"Indian Hills Church",4
+183_6462,"Indian Springs Baptist",4
+183_3454,"Indianhead Lake Baptist",4
+183_6550,"Intercessory Prayer Church of God",4
+183_3462,"Ironton Baptist",4
+183_6158,"Islamic Center for Excellence",4
+183_6114,"Jacksonville Christian Fellowship",4
+183_7006,"Jacksonville Nazarene",4
+183_6438,"Jessieville Baptist",4
+183_9339,"Johnson St. Church of Christ",4
+183_5634,"Journey Church",4
+183_8539,"Judsonia Church of Christ",4
+183_6890,"Kellogg Valley Baptist",4
+183_5718,"King Solomon Baptist",4
+183_6862,"Lake Hamilton Assembly-Hot Springs",4
+183_9151,"Lake Hamilton Cumberland Presbyterian",4
+183_5858,"Lake Valley Community",4
+183_9279,"LakePointe Church-Hot Springs",4
+183_5754,"Lakeshore Heights Baptist",4
+183_9963,"Lakeside Assembly of God",4
+183_6930,"Lakeside Baptist",4
+183_5654,"Lakewood Methodist",4
+183_5306,"Lampkin Chapel Baptist",4
+183_5266,"Landmark Baptist-England",4
+183_9255,"Landmark Baptist-Jacksonville",4
+183_6958,"Latter Day Saints-LR",4
+183_3554,"Latter Day Saints-NLR",4
+183_7334,"Leach Chapel",4
+183_6618,"Led by the Spirit of God",4
+183_7022,"Lee Chapel AME",4
+183_5298,"Legacy Assembly of God",4
+183_9951,"Legacy of Faith",4
+183_5378,"Leonard Street Baptist",4
+183_9367,"Letona Baptist",4
+183_5746,"Levy Baptist-NLR",4
+183_3570,"Levy Church of Christ",4
+183_5390,"Levy Methodist",4
+183_9415,"Liberty Baptist-Searcy",4
+183_5382,"Liberty Chapel-Malvern",4
+183_5734,"Liberty Community Church",4
+183_9283,"Liberty Grove Assembly of God",4
+183_7258,"Liberty Nazarene-Vilonia",4
+183_5842,"Life Line Baptist",4
+183_8979,"Life Way Baptist",4
+183_3054,"Lifepoint Church",4
+183_8795,"LifeSong Baptist",4
+183_9811,"Lifeway Baptist",4
+183_5210,"Lighthouse Christian-Rover",4
+183_3218,"Little Rock 1st Baptist-Pleasant Valley",4
+183_6466,"Little Rock Church",4
+183_3638,"Little Rock Church of God",4
+183_5722,"Little Rock Community Church",4
+183_5942,"Little Rock Islamic Center",4
+183_5586,"Little Rock West Assembly of God",4
+183_7302,"Living Water Worship Center",4
+183_5538,"Living Waters-Hot Springs",4
+183_3674,"Livingway Foursquare",4
+183_5370,"Longley Missionary Baptist",4
+183_6906,"Lonoke Baptist",4
+183_6546,"Lonsdale Baptist",4
+183_6894,"Lynch Drive Church of Christ",4
+183_9295,"Mabelvale Church of Christ",4
+183_3706,"Mabelvale Methodist",4
+183_5966,"Malvern Church of God",4
+183_3726,"Markham Street Baptist",4
+183_3730,"Marshall Road Baptist",4
+183_3734,"Martindale Baptist",4
+183_6978,"Mathews Memorial-Pine Bluff",4
+183_6578,"McAlmont Church of Christ",4
+183_3710,"McArthur Assembly of God",4
+183_6482,"McCabe Methodist",4
+183_7254,"Meadowlake Baptist",4
+183_5862,"Memorial Baptist",4
+183_5830,"Mercy's Cross-Sherwood",4
+183_3746,"Metropolitan Baptist",4
+183_8551,"Midtowne Church-Benton",4
+183_9183,"Morning Star Baptist-NLR",4
+183_3806,"Morrilton Calvary Baptist",4
+183_3810,"Mosaic Church",4
+183_5630,"Mountain Springs Baptist",4
+183_9923,"Mountain Top Cowboy",4
+183_10139,"Mountain Top Cowboy Church",4
+183_6370,"Mountainside Methodist",4
+183_6670,"Mt Sinai Christian-NLR",4
+183_8523,"Mt. Bethel Free Will Baptist-Rose Bud",4
+183_3846,"Mt. Calvary Missionary Baptist",4
+183_3850,"Mt. Carmel Baptist-Cabot",4
+183_7294,"Mt. Carmel Baptist-Plumerville",4
+183_3854,"Mt. Carmel Methodist",4
+183_7623,"Mt. Carmel Pentecostal-LR",4
+183_9235,"Mt. Friendship Baptist-Curtis",4
+183_6222,"Mt. Gale Baptist-Conway",4
+183_6486,"Mt. Hope Baptist",4
+183_6398,"Mt. Moriah Baptist",4
+183_6418,"Mt. Olive Baptist-Guy",4
+183_7286,"Mt. Olive Baptist-NLR",4
+183_3818,"Mt. Pisgah Baptist",4
+183_9947,"Mt. Pisgah United Methodist",4
+183_3858,"Mt. Pleasant Baptist-LR",4
+183_3862,"Mt. Pleasant Baptist-NLR",4
+183_3866,"Mt. Pleasant Methodist",4
+183_5230,"Mt. Sinai Church of God in Christ-Conway",4
+183_10031,"Mt. Sinai COGIC",4
+183_5918,"Mt. Sinai Missionary-Scott",4
+183_8711,"Mt. Sinai-Little Rock",4
+183_3870,"Mt. Tabor Methodist",4
+183_3874,"Mt. Vernon Baptist",4
+183_5818,"Mt. Vernon Baptist-Benton",4
+183_3878,"Mt. Zion Baptist-Benton",4
+183_5874,"Mt. Zion Baptist-Carlisle",4
+183_7282,"Mt. Zion General Baptist",4
+183_6322,"Mt. Zion Methodist-Lonoke",4
+183_5614,"Mt. Zion Missionary-Ridge Road",4
+183_9315,"Mundo De Fe Hispanic Church",4
+183_6150,"My Father's House Ministry",4
+183_5958,"National Park Assembly of God",4
+183_3898,"Natural Steps Baptist",4
+183_5242,"New Beginning Baptist-Malvern",4
+183_6294,"New Beginnings Fellowship-NLR",4
+183_6318,"New Beginnings-East Dr.",4
+183_8515,"New Bethel Church of Christ",4
+183_7058,"New Bethel-Bald Knob",4
+183_6194,"New Calvary Temple-NLR",4
+183_8615,"New Deliverance Temple",4
+183_3942,"New Dora Baptist",4
+183_9187,"New Faith Christian-Hot Springs",4
+183_6606,"New Hebron Baptist",4
+183_6502,"New Hope Baptist - NLR",4
+183_3958,"New Hope Baptist-Conway",4
+183_5462,"New Hope Baptist-LR",4
+183_7306,"New Jersusalem Baptist-Conway",4
+183_5782,"New Life Assembly-Gravel Ridge",4
+183_3974,"New Life Baptist-Alexander",4
+183_9815,"New Life Baptist-Benton",4
+183_9199,"New Life Christian-51st Street",4
+183_3986,"New Life Christian-NLR",4
+183_3978,"New Life Christian-Ware St.",4
+183_9627,"New Life Church of God-Bauxite",4
+183_7198,"New Life Church-Conway",4
+183_7991,"New Life Church-Heber Springs",4
+183_7194,"New Life Church-NLR",4
+183_9831,"New Life Missionary Baptist",4
+183_3966,"New Life-Sherwood",4
+183_6086,"New Light Baptist-LR",4
+183_6326,"New Prospect Baptist-Benton",4
+183_8723,"New Prospect Baptist-Cleveland",4
+183_9495,"New Prospect Baptist-Russellville",4
+183_5562,"New Salem Church",4
+183_5950,"New Season Worship Ctr.",4
+183_5426,"New Song Community Church",4
+183_6622,"New Zion Christian",4
+183_6014,"New Zion Grove Baptist-NLR",4
+183_7042,"New Zion Ministries",4
+183_8607,"North Bryant Baptist",4
+183_5702,"North Hills Baptist-Sherwood",4
+183_3894,"North Malvern Assembly of God",4
+183_9635,"Northside Church of Christ-Benton",4
+183_6982,"Northside Pentecostal",4
+183_6874,"Oak Forest Methodist",4
+183_9359,"Oak Grove Assembly-Monticello",4
+183_4106,"Oak Grove Baptist-Benton",4
+183_5810,"Oakland Methodist-Holland",4
+183_6582,"Oaklawn Baptist",4
+183_6382,"Oasis Church",4
+183_9347,"Oil Trough Church of Christ",4
+183_9247,"Ola Free Will Baptist",4
+183_9879,"Old Austin UMC",4
+183_5526,"Old Union Baptist-Benton",4
+183_4110,"Olive Branch Baptist",4
+183_9799,"Olive Hill Missionary Baptist",4
+183_9407,"Open Arms Assembly-Beebe",4
+183_4118,"Open Door Community Church",4
+183_6646,"Orion Missionary Baptist",4
+183_4122,"Otter Creek Assembly of God",4
+183_8639,"Otter Creek Baptist",4
+183_9623,"Our Savior Lutheran Church-Cabot",4
+183_5194,"Our Shepherd Lutheran",4
+183_8823,"Owensville Baptist Church",4
+183_6070,"Palarm Chapel Baptist",4
+183_6270,"Palestine Baptist",4
+183_9307,"Pangburn 1st Baptist",4
+183_9943,"Pangburn United Methodist",4
+183_3926,"Paradise Baptist-NLR",4
+183_5246,"Park Hill Baptist",4
+183_5478,"Park Hill Christian Church-NLR",4
+183_5466,"Park Hill Presbyterian",4
+183_3938,"Park Place Baptist-Bryant",4
+183_6730,"Park View Baptist",4
+183_7014,"Parkview Christian",4
+183_5838,"Parkview/New Hope UMC-Benton",4
+183_3950,"Parkway Place Baptist",4
+183_3982,"Pearcy Baptist",4
+183_7234,"Pee Dee Baptist-Clinton",4
+183_9607,"Perryville Assembly of God",4
+183_3994,"Perryville Church of Christ",4
+183_5926,"Pickles Gap Baptist",4
+183_6594,"Pilgrim Progress Baptist",4
+183_6314,"Pilgrim Rest Baptist #3",4
+183_8611,"Pilgrim Rest Baptist-Colonel Glenn",4
+183_4006,"Pilgrim Rest Baptist-Frazier Pike",4
+183_4014,"Pine Bluff Christian",4
+183_4018,"Pine Grove Baptist",4
+183_6846,"Pines Baptist",4
+183_5730,"Piney Grove Methodist",4
+183_5622,"Pinnacle Church",4
+183_10131,"Place of Harvest",4
+183_7202,"Plainview Baptist",4
+183_8547,"Pleasant Grove Baptist-Conway",4
+183_4030,"Pleasant Grove Baptist-Ferndale",4
+183_9203,"Pleasant Grove Baptist-Little Rock",4
+183_4034,"Pleasant Grove Baptist-Pine Bluff",4
+183_4038,"Pleasant Hill Baptist-Cabot",4
+183_7615,"Pleasant Hill Baptist-Hot Springs",4
+183_6574,"Pleasant Hill Baptist-Houston",4
+183_8623,"Pleasant Hill CME",4
+183_4042,"Pleasant Valley Church of Christ",4
+183_5878,"Prairie Chapel-Hazen",4
+183_5258,"Presbyterian Kirk in the Pines",4
+183_6230,"Prince of Peace Lutheran-Hot Springs",4
+183_5550,"Progressive Urban Family",4
+183_6066,"Promiseland-LR",4
+183_4066,"Pulaski Heights Baptist",4
+183_5990,"Pulaski Heights Christian",4
+183_4062,"Pulaski Heights Methodist",4
+183_6446,"Pulaski Heights Presbyterian",4
+183_6950,"Quitman Family Church",4
+183_9375,"Rainbow Deliverance Ministry",4
+183_6254,"Redfield Methodist",4
+183_6002,"Reed Memorial CME",4
+183_9935,"Restoration Ministries",4
+183_5786,"Revolution Church",4
+183_5454,"Reyburn Creek Baptist",4
+183_6262,"Reynolds Baptist",4
+183_5330,"River of Life Assembly of God",4
+183_5646,"River of Life Church-Hot Springs",4
+183_5582,"Robinson & Center Church of Christ",4
+183_6938,"Rock City Harvest Church",4
+183_6518,"Rock of Ages Baptist-Jacksonville",4
+183_7298,"Rock of Ages Baptist-Maumelle",4
+183_4126,"Rocky Mountain Baptist",4
+183_9303,"Romance Church of Christ",4
+183_8619,"Rose Bud Assembly of God",4
+183_10027,"Rose City Community Church of Christ",4
+183_4134,"Rose Hill Church of Nazarene",4
+183_9875,"Round Mountain Church",4
+183_9535,"Rover Baptist Church",4
+183_4142,"Ruddell Hill Baptist",4
+183_6106,"Rufus K. Young AME",4
+183_6342,"Runyan Baptist",4
+183_8587,"Russellville SDA",4
+183_4150,"Saddle Creek Church",4
+183_4154,"Salem Baptist-Benton",4
+183_8715,"Salem Missionary Baptist-Conway",4
+183_9847,"Salem UMC Conway",4
+183_4158,"Samaritan Hill Baptist",4
+183_5446,"Sandstone Drive Church of Christ",4
+183_9391,"Sardis Freewill Baptist",4
+183_6054,"Sardis Methodist",4
+183_10119,"Sardis Missionary Baptist",4
+183_10115,"Sardis Missionary Baptist",4
+183_5738,"Scope Ministries Christian",4
+183_7643,"Scottsville Assembly of God",4
+183_8519,"Searcy Church of the Nazarene",4
+183_9639,"Shabach Praise Kingdom Center",4
+183_5986,"Sharon Baptist-Benton",4
+183_6146,"Shepherd Hill Baptist",4
+183_9779,"Shepherd of Peace - Maumelle",4
+183_5302,"Shepherd of the Hills Lutheran",4
+183_9135,"Sherwood 1st Church of Nazarene",4
+183_4902,"Shiloh Adventist",4
+183_6078,"Shiloh Baptist",4
+183_6038,"Signs of Love-Hot Springs",4
+183_9323,"Smith Springs Freewill Baptist",4
+183_5422,"Sneed Chapel",4
+183_4206,"Solomon Grove Baptist",4
+183_4210,"Somers Ave. Church of Christ",4
+183_7214,"Soul Anchor Ministries",4
+183_6510,"South Highland Baptist",4
+183_5870,"South Main Baptist",4
+183_9155,"South Side Baptist-Pine Bluff",4
+183_9911,"Southside Assembly of God",4
+183_5294,"Southside Baptist-Damascus",4
+183_6298,"Southside Church of Christ-Cabot",4
+183_4254,"Southwest Assembly of God",4
+183_5606,"Spring Creek Baptist",4
+183_4262,"Springhill Baptist-Greenbrier",4
+183_6134,"Springhill Missionary Baptist",4
+183_4266,"Springlake Nazarene",4
+183_9807,"St Jude the Apostle",4
+183_6998,"St. Andrew AME-LR",4
+183_5894,"St. Andrew AME-SWLR",4
+183_5846,"St. Andrew Methodist-LR",4
+183_6738,"St. Andrew's Anglican Church",4
+183_7631,"St. Anne Catholic-NLR",4
+183_10011,"St. Barnabas Anglican Church",4
+183_9839,"St. Francis Episcopal",4
+183_6918,"St. James Catholic-Searcy",4
+183_4274,"St. James Methodist",4
+183_9907,"St. Joe Baptist",4
+183_8235,"St. John Baptist-Lonoke",4
+183_6990,"St. John Baptist-Main St.",4
+183_4286,"St. John's Catholic-Hot Springs",4
+183_9615,"St. John's Lutheran-Russellville",4
+183_5090,"St. Joseph Church-Conway",4
+183_4302,"St. Luke Baptist-NLR",4
+183_4306,"St. Luke Episcopal-Hot Springs",4
+183_7707,"St. Luke Episcopal-NLR",4
+183_5534,"St. Luke Methodist-LR",4
+183_6850,"St. Luke Methodist-Pine Bluff",4
+183_4310,"St. Margaret Episcopal-LR",4
+183_4318,"St. Mark Baptist-LR",4
+183_4314,"St. Mark Church-Jacksonville",4
+183_5790,"St. Mark Missionary Baptist",4
+183_9899,"St. Mark-Episcopal-LR",4
+183_9955,"St. Matthew No 2",4
+183_5186,"St. Michael Episcopal",4
+183_4322,"St. Michael-Hot Springs",4
+183_5866,"St. Paul Baptist-LR",4
+183_4330,"St. Paul Methodist-Malvern",4
+183_4326,"St. Paul UMC",4
+183_6454,"St. Peter Missionary",4
+183_8199,"St. Peters Episcopal-Conway",4
+183_6050,"Stanfill Baptist",4
+183_9887,"Stoney Point United Methodist",4
+183_7090,"Sugarloaf Baptist",4
+183_6182,"Sulphur Springs Methodist",4
+183_4518,"Summit Church",4
+183_8719,"Sunny Gap Baptist",4
+183_5222,"Sylvan Hills 1st Baptist",4
+183_4526,"Sylvan Hills Church of Christ",4
+183_4530,"Sylvan Hills Community Church",4
+183_9835,"Sylvan Hills UMC",4
+183_9819,"Sylvania Presbyterian Church",4
+183_8595,"Temple B'nai Israel",4
+183_4546,"Temple Baptist-Benton",4
+183_4550,"Temple Baptist-LR",4
+183_9863,"ThatChurch.com Cabot",4
+183_9859,"ThatChurch.com Sherwood",4
+183_10035,"The Assembly Cabot Church",4
+183_9195,"The Bible Church-Beebe",4
+183_9351,"The Church at Sherwood",4
+183_8643,"The Remnant Pentecostal",4
+183_5506,"The Summit Church",4
+183_9931,"Theressa Hoover Methodist",4
+183_6422,"Thornton Methodist",4
+183_4590,"Toltec Baptist",4
+183_6162,"Tower of Strength Ministries",4
+183_4602,"Trinity Assembly of God",4
+183_5482,"Trinity Baptist-Benton",4
+183_5310,"Trinity Baptist-Searcy",4
+183_7218,"Trinity Cathedral",4
+183_9795,"Trinity Fellowship",4
+183_9903,"Trinity Full Gospel",4
+183_7114,"Trinity Lutheran-NLR",4
+183_4618,"Trinity Methodist-LR",4
+183_4610,"Trinity Methodist-NLR",4
+183_9287,"Trinity Pentecostal",4
+183_4614,"Trinity Presbyterian-LR",4
+183_8095,"Trinity Temple Fellowship-Conway",4
+183_5970,"Triumph Ministries",4
+183_9383,"True Holiness Saints Center",4
+183_5906,"True Vine Worship Ctr.",4
+183_9995,"Tumbling Shoals Baptist Church",4
+183_6098,"Union AME-LR",4
+183_9147,"Union Missionary Baptist-Hot Springs",4
+183_4646,"Union Valley Baptist",4
+183_10015,"Unitarian Universalist - Little Rock",4
+183_7046,"Unitarian Universalist Village",4
+183_7318,"United Baptist-Conway",4
+183_5110,"United Fellowship-El Paso",4
+183_8647,"United Missionary Baptist",4
+183_9919,"United Missionary Baptist-Conway",4
+183_4658,"Unity Bible Baptist",4
+183_6914,"Unity Center of Truth",4
+183_5882,"Unity-LR",4
+183_8543,"University Church of Christ",4
+183_7230,"Upper Room Apostolic",4
+183_7495,"Upper Spring Creek-Belleville",4
+183_7927,"Victory Baptist-Sherwood",4
+183_6994,"Victory Fellowship",4
+183_9643,"Victory Ministries of Clarksville",4
+183_9619,"Victory Missionary Baptist-Russellville",4
+183_9175,"Victory Praise & Worship",4
+183_8847,"Victory Tabernacle-Danville",4
+183_5610,"Village Assembly of God",4
+183_5358,"Village Bible Church",4
+183_4678,"Village Creek Baptist",4
+183_5666,"Village Methodist",4
+183_9167,"Vilonia Church of  Christ",4
+183_5350,"Vimy Ridge Immanuel Baptist",4
+183_6246,"Vimy Ridge Missionary Baptist",4
+183_4714,"Vineyard Community Church",4
+183_4718,"Walnut Grove Baptist",4
+183_8531,"Warren Hill Missionary Baptist",4
+183_6378,"Watson Chapel Baptist",4
+183_6154,"Wellington Village Assembly",4
+183_9939,"Wesley Chapel UMC",4
+183_6734,"Wesley Methodist-Conway",4
+183_5414,"Wesley Methodist-Pine Bluff",4
+183_6414,"West Baptist-Batesville",4
+183_5826,"West Bauxite Baptist",4
+183_10127,"West Macedonia Baptist",4
+183_7314,"West Pangburn Community",4
+183_4742,"West Rock Baptist",4
+183_9159,"West Side Church of Christ-Searcy",4
+183_4746,"Westover Hills Presbyterian",4
+183_9783,"White Memorial UMC",4
+183_4778,"Windsong Church of Christ",4
+183_4782,"Winfield Methodist",4
+183_5798,"Woodland Hills Christian Church",4
+183_5334,"Woodland Presbyterian-HS Village",4
+183_7246,"Wooster Baptist",4
+183_6882,"Word Aflame Fellowship",4
+183_6662,"Word of Life-England",4
+183_6206,"Zion Grove Baptist-Twin Groves",4
+183_4810,"Zion Hill Baptist",4
+183_4814,"Zoe Bible",4
+183_8811,"123's & ABC's Childcare",4
+183_8255,"1st Assembly Preschool-Hot Springs",4
+183_9499,"1st Baptist Children's Ctr-Malvern",4
+183_3418,"1st Baptist Preschool-Hot Springs",4
+183_8227,"1st Christian Preschool-LR",4
+183_5050,"1st Methodist CDC-Hot Springs",4
+183_4966,"1st Methodist Kindergarten-El Dorado",4
+183_4690,"1st Methodist Preschool-Hope",4
+183_7951,"1st Presbyterian Children's Community",4
+183_7555,"1st Presbyterian Pre-School-Conway",4
+183_2666,"2 Cool 4 School",4
+183_6718,"2nd Presbyterian Preschool",4
+183_8283,"A + Childcare Centers",4
+183_2694,"A Class Scholars",4
+183_2698,"A Mother's Touch",4
+183_2706,"ABC 123-Conway",4
+183_7799,"ABC Children's Academy-Russellville",4
+183_8863,"Abundance of Joy Learning Ctr.",4
+183_2718,"Abundant Blessings",4
+183_8919,"Academy of Learning-Pine Bluff",4
+183_3442,"Academy of Purpose & Potential",4
+183_2722,"Acts 2:4",4
+183_7699,"Adventureland Academy",4
+183_8751,"Aftercare Express",4
+183_9975,"AHDC Early Head Start - Pulaski Co.",4
+183_7483,"AHDC Early Head Start-Garland Co.",4
+183_2730,"Ala Kare",4
+183_9999,"Alexander/Turner Child Care",4
+183_8055,"Alice's Daycare",4
+183_6822,"All 4 Kids",4
+183_4830,"All God's Children",4
+183_9099,"Allied Therapy & Consulting",4
+183_7499,"Andrea's School of Dance",4
+183_8859,"Angel's Learning Academy",4
+183_8123,"Apple Blossom Childcare-Beebe",4
+183_2786,"Arkansas Baptist Kiddie College",4
+183_5126,"Asbury Christian CDC",4
+183_9435,"Ascent/Pediatric Care-Arkadelphia",4
+183_6826,"Ati'Day Yisroel Daycare",4
+183_8947,"Auntie's Daycare and Learning Ctr.",4
+183_2814,"B & B Child Care",4
+183_7346,"Bambino's Childcare",4
+183_4702,"Batesville Montessori",4
+183_2830,"Bayou Meto Child Care",4
+183_4858,"Beech St. Early Education",4
+183_5130,"Benton FUMC Child Care",4
+183_9751,"Better Ideas Enrichment Center",4
+183_2878,"Bingham Road Childcare",4
+183_8819,"Booties to Sneakers Daycare",4
+183_7362,"Bottles to Buses Daycare",4
+183_7719,"Boys & Girls Club of Bryant",4
+183_3626,"Boys & Girls Club of Central Arkansas",4
+183_8995,"Boys & Girls Club of Jefferson Co.",4
+183_2894,"Bright Beginnings-Arkadelphia",4
+183_9035,"Bright Beginnings-Batesville",4
+183_9479,"Bright Beginnings-Malvern",4
+183_4762,"Bright Ideas-Bryant",4
+183_4770,"Bright Ideas-Maumelle",4
+183_8659,"Bright Ideas-NLR",4
+183_4766,"Bright Ideas-Otter Creek",4
+183_4758,"Bright Ideas-Sherwood",4
+183_8083,"Bundle of Joy",4
+183_2906,"Butterfly Learning Center",4
+183_1244,"Cabot Christian Learning Ctr.",4
+183_8807,"Cabot Methodist Childcare",4
+183_2910,"Cabot Patch Kids",4
+183_8887,"Cabot Zones",4
+183_9727,"CAPCA Head Start - Stuttgart",4
+183_7138,"CAPCA Head Start-Bald Knob",4
+183_4166,"Carpenter's Kids",4
+183_8007,"Central Christian Academy-Conway",4
+183_2970,"Chenal Valley Christian",4
+183_2974,"Chenal Valley Daycare",4
+183_9699,"Childcare Academy",4
+183_4570,"Childcare Network-Benton/Bryant",4
+183_9523,"Childcare Network-Conway",4
+183_9527,"Childcare Network-Little Rock",4
+183_3506,"Children First",4
+183_2990,"Children's Corner",4
+183_7635,"Children's Enrichment Center-NLR",4
+183_2798,"Children's Hospital Child Care",4
+183_5114,"Circle of Love Daycare",4
+183_7807,"Community Christian-Bigelow",4
+183_9979,"Conway Co Exceptional",4
+183_3042,"Conway Cradle Care",4
+183_8471,"Creative Kidz Center-Clarksville",4
+183_8359,"Creative Minds Learning Academy",4
+183_8679,"Crossgate Church Kids Day Out",4
+183_10043,"Crossgate Learn & Play",4
+183_8867,"CrossKids Child Dev. Ctr.",4
+183_8171,"Curtis Kindergarten and Preschool",4
+183_7787,"Danville Child Development",4
+183_9543,"Dardanelle Child Dev.",4
+183_3086,"Darnall",4
+183_7675,"Dawson Coop-Malvern ABC",4
+183_7382,"Day Camp-Lonoke",4
+183_5394,"Discovery Learning Center",4
+183_3118,"Eagles Landing",4
+183_9031,"Early Learning Center-Batesville",4
+183_2690,"Easter Seals Pre-School & Adults",4
+183_3126,"Edu-Kids",4
+183_8871,"Ermer's Learning Academy",4
+183_8015,"Faith Academy-Little Rock",4
+183_8319,"Faith Baptist Academy-Cabot",4
+183_3166,"Faulkner Co Boys & Girls Club",4
+183_3170,"Faulkner Co. Day School",4
+183_7895,"First Start Learning-Morrilton",4
+183_8087,"First Steps CDC",4
+183_7611,"Flip-over Gymnastics/Aftercare",4
+183_8451,"Foundations Daycare",4
+183_9431,"Frankie's Child Care-Dumas",4
+183_7883,"Full Faith Christian Academy",4
+183_9739,"FUMC CDC - Hot Springs",4
+183_8115,"Gentle Hands Learning Ctr.",4
+183_3270,"Geyer Springs Baptist Pre-School",4
+183_3278,"Gingerbread House-Conway",4
+183_8799,"Gingerbread House-Hot Springs",4
+183_3286,"Gloria's Children's Cottage",4
+183_9667,"Glory Divine Christian Academy",4
+183_3290,"Goodstart Headstart",4
+183_7423,"Grace & Love Child Development",4
+183_3310,"Grace Lutheran ECDC",4
+183_7411,"Graceland Kids Edu-Care Center",4
+183_7571,"Gram's House-Benton",4
+183_3318,"Grandma's House",4
+183_8291,"Granny's Den Daycare",4
+183_7374,"Greater Fellowship Childcare-Conway",4
+183_10003,"Grow Learning Centre",4
+183_3354,"Hand in Hand",4
+183_3358,"Happy Days Child Care",4
+183_3370,"Harris Head Start",4
+183_8139,"Heaven's Angels Learning Ctr.",4
+183_8759,"Helping Hand-Batesville",4
+183_3378,"Helping Hand-NLR",4
+183_3382,"Hemlock Headstart",4
+183_7815,"Henderson Children's Garden",4
+183_7955,"High Five Zone",4
+183_10047,"HIS Kids Christian Academy",4
+183_3398,"Holy Souls Extended Care",4
+183_3406,"Home Away from Home",4
+183_9063,"Honey Tree Learning Ctr.",4
+183_1720,"Hope Lutheran Preschool-Jacksonville",4
+183_8911,"Humpty Dumpty Child Dev. Ctr.",4
+183_3426,"Hunter Child Care",4
+183_3446,"In His Image",4
+183_8059,"In the Beginning Childcare",4
+183_8279,"Infant's World",4
+183_8967,"It's Mom Me",4
+183_3470,"Jean's House of Love",4
+183_3474,"JFK Learning Center",4
+183_2754,"Kareer Kids",4
+183_3482,"Kareer Kids",4
+183_8899,"Kari's Kids Learning Center",4
+183_3486,"Kathy's Nest Child Care",4
+183_3490,"Kennedy Headstart",4
+183_8339,"Kid Kollege-Maumelle",4
+183_7435,"Kid to Kid Child Development",4
+183_7711,"Kidcare Learning Center",4
+183_7567,"Kiddie Kollege-Holly Grove",4
+183_7010,"Kiddieland Nazarene",4
+183_3510,"Kiddieville",4
+183_7603,"Kids & Company Childcare",4
+183_3522,"Kids First-Little Rock",4
+183_9655,"Kids First-Morrilton",4
+183_9591,"Kids First-Morrilton",4
+183_8891,"Kids First-Pine Bluff",4
+183_3518,"Kids First-Pocahontas",4
+183_8695,"Kids R People 2 Daycare",4
+183_8907,"Kids R Us-Conway",4
+183_3514,"Kids R Us-Little Rock",4
+183_10079,"Kids Unlimited - Judsonia",4
+183_6834,"Kidsmart",4
+183_7178,"Kidz Country-Hot Springs",4
+183_7182,"Kidz Country-Little Rock",4
+183_10135,"Kidz Palace",4
+183_8459,"Kidz R First",4
+183_8111,"Kidz University-Conway",4
+183_7887,"King's Kids-Little Rock",4
+183_7935,"Kingdomm Kidds",4
+183_8939,"Klassic Kidz-Pine Bluff",4
+183_8839,"Kosmic Kidz-Pine Bluff",4
+183_8775,"Kuddle Kare",4
+183_7386,"Kydz R the Future",4
+183_3546,"La Petite Academy-LR",4
+183_3550,"La Petite Academy-Maumelle",4
+183_7691,"Lake Point Kiddie Cottage",4
+183_8923,"Lasonia's Activity Land",4
+183_3566,"Lawson & Lester Learning Ctr.",4
+183_8243,"Leap Forward Academy",4
+183_8927,"Learning Tree-Camden",4
+183_8851,"LearningRX",4
+183_4906,"Levy Christian Kindergarten",4
+183_3574,"Life Changing Child Care",4
+183_8295,"Life Skills for Youth",4
+183_4898,"Lifeline Baptist Preschool",4
+183_4138,"Lil Motivators Academy",4
+183_8683,"Lily Pad Learning Center",4
+183_9087,"Little Angels Academy",4
+183_8791,"Little Bitty City",4
+183_7655,"Little Champs Childcare",4
+183_8463,"Little Darlings Childcare",4
+183_7547,"Little Lambs-Hot Springs",4
+183_9179,"Little Learners-Yellville",4
+183_7819,"Little Life Academy-Conway",4
+183_7811,"Little One's Child Care-Heber Springs",4
+183_3630,"Little Rock Child Development",4
+183_3634,"Little Rock Children's Center",4
+183_3026,"Little Rock Early Childcare",4
+183_3646,"Little Saints-Searcy",4
+183_8051,"Little Scholars Academy-Maumelle",4
+183_3650,"Little Scholars-Little Rock",4
+183_10051,"Little Sprouts Learning Center",4
+183_3654,"Little Stars in Home",4
+183_8655,"Little Titans Bilingual",4
+183_3662,"Little Treasures",4
+183_3678,"Lollipop Kids",4
+183_3682,"London Bridge",4
+183_3694,"Lots of Tots-Malvern",4
+183_9759,"Love N Care Daycare",4
+183_9743,"Loving Hands Ministries-Hot Springs",4
+183_8167,"Lullabys & Lollipops Christian Daycare",4
+183_3702,"Lynn's Wonderland",4
+183_8935,"Lynny Penny's Child Development",4
+183_8127,"Mainstreet Kids-Clinton",4
+183_8135,"Mainstreet Kids-Higden",4
+183_8131,"Mainstreet Kids-Shirley",4
+183_9091,"Malvern Christian Acad. Childcare",4
+183_10147,"Mama Myrtles Learning Academy",4
+183_3722,"Marie Herekamp Daycare",4
+183_8119,"Markham St. Baptist Mother's Day Out",4
+183_6838,"Marvelous Kids Childcare",4
+183_8747,"McArthur Christian Academy",4
+183_3742,"Methodist Day School",4
+183_10143,"Miracle of Angels Academy",4
+183_7310,"Miss Bee's Daycare",4
+183_3770,"Miss Mary's",4
+183_3778,"Miss Sherry's",4
+183_3782,"Miss Wanda's",4
+183_3790,"MLK Headstart",4
+183_3794,"Momma Rene & Brittany's",4
+183_8915,"Mothers Touch ABC Preschool",4
+183_8879,"Mrs. Bobbi's TLC",4
+183_3822,"Mrs. Jeannie Daycare",4
+183_3826,"Mrs. Na's",4
+183_9459,"Mrs. Sonya's Childcare",4
+183_3834,"Ms. Carrie's-Conway",4
+183_3830,"Ms. Carrie's-LR",4
+183_3838,"Ms. Gwen's",4
+183_7491,"Ms. Karen's Dance",4
+183_8215,"Ms. Margaret's-Benton",4
+183_9439,"Mt. Carmel Baptist Daycare",4
+183_7106,"My First School-Jacksonville",4
+183_3886,"My First School-Maumelle",4
+183_3882,"My First School-Sherwood",4
+183_3890,"My First School-Vilonia",4
+183_9443,"Nana's Care Daycare",4
+183_7503,"Nanny's Playhouse & Learning Center",4
+183_9455,"Nelson Learning Ctr.-Russellville",4
+183_8691,"New Horizon's Day Care",4
+183_8299,"Noah's Ark Learning Center",4
+183_8467,"Oaklawn Baptist Preschool",4
+183_7443,"One 2 Grow On Childcare",4
+183_8755,"Ouachita Industries Schools",4
+183_8307,"Our House Childcare",4
+183_3910,"Our Kids-Sherwood",4
+183_3914,"Over the Rainbow Daycare",4
+183_8999,"Page & Co. Dance Academy",4
+183_9583,"Pangburn Child Care",4
+183_3930,"Parent's Time Out",4
+183_7875,"Parisi Speed School-Conway",4
+183_3934,"Park Hill Baptist Child Dev.",4
+183_7795,"Parkway Daycare-Russellville",4
+183_3970,"Paw Paw's Daycare",4
+183_3906,"Peace of Mind Childcare",4
+183_9015,"Pediatrics Plus-Conway",4
+183_9023,"Pediatrics Plus-Little Rock",4
+183_9531,"Pediatrics Plus-NLR",4
+183_9047,"Pediatrics Plus-Russellville",4
+183_6802,"Perfect lil' Angels",4
+183_7683,"Perryville Preschool Academy",4
+183_4026,"Playskool Day School",4
+183_7419,"Polly Wolly",4
+183_8895,"Porter Christian Dev. Ctr.",4
+183_4050,"Precious Beginnings",4
+183_10087,"Precious Moments - Austin",4
+183_4054,"Primrose Methodist Child Care",4
+183_6694,"Promise Christian Academy",4
+183_10055,"Puddle Jumpers Child Care",4
+183_7575,"Pulaski Heights Baptist Dayschool",4
+183_8311,"Pulaski Heights Methodist Dayschool",4
+183_4070,"Pumpkin Patch-Conway",4
+183_7350,"Punkin Patch",4
+183_4074,"Quality Child Care-Conway",4
+183_4078,"Quality Child Care-LR",4
+183_4082,"R & R Daycare Center",4
+183_4086,"Ranch Kids",4
+183_7170,"Rhonda's Homecare/Pre-school",4
+183_8943,"Rock City Dance Center",4
+183_4130,"Rolling Oaks Daycare",4
+183_8303,"Russellville Child Development",4
+183_8835,"Shannon Hills Christian Preschool",4
+183_9059,"Sheila's House",4
+183_7370,"Shining Star Academy-Jonesboro",4
+183_4186,"Shirley Johnston Daycare",4
+183_4190,"Showers of Blessings",4
+183_9171,"Simply Kids-Hot Springs Village",4
+183_8987,"Small Blessings Nurturing",4
+183_4198,"Small Fry Daycare",4
+183_8875,"Small World Child Care",4
+183_7366,"Smarty Britches-Beebe",4
+183_4202,"Snuggle Bug Cafe",4
+183_4214,"Sonshine Academy",4
+183_9007,"Sparkman Learning Center",4
+183_4270,"St. James Learning Center",4
+183_7703,"St. Luke Episcopal  Afterschool Care",4
+183_7475,"St. Margaret's Parent's Day Out",4
+183_4450,"St. Mark's Day School",4
+183_8195,"St. Peters Episcopal Preschool-Conway",4
+183_4510,"Starting Point Daycare",4
+183_8903,"Stuttgart Child Development",4
+183_4514,"Sugar Bear Child Care",4
+183_6710,"Sunny Day School",4
+183_7563,"Sunshine Academy Daycare-Bryant",4
+183_5158,"Sylvan Hills Learning Center",4
+183_9259,"Take the Lead Academy",4
+183_4542,"Teacher's Pet Pre-school",4
+183_7455,"Tender Loving Care-Searcy",4
+183_8211,"Tender Loving Child Care-Hot Springs",4
+183_8155,"The Caring Place-Hot Springs",4
+183_8323,"The Center of Early Learning",4
+183_9019,"The Center of Early Learning-Conway",4
+183_9027,"The Center of Early Learning-Little Rock",4
+183_4554,"The Children's Center",4
+183_8335,"The Garden for Creative Learning",4
+183_4558,"The Good Shepherd Child Care",4
+183_4574,"The Learning Tree-Conway",4
+183_5178,"The Learning Tree-Maumelle",4
+183_8739,"The Little Church-TLC",4
+183_7479,"The Little Gym",4
+183_4578,"The Lyons Den",4
+183_8079,"The Union Station Pre-school",4
+183_8063,"This Little Light of Mine",4
+183_4586,"Three Bears Christian",4
+183_8351,"Tiny Tots Academy",4
+183_4598,"Tree Hill Park School",4
+183_8731,"Trinity Cathedral Early Childhood Ed.",4
+183_4606,"Trinity Methodist Pre-school",4
+183_7431,"Tweety's World Learning Center",4
+183_4622,"Twin Grove Child Care",4
+183_9763,"Twinkle Little Totz Daycare",4
+183_4638,"UCA Child Study",4
+183_4722,"Watershed Child Development",4
+183_8011,"Wee Care-Little Rock",4
+183_7118,"Wesley Methodist Childcare-Pine Bluff",4
+183_5102,"Westover Hills Preschool",4
+183_7747,"Westside Kids Day Out",4
+183_7863,"Westside Kids Day Out",4
+183_8803,"Wiggles & Giggles-Little Rock",4
+183_8931,"Wiggles-n-Giggles-Conway",4
+183_4774,"Wilson Care",4
+183_8159,"Winfield Daycare",4
+183_4786,"Woodland Heights Christian",4
+183_4794,"Word of Outreach Daycare",4
+183_9747,"YMCA - Hot Springs",4
+183_7723,"YMCA-Heflin NLR",4
+183_6702,"YMCA-Westside LR",4
+183_4802,"Young Generation Daycare",4
+183_4806,"Youngland  Childcare Center",4

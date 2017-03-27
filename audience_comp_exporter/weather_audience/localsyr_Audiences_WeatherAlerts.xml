@@ -1,0 +1,146 @@
+<?xml version="1.0" standalone="no" ?>
+<audiences>
+	<audience>
+	<audienceType>Custom</audienceType>
+	<audienceCreateDate>10/29/2015 10:06:30 PM</audienceCreateDate>
+	<audienceGUID>F36B2157-AA31-4690-8774-D9B915B6E57D</audienceGUID>
+	<audienceName>Chenango County, NY</audienceName>
+	<audienceNotes>Weather Alerts - Chenango County, NY</audienceNotes>
+	<audienceEmailAddresses>0</audienceEmailAddresses>
+	<audienceUsableEmailAddresses>0</audienceUsableEmailAddresses>
+	<audienceMobileNumbers>0</audienceMobileNumbers>
+	<audienceUsableMobileNumbers>0</audienceUsableMobileNumbers>
+	</audience>
+
+	<audience>
+	<audienceType>Custom</audienceType>
+	<audienceCreateDate>10/29/2015 10:06:30 PM</audienceCreateDate>
+	<audienceGUID>B723BF0E-4789-48C5-97D9-898A70BD9386</audienceGUID>
+	<audienceName>Cortland County, NY</audienceName>
+	<audienceNotes>Weather Alerts - Cortland County, NY</audienceNotes>
+	<audienceEmailAddresses>0</audienceEmailAddresses>
+	<audienceUsableEmailAddresses>0</audienceUsableEmailAddresses>
+	<audienceMobileNumbers>0</audienceMobileNumbers>
+	<audienceUsableMobileNumbers>0</audienceUsableMobileNumbers>
+	</audience>
+
+	<audience>
+	<audienceType>Custom</audienceType>
+	<audienceCreateDate>10/29/2015 10:06:30 PM</audienceCreateDate>
+	<audienceGUID>1344EA9D-25DB-4D39-9B50-287664C0C036</audienceGUID>
+	<audienceName>Madison County, NY</audienceName>
+	<audienceNotes>Weather Alerts - Madison County, NY</audienceNotes>
+	<audienceEmailAddresses>0</audienceEmailAddresses>
+	<audienceUsableEmailAddresses>0</audienceUsableEmailAddresses>
+	<audienceMobileNumbers>0</audienceMobileNumbers>
+	<audienceUsableMobileNumbers>0</audienceUsableMobileNumbers>
+	</audience>
+
+	<audience>
+	<audienceType>Custom</audienceType>
+	<audienceCreateDate>10/29/2015 10:06:30 PM</audienceCreateDate>
+	<audienceGUID>463540DE-679C-470E-B75B-2FF94C23A4F3</audienceGUID>
+	<audienceName>Onondaga County, NY</audienceName>
+	<audienceNotes>Weather Alerts - Onondaga County, NY</audienceNotes>
+	<audienceEmailAddresses>0</audienceEmailAddresses>
+	<audienceUsableEmailAddresses>0</audienceUsableEmailAddresses>
+	<audienceMobileNumbers>0</audienceMobileNumbers>
+	<audienceUsableMobileNumbers>0</audienceUsableMobileNumbers>
+	</audience>
+
+	<audience>
+	<audienceType>Custom</audienceType>
+	<audienceCreateDate>10/29/2015 10:06:30 PM</audienceCreateDate>
+	<audienceGUID>EE88D6C7-C1BF-4D04-BC13-B788310A858D</audienceGUID>
+	<audienceName>Wayne County, NY</audienceName>
+	<audienceNotes>Weather Alerts - Wayne County, NY</audienceNotes>
+	<audienceEmailAddresses>0</audienceEmailAddresses>
+	<audienceUsableEmailAddresses>0</audienceUsableEmailAddresses>
+	<audienceMobileNumbers>0</audienceMobileNumbers>
+	<audienceUsableMobileNumbers>0</audienceUsableMobileNumbers>
+	</audience>
+
+	<audience>
+	<audienceType>Custom</audienceType>
+	<audienceCreateDate>10/29/2015 10:06:30 PM</audienceCreateDate>
+	<audienceGUID>7F52843C-01B6-4E4B-9623-3F56CBA10D8D</audienceGUID>
+	<audienceName>Jefferson County, NY</audienceName>
+	<audienceNotes>Weather Alerts - Jefferson County, NY</audienceNotes>
+	<audienceEmailAddresses>0</audienceEmailAddresses>
+	<audienceUsableEmailAddresses>0</audienceUsableEmailAddresses>
+	<audienceMobileNumbers>0</audienceMobileNumbers>
+	<audienceUsableMobileNumbers>0</audienceUsableMobileNumbers>
+	</audience>
+
+	<audience>
+	<audienceType>Custom</audienceType>
+	<audienceCreateDate>10/29/2015 10:06:30 PM</audienceCreateDate>
+	<audienceGUID>A92B614A-BCBD-4E16-B16B-C52FEB28D99B</audienceGUID>
+	<audienceName>Oneida County, NY</audienceName>
+	<audienceNotes>Weather Alerts - Oneida County, NY</audienceNotes>
+	<audienceEmailAddresses>0</audienceEmailAddresses>
+	<audienceUsableEmailAddresses>0</audienceUsableEmailAddresses>
+	<audienceMobileNumbers>0</audienceMobileNumbers>
+	<audienceUsableMobileNumbers>0</audienceUsableMobileNumbers>
+	</audience>
+
+	<audience>
+	<audienceType>Custom</audienceType>
+	<audienceCreateDate>10/29/2015 10:06:30 PM</audienceCreateDate>
+	<audienceGUID>7C0FFB74-72A4-4BC1-A07C-1D1A8ECE92BE</audienceGUID>
+	<audienceName>Lewis County, NY</audienceName>
+	<audienceNotes>Weather Alerts - Lewis County, NY</audienceNotes>
+	<audienceEmailAddresses>0</audienceEmailAddresses>
+	<audienceUsableEmailAddresses>0</audienceUsableEmailAddresses>
+	<audienceMobileNumbers>0</audienceMobileNumbers>
+	<audienceUsableMobileNumbers>0</audienceUsableMobileNumbers>
+	</audience>
+
+	<audience>
+	<audienceType>Custom</audienceType>
+	<audienceCreateDate>10/29/2015 10:06:30 PM</audienceCreateDate>
+	<audienceGUID>314FF021-7656-47BD-B739-CD4AA228BE4A</audienceGUID>
+	<audienceName>Cayuga County, NY</audienceName>
+	<audienceNotes>Weather Alerts - Cayuga County, NY</audienceNotes>
+	<audienceEmailAddresses>0</audienceEmailAddresses>
+	<audienceUsableEmailAddresses>0</audienceUsableEmailAddresses>
+	<audienceMobileNumbers>0</audienceMobileNumbers>
+	<audienceUsableMobileNumbers>0</audienceUsableMobileNumbers>
+	</audience>
+
+	<audience>
+	<audienceType>Custom</audienceType>
+	<audienceCreateDate>10/29/2015 10:06:30 PM</audienceCreateDate>
+	<audienceGUID>33ABF088-210A-47D0-AE40-5B7199D11E3A</audienceGUID>
+	<audienceName>Oswego County, NY</audienceName>
+	<audienceNotes>Weather Alerts - Oswego County, NY</audienceNotes>
+	<audienceEmailAddresses>0</audienceEmailAddresses>
+	<audienceUsableEmailAddresses>0</audienceUsableEmailAddresses>
+	<audienceMobileNumbers>0</audienceMobileNumbers>
+	<audienceUsableMobileNumbers>0</audienceUsableMobileNumbers>
+	</audience>
+
+	<audience>
+	<audienceType>Custom</audienceType>
+	<audienceCreateDate>10/29/2015 10:06:30 PM</audienceCreateDate>
+	<audienceGUID>4F3F82E9-68DD-49DF-A153-6A139E61B778</audienceGUID>
+	<audienceName>Seneca County, NY</audienceName>
+	<audienceNotes>Weather Alerts - Seneca County, NY</audienceNotes>
+	<audienceEmailAddresses>0</audienceEmailAddresses>
+	<audienceUsableEmailAddresses>0</audienceUsableEmailAddresses>
+	<audienceMobileNumbers>0</audienceMobileNumbers>
+	<audienceUsableMobileNumbers>0</audienceUsableMobileNumbers>
+	</audience>
+
+	<audience>
+	<audienceType>Custom</audienceType>
+	<audienceCreateDate>10/29/2015 10:06:30 PM</audienceCreateDate>
+	<audienceGUID>73969DF0-2CFB-4827-8FD3-28A9E5292D7C</audienceGUID>
+	<audienceName>Tompkins County, NY</audienceName>
+	<audienceNotes>Weather Alerts - Tompkins County, NY</audienceNotes>
+	<audienceEmailAddresses>0</audienceEmailAddresses>
+	<audienceUsableEmailAddresses>0</audienceUsableEmailAddresses>
+	<audienceMobileNumbers>0</audienceMobileNumbers>
+	<audienceUsableMobileNumbers>0</audienceUsableMobileNumbers>
+	</audience>
+</audiences>

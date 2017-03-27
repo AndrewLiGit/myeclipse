@@ -1,0 +1,176 @@
+2015-11-04 08:18:15,551 INFO [java.lang.Class] - -----------there are 10 duplicate orgs in localsyr location mapping file-----------
+2015-11-04 08:18:15,551 INFO [java.lang.Class] - {551915=SEFCU, 1001517=Fellowship Baptist Church, 918537=WSYR Storm Team Forecast, 312966=WSYR Storm Team Forecast, 1001513=Fellowship Baptist Church, 563951=SEFCU, 433136=Honey Tree Day Care, 1000981=Honey Tree Day Care, 802043=WSYR Storm Team Forecast, 1001493=Fellowship Baptist Church}
+2015-11-04 08:18:15,882 INFO [java.lang.Class] - -----------there are 12 duplicate orgs in localsyr AllOrgs.xml-----------
+2015-11-04 08:18:15,882 INFO [java.lang.Class] - {1001477=, 551915=SEFCU, 918537=WSYR Storm Team Forecast, 1001517=Fellowship Baptist Church, 312966=WSYR Storm Team Forecast, 563951=SEFCU, 1001513=Fellowship Baptist Church, 433136=Honey Tree Day Care, 802043=WSYR Storm Team Forecast, 1000981=Honey Tree Day Care, 1000541=, 1001493=Fellowship Baptist Church}
+2015-11-04 08:18:15,912 INFO [java.lang.Class] - localsyr---not find in ssm:orgId = 1001477
+2015-11-04 08:18:15,922 INFO [java.lang.Class] - localsyr---not find in ssm:orgId = 1000541
+2015-11-04 08:18:16,382 INFO [java.lang.Class] - localsyr---not find in ssm:orgId = 1001493
+2015-11-04 08:18:16,392 INFO [java.lang.Class] - localsyr---not find in ssm:orgId = 1001517
+2015-11-04 08:18:16,392 INFO [java.lang.Class] - localsyr---not find in ssm:orgId = 1001513
+2015-11-04 08:18:16,552 INFO [java.lang.Class] - localsyr---not find in ssm:orgId = 1000981
+2015-11-04 08:18:16,853 INFO [java.lang.Class] - localsyr---not find in ssm:orgId = 1000685
+2015-11-04 08:18:17,233 INFO [java.lang.Class] - localsyr---not find in ssm:orgId = 1001545
+2015-11-04 08:18:17,723 INFO [java.lang.Class] - localsyr---not find in ssm:orgId = 000075
+2015-11-04 08:18:18,064 INFO [java.lang.Class] - localsyr---not find in ssm:orgId = 433136
+2015-11-04 08:18:20,494 INFO [java.lang.Class] - localsyr---not find in ssm:orgId = 031819
+2015-11-04 08:18:21,077 INFO [java.lang.Class] - localsyr---not find in ssm:orgId = 999981
+2015-11-04 08:18:21,379 INFO [java.lang.Class] - localsyr---not find in ssm:orgId = 1000049
+2015-11-04 08:18:21,469 INFO [java.lang.Class] - localsyr---not find in ssm:orgId = 551915
+2015-11-04 08:18:21,469 INFO [java.lang.Class] - localsyr---not find in ssm:orgId = 563951
+2015-11-04 08:18:22,009 INFO [java.lang.Class] - localsyr---not find in ssm:orgId = 312966
+2015-11-04 08:18:22,009 INFO [java.lang.Class] - localsyr---not find in ssm:orgId = 918537
+2015-11-04 08:18:22,019 INFO [java.lang.Class] - localsyr---not find in ssm:orgId = 802043
+2015-11-04 08:18:22,992 INFO [java.lang.Class] - Site[localsyr] -- 1083 records generated.
+2015-11-04 08:18:22,992 INFO [java.lang.Class] - Success, file exported D:/chrzha/workspace/audience_comp_exporter/output/localsyr_closing_alert_out.xls
+2015-11-04 08:18:23,012 ERROR [java.lang.Class] - Can not find Excel file [arkansasmatters].
+java.io.FileNotFoundException: vibes_closing_audience\arkansasmatters_ClosingLocation_Mapping.xls (系统找不到指定的文件。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.augmentum.excel.Exporter.processExcel(Exporter.java:122)
+	at com.augmentum.excel.Exporter.export(Exporter.java:100)
+	at com.augmentum.run.AudienceComponentExportRunner.run(AudienceComponentExportRunner.java:8)
+	at com.augmentum.run.AudienceComponentExportRunner.main(AudienceComponentExportRunner.java:12)
+2015-11-04 08:18:23,233 INFO [java.lang.Class] - -----------there are 0 duplicate orgs in arkansasmatters AllOrgs.xml-----------
+2015-11-04 08:18:23,233 INFO [java.lang.Class] - {}
+2015-11-04 08:18:23,663 INFO [java.lang.Class] - arkansasmatters---not find in ssm:orgId = 9991
+2015-11-04 08:18:23,663 INFO [java.lang.Class] - arkansasmatters---not find in ssm:orgId = 9987
+2015-11-04 08:18:23,673 INFO [java.lang.Class] - arkansasmatters---not find in ssm:orgId = 9599
+2015-11-04 08:18:24,303 INFO [java.lang.Class] - arkansasmatters---not find in ssm:orgId = 10071
+2015-11-04 08:18:24,303 INFO [java.lang.Class] - arkansasmatters---not find in ssm:orgId = 10067
+2015-11-04 08:18:30,111 INFO [java.lang.Class] - arkansasmatters---not find in ssm:orgId = 6314
+2015-11-04 08:18:34,104 INFO [java.lang.Class] - Site[arkansasmatters] -- 1915 records generated.
+2015-11-04 08:18:34,104 INFO [java.lang.Class] - Success, file exported D:/chrzha/workspace/audience_comp_exporter/output/arkansasmatters_closing_alert_out.xls
+2015-11-04 08:18:34,104 ERROR [java.lang.Class] - Can not find Excel file [illinoishomepage].
+java.io.FileNotFoundException: vibes_closing_audience\illinoishomepage_ClosingLocation_Mapping.xls (系统找不到指定的文件。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.augmentum.excel.Exporter.processExcel(Exporter.java:122)
+	at com.augmentum.excel.Exporter.export(Exporter.java:100)
+	at com.augmentum.run.AudienceComponentExportRunner.run(AudienceComponentExportRunner.java:8)
+	at com.augmentum.run.AudienceComponentExportRunner.main(AudienceComponentExportRunner.java:12)
+2015-11-04 08:18:34,276 INFO [java.lang.Class] - -----------there are 0 duplicate orgs in illinoishomepage AllOrgs.xml-----------
+2015-11-04 08:18:34,276 INFO [java.lang.Class] - {}
+2015-11-04 08:18:34,310 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 6168
+2015-11-04 08:18:34,497 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 5207
+2015-11-04 08:18:34,517 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 6104
+2015-11-04 08:18:34,517 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 6105
+2015-11-04 08:18:34,627 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 5083
+2015-11-04 08:18:34,817 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 6150
+2015-11-04 08:18:34,857 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 6162
+2015-11-04 08:18:34,857 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 5271
+2015-11-04 08:18:34,989 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 4979
+2015-11-04 08:18:35,179 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 5783
+2015-11-04 08:18:35,200 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 4208
+2015-11-04 08:18:35,300 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 6425
+2015-11-04 08:18:35,600 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 4081
+2015-11-04 08:18:35,640 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 4090
+2015-11-04 08:18:35,761 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 4324
+2015-11-04 08:18:35,839 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 4131
+2015-11-04 08:18:35,889 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 4140
+2015-11-04 08:18:35,939 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 5411
+2015-11-04 08:18:36,159 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 6433
+2015-11-04 08:18:36,219 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 4935
+2015-11-04 08:18:36,650 INFO [java.lang.Class] - Site[illinoishomepage] -- 771 records generated.
+2015-11-04 08:18:36,650 INFO [java.lang.Class] - Success, file exported D:/chrzha/workspace/audience_comp_exporter/output/illinoishomepage_closing_alert_out.xls
+2015-11-04 08:18:36,650 ERROR [java.lang.Class] - Can not find Excel file [pahomepage].
+java.io.FileNotFoundException: vibes_closing_audience\pahomepage_ClosingLocation_Mapping.xls (系统找不到指定的文件。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.augmentum.excel.Exporter.processExcel(Exporter.java:122)
+	at com.augmentum.excel.Exporter.export(Exporter.java:100)
+	at com.augmentum.run.AudienceComponentExportRunner.run(AudienceComponentExportRunner.java:8)
+	at com.augmentum.run.AudienceComponentExportRunner.main(AudienceComponentExportRunner.java:12)
+2015-11-04 08:18:36,770 INFO [java.lang.Class] - -----------there are 0 duplicate orgs in pahomepage AllOrgs.xml-----------
+2015-11-04 08:18:36,770 INFO [java.lang.Class] - {}
+2015-11-04 08:18:36,932 INFO [java.lang.Class] - pahomepage---not find in ssm:orgId = 1464
+2015-11-04 08:18:37,232 INFO [java.lang.Class] - pahomepage---not find in ssm:orgId = 3476
+2015-11-04 08:18:37,232 INFO [java.lang.Class] - pahomepage---not find in ssm:orgId = 3872
+2015-11-04 08:18:37,232 INFO [java.lang.Class] - pahomepage---not find in ssm:orgId = 3520
+2015-11-04 08:18:37,263 INFO [java.lang.Class] - pahomepage---not find in ssm:orgId = 3532
+2015-11-04 08:18:37,983 INFO [java.lang.Class] - Site[pahomepage] -- 526 records generated.
+2015-11-04 08:18:37,983 INFO [java.lang.Class] - Success, file exported D:/chrzha/workspace/audience_comp_exporter/output/pahomepage_closing_alert_out.xls
+2015-11-04 08:18:37,983 ERROR [java.lang.Class] - Can not find Excel file [rochesterfirst].
+java.io.FileNotFoundException: vibes_closing_audience\rochesterfirst_ClosingLocation_Mapping.xls (系统找不到指定的文件。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.augmentum.excel.Exporter.processExcel(Exporter.java:122)
+	at com.augmentum.excel.Exporter.export(Exporter.java:100)
+	at com.augmentum.run.AudienceComponentExportRunner.run(AudienceComponentExportRunner.java:8)
+	at com.augmentum.run.AudienceComponentExportRunner.main(AudienceComponentExportRunner.java:12)
+2015-11-04 08:18:38,103 INFO [java.lang.Class] - -----------there are 0 duplicate orgs in rochesterfirst AllOrgs.xml-----------
+2015-11-04 08:18:38,103 INFO [java.lang.Class] - {}
+2015-11-04 08:18:38,403 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88511
+2015-11-04 08:18:38,884 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88606
+2015-11-04 08:18:38,904 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88699
+2015-11-04 08:18:38,904 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88698
+2015-11-04 08:18:38,964 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 89533
+2015-11-04 08:18:38,964 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88649
+2015-11-04 08:18:38,964 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88650
+2015-11-04 08:18:38,974 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 89532
+2015-11-04 08:18:38,974 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88651
+2015-11-04 08:18:38,974 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88652
+2015-11-04 08:18:38,974 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 89531
+2015-11-04 08:18:39,174 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88305
+2015-11-04 08:18:39,174 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88251
+2015-11-04 08:18:39,494 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88144
+2015-11-04 08:18:39,494 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88145
+2015-11-04 08:18:39,595 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88864
+2015-11-04 08:18:39,615 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 89825
+2015-11-04 08:18:39,835 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88635
+2015-11-04 08:18:39,845 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88636
+2015-11-04 08:18:39,875 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88433
+2015-11-04 08:18:40,145 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88315
+2015-11-04 08:18:40,155 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88253
+2015-11-04 08:18:40,155 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88310
+2015-11-04 08:18:40,185 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88266
+2015-11-04 08:18:40,195 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88268
+2015-11-04 08:18:40,195 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88279
+2015-11-04 08:18:40,215 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88255
+2015-11-04 08:18:40,305 INFO [java.lang.Class] - rochesterfirst---not find in ssm:orgId = 88707
+2015-11-04 08:18:41,200 INFO [java.lang.Class] - Site[rochesterfirst] -- 995 records generated.
+2015-11-04 08:18:41,201 INFO [java.lang.Class] - Success, file exported D:/chrzha/workspace/audience_comp_exporter/output/rochesterfirst_closing_alert_out.xls
+2015-11-04 08:18:41,979 INFO [java.lang.Class] - --------------------total count : 62-------------
+2015-11-04 08:18:41,979 INFO [java.lang.Class] - --------------------zipCodeMap : {saratoga=36091, broome=36007, monroe=36055, albany=36001, wyoming=36121, ulster=36111, schoharie=36095, steuben=36101, chenango=36017, cayuga=36011, washington=36115, cortland=36023, lewis=36049, schuyler=36097, essex=36031, herkimer=36043, orange=36071, livingston=36051, schenectady=36093, richmond=36085, jefferson=36045, delaware=36025, madison=36053, onondaga=36067, chautauqua=36013, warren=36113, allegany=36003, oneida=36065, erie=36029, suffolk=36103, niagara=36063, yates=36123, chemung=36015, putnam=36079, rockland=36087, cattaraugus=36009, fulton=36035, westchester=36119, otsego=36077, columbia=36021, franklin=36033, kings=36047, clinton=36019, genesee=36037, greene=36039, dutchess=36027, montgomery=36057, tompkins=36109, ontario=36069, new york=36061, nassau=36059, oswego=36075, tioga=36107, orleans=36073, wayne=36117, seneca=36099, queens=36081, bronx=36005, hamilton=36041, rensselaer=36083, saint lawrence=36089, sullivan=36105}-------------
+2015-11-04 08:18:41,999 INFO [java.lang.Class] - Site[localsyr] -- 12 records generated.
+2015-11-04 08:18:41,999 INFO [java.lang.Class] - Success, file exported D:/chrzha/workspace/audience_comp_exporter/output/localsyr_weather_alert_out.xls
+2015-11-05 16:33:28,662 ERROR [java.lang.Class] - Can not find Excel file [illinoishomepage].
+java.io.FileNotFoundException: vibes_closing_audience\illinoishomepage_ClosingLocation_Mapping.xls (系统找不到指定的文件。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.augmentum.excel.Exporter.processExcel(Exporter.java:122)
+	at com.augmentum.excel.Exporter.export(Exporter.java:100)
+	at com.augmentum.run.AudienceComponentExportRunner.run(AudienceComponentExportRunner.java:8)
+	at com.augmentum.run.AudienceComponentExportRunner.main(AudienceComponentExportRunner.java:12)
+2015-11-05 16:33:28,873 INFO [java.lang.Class] - -----------there are 0 duplicate orgs in illinoishomepage AllOrgs.xml-----------
+2015-11-05 16:33:28,883 INFO [java.lang.Class] - {}
+2015-11-05 16:33:28,934 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 6168
+2015-11-05 16:33:29,134 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 5207
+2015-11-05 16:33:29,154 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 6104
+2015-11-05 16:33:29,164 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 6105
+2015-11-05 16:33:29,283 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 5083
+2015-11-05 16:33:29,476 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 6150
+2015-11-05 16:33:29,526 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 6162
+2015-11-05 16:33:29,526 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 5271
+2015-11-05 16:33:29,756 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 4979
+2015-11-05 16:33:29,958 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 5783
+2015-11-05 16:33:29,978 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 4208
+2015-11-05 16:33:30,078 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 6425
+2015-11-05 16:33:30,362 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 4081
+2015-11-05 16:33:30,412 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 4090
+2015-11-05 16:33:30,542 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 4324
+2015-11-05 16:33:30,622 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 4131
+2015-11-05 16:33:30,682 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 4140
+2015-11-05 16:33:30,732 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 5411
+2015-11-05 16:33:30,962 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 6433
+2015-11-05 16:33:31,033 INFO [java.lang.Class] - illinoishomepage---not find in ssm:orgId = 4935
+2015-11-05 16:33:32,048 INFO [java.lang.Class] - Site[illinoishomepage] -- 771 records generated.
+2015-11-05 16:33:32,048 INFO [java.lang.Class] - Success, file exported D:/chrzha/workspace/audience_comp_exporter/output/illinoishomepage_closing_alert_out.xls
+2015-11-05 16:33:34,261 INFO [java.lang.Class] - --------------------total count : 62-------------
+2015-11-05 16:33:34,261 INFO [java.lang.Class] - --------------------zipCodeMap : {saratoga=36091, broome=36007, monroe=36055, albany=36001, wyoming=36121, ulster=36111, schoharie=36095, steuben=36101, chenango=36017, cayuga=36011, washington=36115, cortland=36023, lewis=36049, schuyler=36097, essex=36031, herkimer=36043, orange=36071, livingston=36051, schenectady=36093, richmond=36085, jefferson=36045, delaware=36025, madison=36053, onondaga=36067, chautauqua=36013, warren=36113, allegany=36003, oneida=36065, erie=36029, suffolk=36103, niagara=36063, yates=36123, chemung=36015, putnam=36079, rockland=36087, cattaraugus=36009, fulton=36035, westchester=36119, otsego=36077, columbia=36021, franklin=36033, kings=36047, clinton=36019, genesee=36037, greene=36039, dutchess=36027, montgomery=36057, tompkins=36109, ontario=36069, new york=36061, nassau=36059, oswego=36075, tioga=36107, orleans=36073, wayne=36117, seneca=36099, queens=36081, bronx=36005, hamilton=36041, rensselaer=36083, saint lawrence=36089, sullivan=36105}-------------
+2015-11-05 16:33:34,286 INFO [java.lang.Class] - Site[localsyr] -- 12 records generated.
+2015-11-05 16:33:34,286 INFO [java.lang.Class] - Success, file exported D:/chrzha/workspace/audience_comp_exporter/output/localsyr_weather_alert_out.xls

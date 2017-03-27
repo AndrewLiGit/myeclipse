@@ -1,0 +1,807 @@
+Organization Code,Organization Name,Audience Provider ID
+187_5131,"A Cab Taxi Service",4	
+187_6115,"Abbott's Florist",4	
+187_5191,"ABC Learning Center in Savoy",4	
+187_6233,"ADM Offices in Decatur",4	
+187_6325,"AFSCME Retirees Subchapter 88",4	
+187_5803,"Amara Yoga & Arts",4	
+187_5839,"American Legion Auxilary Champaign County",4	
+187_6087,"American Legion Post #122",4	
+187_6168,"American Legion Post #122",4	
+187_6142,"AMERICAN LEGION POST 210 DANVILLE IL",4	
+187_5883,"Anabel Hulling Early Learning Center",4	
+187_5503,"Apostolic Life",4	
+187_6159,"Apostolic New Birth Church",4	
+187_6166,"Arcola Food Pantry",4	
+187_6143,"Arthur Public Library",4	
+187_6141,"Arthur United Methodist Church",4	
+187_6293,"Attorneys' Title Guaranty Fund, Inc.",4	
+187_6127,"Audibel Hearing Centers",4	
+187_6109,"Bard Optical",4	
+187_4204,"Beecher City",4	
+187_6184,"Bell Ridge Christian Church",4	
+187_6169,"Bell Sports",4	
+187_4999,"Bellflower Country Opry",4	
+187_4971,"Bement Country Opry",4	
+187_6146,"Bible Baptist Church",4	
+187_6285,"Bravarian Pavilion School",4	
+187_5767,"Bright Beginnings Day Care & Preschool",4	
+187_5871,"Broadlands United Community Church Youth Group",4	
+187_4448,"Broadway Christian Church",4	
+187_5895,"Bryant Industries",4	
+187_6187,"Buck Grove Community Church",4	
+187_4967,"Carroll Community Center",4	
+187_4983,"Cayuga America Legion Post 263",4	
+187_6317,"CCAR Industries",4	
+187_6397,"Center For Your Health",4	
+187_6101,"Central Illinois Bank",4	
+187_5279,"Central Illinois Children's Chorus",4	
+187_6108,"Champaign Chiropractic Clinic",4	
+187_5723,"Champaign Urbana Dart Association",4	
+187_5139,"Champaign West Rotary",4	
+187_5807,"Champaign-Urbana Dialysis",4	
+187_6341,"Charleston Carnegie Public Library",4	
+187_6321,"Charleston Food Pantry",4	
+187_4987,"Charleston Moose Lodge",4	
+187_6148,"Charleston Township",4	
+187_4210,"Chester East Lincoln",4	
+187_4817,"Children's Circle Daycare",4	
+187_6111,"Chittick Family Eye Care - Danville",4	
+187_5299,"Chrisman Public Library",4	
+187_6181,"Chrisman United Methodist Church",4	
+187_4205,"Christ Lutheran High School",4	
+187_4268,"Circle of Friends Adult Day Center",4	
+187_6130,"Clifford-Jacobs Forging Company",4	
+187_5427,"Clinton Community YMCA",4	
+187_5067,"Community Resource &",4	
+187_6393,"Complete list of closings on illinoishompage.net",4	
+187_6154,"Connexion Church",4	
+187_6129,"Corray Sanitation Service",4	
+187_6128,"Corson Music",4	
+187_5351,"Country Junction",4	
+187_6112,"Cox Electric Motor Service, Inc",4	
+187_6313,"CRIS Healthy Aging Center",4	
+187_6103,"Crosspoint Human Services",4	
+187_5879,"CrossRoads Fellowship Church",4	
+187_6329,"Cunningham Children's Home",4	
+187_6189,"Cunningham Township Assessors Office",4	
+187_6333,"Cunningham Township Supervisor's Office",4	
+187_5855,"Curves of Mattoon",4	
+187_6110,"Danville Area Food Pantry",4	
+187_6122,"Danville Bell Credit Union",4	
+187_6067,"Danville Family YMCA",4	
+187_6131,"Danville Family YMCA",4	
+187_4923,"Danville Light Opera",4	
+187_5091,"Danville Polyclinic",4	
+187_5499,"Danville Public Library",4	
+187_6165,"Debbies Dance Studio",4	
+187_4887,"Decatur Public Library",4	
+187_4605,"Don Moyer Boys & Girls Club",4	
+187_6117,"Drs. Dankle, Brunson, & Lee",4	
+187_6179,"East Harrison St. Church of God",4	
+187_5075,"Edgar County Public Health Department",4	
+187_5859,"EIU CCR&R",4	
+187_5207,"Embarras River Basin Agency (ERBA)",4	
+187_6170,"Empty Arms Support Group",4	
+187_5471,"Evapco Midwest",4	
+187_6149,"Faith Baptist Church",4	
+187_6079,"Family Praise Center of Decatur",4	
+187_4883,"Farmer City United Methodist Church",4	
+187_6167,"Fashion Afrique French Program",4	
+187_6104,"First Bank (Champaign Co Branches)",4	
+187_6105,"First Bank (Champaign Co. Branches)",4	
+187_6071,"First Baptist Church Danville",4	
+187_5095,"First Baptist Church Preschool Savoy",4	
+187_6139,"First Presbyterian Church",4	
+187_4991,"First United Methodist Church",4	
+187_5811,"Fisher Foursquare Church",4	
+187_6152,"Forty Martyrs Catholic Church",4	
+187_6140,"Full Gospel Christian Fellowship",4	
+187_6421,"Full-Fill Industries",4	
+187_5171,"Georgetown Public Library",4	
+187_5315,"Gifford Chamber of Commerce",4	
+187_5399,"Gifford Chamber of Commerce",4	
+187_6172,"Girl Scout Troop 2611",4	
+187_5359,"Go Girl Aerobics & Fitness Villa Grove",4	
+187_6381,"Gordyville LLC",4	
+187_5887,"Grace Church of Mahomet",4	
+187_5899,"Greater Shiloh Baptist Church",4	
+187_6145,"Hair It Is",4	
+187_5863,"Hanger Prosthetics and Orthotics",4	
+187_6156,"Heartland Family Worship Center",4	
+187_5119,"Henderson's Karate/Judo Academy",4	
+187_4372,"Heritage Baptist Academy - Gays",4	
+187_5063,"HMD Academy",4	
+187_5511,"Homer Community Library",4	
+187_6121,"House of Miracles",4	
+187_6183,"Hume United Methodist Church",4	
+187_4903,"Illini Country Stitchers Quilt Guild",4	
+187_6132,"Immanuel Lutheran Church",4	
+187_6095,"Immanuel Lutheran Church Danville",4	
+187_5835,"International Paper",4	
+187_6163,"JAMES",4	
+187_6107,"Kelly Printing Company, Inc.",4	
+187_6153,"Kelsey Furniture Co",4	
+187_4384,"Kids 1st Childcare - Champaign",4	
+187_5079,"Kindercare Champaign",4	
+187_6114,"Kirby Medical Group",4	
+187_6171,"Krannert Center for the Performing Arts",4	
+187_6144,"LeRoy Replex",4	
+187_5823,"Little Hearts and Hands",4	
+187_4432,"Little Lambs Daycare Oakwood",4	
+187_6125,"Locks Of Glory Salon",4	
+187_4416,"LSA Decatur",4	
+187_5159,"Mahomet Area Youth Club",4	
+187_5543,"Mahomet Church of the Nazarene",4	
+187_4995,"Majestic Hall Mt. Zion",4	
+187_5035,"Mason Point",4	
+187_5083,"Mattoon Precision Manufacturing Inc. (MPMI)",4	
+187_5107,"Mettler Center in Champaign",4	
+187_4396,"Mid-America Prep School",4	
+187_6035,"Midland States Bank",4	
+187_6369,"Midwest Believers Church in Champaign",4	
+187_6158,"Monticello Dance and Gym",4	
+187_6100,"Monticello UMC ROCK Program",4	
+187_5183,"Morning Star Food Bank in Rossville",4	
+187_5055,"Moultrie County Sheriffs Office",4	
+187_5031,"Mueller Company",4	
+187_6157,"New Hope Church of God in Christ",4	
+187_6385,"New Jerusalem Foundation of H.O.P.E",4	
+187_6389,"New Jerusalem Missionary Baptist Church",4	
+187_6164,"New Transitions",4	
+187_5123,"Nudo Products",4	
+187_6116,"OAK ORTHOPEDICS",4	
+187_5195,"Oakwood Food Pantry",4	
+187_5175,"Oakwood Little Angels Daycare",4	
+187_5491,"Oakwood Public Library",4	
+187_6185,"Olivet Church Of The Nazarene",4	
+187_4440,"Open Hearts Four Square Church",4	
+187_5607,"Osher Lifelong Learning Institute",4	
+187_4364,"Other Cancellations",4	
+187_5155,"Paris YMCA",4	
+187_4807,"Peace Meal Kitchen Rantoul",4	
+187_5199,"Pearl's Group Daycare in Champaign",4	
+187_6134,"Pennsylvania Avenue Baptist Church",4	
+187_4284,"Piatt County Head Start",4	
+187_6337,"Piatt County Public Transportation-PIATTRAN",4	
+187_6118,"Polyclinic Medical Equipment",4	
+187_4615,"Prairie Center Health Systems",4	
+187_6120,"Prairie Land Dance Club",4	
+187_5819,"Pro-Active Wellness and Injury Center",4	
+187_5303,"Provena Covenant Medical Center",4	
+187_4436,"Rantoul Public Library",4	
+187_6173,"Real Life Young Moms",4	
+187_6135,"Restoration Urban Ministries",4	
+187_4919,"Roberts and Fallville United Methodist Church",4	
+187_4328,"Robertson Charter School",4	
+187_6019,"Rose and Taylor Barber & Beauty",4	
+187_6182,"Rossville-Alvin Grade School Drama Club",4	
+187_6175,"Ryt-Way Gibson City",4	
+187_5039,"Sadorus Seniors",4	
+187_5259,"Salt & Light Ministries",4	
+187_6102,"Second Church of Christ",4	
+187_6137,"Second Church of Christ - Danville",4	
+187_6113,"Sew Sassy",4	
+187_5003,"Shelbyville American Legion Post 81",4	
+187_4211,"St. Anthony - Effingham",4	
+187_5891,"St. Edmund Parish Watseka",4	
+187_6176,"St. John the Baptist Catholic Church",4	
+187_6177,"St. Johns Lutheran Church",4	
+187_6417,"St. Patricks Church Urbana",4	
+187_5387,"St. Paul's Lutheran Church Decatur",4	
+187_4207,"St. Thomas School in Philo",4	
+187_6119,"Staske Photography",4	
+187_5519,"Stepping Stones Children Center",4	
+187_6136,"Stone Creek Church",4	
+187_5563,"Strawberry Fields Urbana",4	
+187_4943,"Sullivan Bingo Hall",4	
+187_5087,"Sullivan Senior Center",4	
+187_6345,"Sylvan Learning Center",4	
+187_6124,"Tasha's Tiny Toddler Daycare",4	
+187_6123,"The Church Of The Living God",4	
+187_5323,"The Fitness Center Champaign",4	
+187_6349,"The Key Club Adult Daycare Center in Danville",4	
+187_5439,"The Mattoon Academy of Gymnastics",4	
+187_6174,"The Vineyard Church",4	
+187_6106,"Tower Loans of Illinois",4	
+187_5815,"Trans-Continental Insurance Brokers",4	
+187_6188,"Trinity United Church of Christ",4	
+187_6180,"Trinity United Church of Christ Westville Illinois",4	
+187_4931,"U of I Champaign County Extension",4	
+187_6150,"UA Plumbers & Pipefitters Local #149",4	
+187_5867,"Unity Baptist Church",4	
+187_6373,"Unity for Christ Outreach Ministries in Springfield",4	
+187_6138,"University of Illinois Employees Credit Union",4	
+187_6429,"University of Illinois Extention Unit 13",4	
+187_6361,"University of Illinois Foundation",4	
+187_5423,"University of Illinois Springfield",4	
+187_5215,"University of Illinois Veterinary Teaching Hospital",4	
+187_6126,"Urbana First Wesleyan Church",4	
+187_5115,"Urbana Rotary Club",4	
+187_5043,"Urbana Upward Sports",4	
+187_6186,"Vermilion Grove Friends Church",4	
+187_5559,"Vermilion Heights Christian Church",4	
+187_4209,"Vermilion Vocational Ed. Delivery System",4	
+187_6162,"VFW #6410",4	
+187_5271,"VFW Post #5520",4	
+187_6133,"Walk Chiropractic & Acupuncture Ceneter",4	
+187_6160,"Walnut Grove Christian Church",4	
+187_6178,"Walnut Grove Christian Church",4	
+187_5623,"Watseka Health and Fitness",4	
+187_6147,"Weidenburner & Sons Disposal",4	
+187_5071,"Weight Watchers-Taylorville",4	
+187_5163,"Wesley Foundation at the UI",4	
+187_4212,"Willowbay Christian Academy",4	
+187_5047,"Windsor Road Christian Church",4	
+187_6413,"WIRCO",4	
+187_5331,"WorkSource Enterprises",4	
+187_6377,"Yankee Ridge School",4	
+187_5875,"Yellowbook",4	
+187_6155,"YMCA of the University of Illinois",4	
+187_4200,"~Closings and Cancellations",4	
+187_5943," Bryant Industries",4	
+187_5979," Hydro-Gear",4	
+187_6249,"AAA.Test.School",4	
+187_4202,"AAAA_Test",4	
+187_5247,"ABBCON Counseling in Tuscola",4	
+187_5391,"ABC Counseling Champaign Office",4	
+187_4002,"Al Anser Islamic Academy",4	
+187_4053,"All EIASE programs",4	
+187_5595,"Allerton Park & Retreat Center",4	
+187_4003,"Altamont",4	
+187_5455,"American Legion Post 210",4	
+187_5319,"American Sewing Guild",4	
+187_5927,"ANABEL HULING EARLY LEARNING CENTER",4	
+187_4975,"Animal Outfitters Savoy",4	
+187_4851,"Apostolic Faith Church",4	
+187_4004,"Arcola",4	
+187_4005,"Argenta-Oreana",4	
+187_4006,"Armstrong Ellis",4	
+187_4007,"Armstrong Twp. High School",4	
+187_4413,"Art in Motion Dance Studio",4	
+187_4388,"Arthur Christian School",4	
+187_4833,"Arthur Public Library",4	
+187_4008,"Arthur-Lovington",4	
+187_4009,"Atwood-Hammond",4	
+187_4010,"Auburn Schools",4	
+187_4811,"Auditory Care Center, Rantoul",4	
+187_4011,"Ball-Chatham",4	
+187_5591,"Bayview Family Clinic",4	
+187_4601,"Beecher City Schools",4	
+187_4012,"Bell Helmets",4	
+187_4013,"Bement",4	
+187_5695,"Bement Public Library",4	
+187_4014,"Bethel Christian Academy in Mahomet",4	
+187_4410,"Bible Study Fellowship B.S.F.",4	
+187_4015,"Bismarck-Henning",4	
+187_5847,"Blaw Knox Credit Union",4	
+187_4016,"Blue Ridge",4	
+187_4979,"Boy Scouts (Lincoln Trails Council)",4	
+187_4017,"Bradley Learning Center",4	
+187_4018,"Bryce-Ash Grove",4	
+187_4332,"Bundles of Joy",4	
+187_4603,"Bundles of Joy Learning Center",4	
+187_5923,"Busey Bank",4	
+187_6269,"Busy Hands Pre-School-Gibson City",4	
+187_4392,"Calvary Baptist Christian Academy - Urbana",4	
+187_4376,"Calvary Baptist Church in Gays",4	
+187_4019,"Calvary Christian Academy",4	
+187_4947,"Calvary Temple",4	
+187_4803,"Camargo Township Library",4	
+187_5659,"Camargo United Methodist Church",4	
+187_4136,"Campus Cooperative Preschool",4	
+187_4232,"Campus Middle School for Girls",4	
+187_4368,"Canaan Academy",4	
+187_6075,"Cargill Meat Solutions",4	
+187_4228,"Carle",4	
+187_4404,"Carle Auditory Oral School",4	
+187_4020,"Casey-Westfield",4	
+187_4021,"Casey-Westfield, Martinsville, Marshall",4	
+187_5099,"Catholic Charities Macon County",4	
+187_4023,"CDL Training Services in Danville",4	
+187_4256,"Center for Children's Services Early Learning Center Danville",4	
+187_4024,"Central A&M",4	
+187_4360,"Central Christian Church Preschool - Danville",4	
+187_5683,"Central Christian Church, Danville IL",4	
+187_4832,"Central Illinois Dance Academy",4	
+187_5691,"Central Illinois Natural Health Clinic",4	
+187_4405,"Central Park Church of Christ",4	
+187_4025,"Cerro Gordo",4	
+187_4027,"Champaign  County Head Start",4	
+187_4216,"Champaign and Ford Co. Regional Office of Ed.",4	
+187_5743,"Champaign Christian Center",4	
+187_5639,"Champaign County CASA",4	
+187_4838,"Champaign County Down Syndrome Network",4	
+187_4820,"Champaign County Farm Bureau",4	
+187_5059,"Champaign County YMCA",4	
+187_4456,"Champaign Ford ROE",4	
+187_4344,"Champaign Head Start",4	
+187_5187,"Champaign Park District",4	
+187_5647,"Champaign Public Library",4	
+187_5619,"Champaign Surplus",4	
+187_4026,"Champaign Unit 4",4	
+187_4891,"Champaign West Jehovah's Witnesses",4	
+187_4001,"Champaign, 7th Day Adventist",4	
+187_4867,"Champaign-Urbana Area Project",4	
+187_5339,"Charles Industries",4	
+187_4028,"Charleston",4	
+187_4403,"Charleston American Legion 93",4	
+187_4059,"Charleston Christian Academy",4	
+187_6281,"Charleston Community Day Care Center",4	
+187_4951,"Charleston Head Start",4	
+187_4835,"Cherub Business Services",4	
+187_4029,"Chesterbrook Academy",4	
+187_4859,"Chestnut Church of Christ",4	
+187_5971,"Child Care Resouce Service - UI",4	
+187_4609,"Children's Center Day Care-Urbana",4	
+187_5675,"Chrisman Family Medical Center",4	
+187_4030,"Chrisman/Scottland",4	
+187_5443,"Christian LIfe Church of Rantoul",4	
+187_6039,"Christie Clinic",4	
+187_4380,"Circle Academy",4	
+187_4031,"Cissna Park",4	
+187_6353,"City of Truth",4	
+187_4356,"Clinton",4	
+187_4841,"Cobb Hearing Care Center, Mattoon",4	
+187_5463,"Coles Co. Courthouse",4	
+187_5243,"Coles County Community Health Center",4	
+187_4805,"Coles County Council on Aging",4	
+187_5483,"Coles County Health Department",4	
+187_4836,"College of Veterinary Medicine",4	
+187_5379,"Combe Laboratories",4	
+187_5415,"Commerce Bank",4	
+187_4034,"Community Christian School",4	
+187_6365,"Community Church of God in Danville",4	
+187_5783,"Community Elements (formerly Mental Health Center)",4	
+187_6007,"Community Health Care Credit Union",4	
+187_5287,"Community Service Center",4	
+187_4847,"Conagra Foods",4	
+187_4035,"Concept College of Cosmetology",4	
+187_4846,"Confidentially Yours",4	
+187_4612,"Cooperative Nursery School",4	
+187_4033,"Cornerstone Christian Academy in Charleston",4	
+187_5959,"Country Schoolhouse Preschool",4	
+187_4036,"Countryside School",4	
+187_4208,"Covington Christian School (IN)",4	
+187_4037,"Cowden-Herrick",4	
+187_4616,"Cozy Critters",4	
+187_5571,"CRCC Paxton",4	
+187_4038,"Crescent Iroquois",4	
+187_5211,"CRIS Rural Transit",4	
+187_4871,"Crossroad of Life Community Church",4	
+187_5935,"CrossRoads Christian Church of Danville",4	
+187_6273,"CSL Plasma",4	
+187_6051,"CU Herb Society",4	
+187_5603,"CU WoodShop Supply Inc.",4	
+187_4039,"Cumberland Unit 77",4	
+187_5911,"Cutting Edge Salon",4	
+187_5919,"Dallas and Co. Costumes and Magic",4	
+187_4041,"Danville Area Community College",4	
+187_6063,"Danville Area Food Pantry",4	
+187_4042,"Danville Christian Academy",4	
+187_5479,"Danville Consolidated Credit Union",4	
+187_4043,"Danville Dist. 118",4	
+187_5731,"Danville First Church of the Nazarene",4	
+187_4638,"Danville Housing Authority",4	
+187_5799,"Danville Housing Authority",4	
+187_4044,"Danville Lutheran",4	
+187_5939,"Danville Township",4	
+187_4629,"Darrow Church of Christ",4	
+187_4827,"De Land Library",4	
+187_4046,"Decatur Christian Schools",4	
+187_4045,"Decatur Public Schools",4	
+187_4047,"Deland-Weldon",4	
+187_5611,"Deliverance Temple Apostolic Church",4	
+187_5143,"Delivery 4 U",4	
+187_4048,"Developmental Services Center",4	
+187_4412,"DeWitt Co. Friendship Center",4	
+187_5747,"DeWitt County Building",4	
+187_4049,"Dieterich",4	
+187_5451,"Dillman Eye Care",4	
+187_5711,"Divorce Care at Second Church of Christ",4	
+187_5555,"Dobbins Downs Community Improvement Association",4	
+187_4828,"Dog Training Club of CU",4	
+187_4810,"Donna's Flower Shop",4	
+187_4613,"Donna's Zumba Fitness & Dance Studio",4	
+187_6425,"Donovan CUSD #3",4	
+187_4407,"Douglas County Health Department",4	
+187_6253,"Douglas County Museum",4	
+187_5599,"Dr Todd / The Pet Pro Veterinary Clinics",4	
+187_5631,"Dr. Chris Jordan",4	
+187_4845,"Dr. Gregg L. Rose, DDS",4	
+187_5495,"Drs. Steven Seibert & Yoolim Kim",4	
+187_4801,"DSC Rantoul",4	
+187_4236,"Ducky Daycare in Monticello",4	
+187_5963,"Dyslexia Institute of Central Illinois",4	
+187_4607,"Eagle Mountain Assembly of God",4	
+187_4829,"Early Beginners",4	
+187_4252,"Early Learning in Champaign",4	
+187_4051,"East Central Illinois Community Action Agency",4	
+187_4875,"East Park Church of Christ",4	
+187_4050,"Eastern Illinois University",4	
+187_4402,"Easy Pay",4	
+187_6023,"Education Personnel Federal Credit Union",4	
+187_5255,"Effingham County Offices & Courthouse",4	
+187_5367,"EFFINGHAM COUNTY SPORTMAN CLUB",4	
+187_4052,"Effingham Schools",4	
+187_5627,"Effingham VA Medical Clinic",4	
+187_4054,"EIASE Programs at Franklin",4	
+187_4056,"EIASE Treatment and Learning Center at Fresh Start",4	
+187_4057,"EIASE Treatment and Learning Center at Humboldt",4	
+187_4058,"EIASE Treatment and Learning Center at Kansas",4	
+187_5643,"EIU Adult Fitness Program",4	
+187_5431,"Elements of Design Salon & Spa Urbana",4	
+187_4276,"Elite Learning Center",4	
+187_5699,"Elson's Paxton Sanitary System",4	
+187_4248,"English Center USA",4	
+187_4308,"ERBA Chrisman Head Start",4	
+187_5967,"Evolve Fitness Club",4	
+187_4060,"Faith Christian in Monticello",4	
+187_5223,"Faith United Methodist Church & Pre-School In Champaign",4	
+187_4834,"Family Service of Champaign County",4	
+187_4804,"Fed Ex Ground",4	
+187_4899,"First Assembly of God Church-Danville",4	
+187_4959,"First Baptist Church In Paris",4	
+187_5787,"First Baptist Church Rantoul",4	
+187_5759,"First Baptist Church Savoy",4	
+187_4062,"First Baptist School in Covington",4	
+187_4061,"First Baptist School in Danville",4	
+187_4296,"First Christian Church Champaign",4	
+187_5987,"First Federal Savings Bank of CU",4	
+187_5531,"First Illinois Credit Union",4	
+187_6265,"First Mennonite Church of Champaign-Urbana",4	
+187_5467,"First Neighbor Bank",4	
+187_4955,"First Presbyterian Church - Mattoon",4	
+187_4316,"First United Methodist Child Care Champaign",4	
+187_4063,"Fisher",4	
+187_5347,"Fisher Kids Club",4	
+187_4839,"Fitness First - Farmer City",4	
+187_4064,"Ford Central",4	
+187_5955,"Ford County",4	
+187_5719,"Frances Nelson Health Center",4	
+187_4618,"Frogs and Fairies",4	
+187_5023,"Full-Fill Industries",4	
+187_5407,"Gallo Dance Studio",4	
+187_4602,"Genpact",4	
+187_4066,"Georgetown-Ridge Farm",4	
+187_4608,"Gibson City Telecare",4	
+187_5903,"Gibson City United Methodist Church",4	
+187_4067,"Gibson City-Melvin Sibley",4	
+187_4068,"Gifford School District",4	
+187_4300,"Gilman United Methodist",4	
+187_4823,"Gilman-Danforth Library",4	
+187_5655,"Glory Center International",4	
+187_4069,"God's Way Christian Academy",4	
+187_6031,"Gold Rush Pawn Brokers, Inc.",4	
+187_4444,"Good Shephard Lutheran Church Sherman",4	
+187_4418,"Good Shepherd Lutheran Church",4	
+187_4907,"GRADS/GED Danville",4	
+187_4808,"Great Beginnings Learning Center",4	
+187_6083,"Greenview School District",4	
+187_4812,"Hand in Hand Daycare - Tolono",4	
+187_4428,"Happi House Learning Center",4	
+187_4408,"Happi-Time Daycare",4	
+187_4411,"Hassler Doodle D Ranch",4	
+187_5111,"Health Alliance",4	
+187_5999,"Heartland Bank",4	
+187_4071,"Heartland Community College",4	
+187_4240,"Heartland Schools Daycare / Pre-School",4	
+187_6225,"Heartland Technical Academy",4	
+187_4220,"Heavenly Blessings in Tuscola",4	
+187_5567,"Heel toe Toe, Inc",4	
+187_4072,"Heritage School District",4	
+187_4073,"Heyworth",4	
+187_4074,"High Cross Christian School",4	
+187_4075,"Hillside Bethel School/Preschool in Decatur",4	
+187_5475,"Hobbico",4	
+187_4076,"Holy Cross Grade School",4	
+187_4077,"Holy Family School in Danville",4	
+187_4818,"Homer American Legion Auxilary",4	
+187_4927,"Homework Hangout",4	
+187_4078,"Hoopeston Area",4	
+187_4424,"Hoopeston Memory Lane Preschool",4	
+187_5615,"Hoopeston Public Library",4	
+187_4312,"Hugs and Bugs",4	
+187_6261,"Human Kinetics",4	
+187_4939,"Illini Cat Club",4	
+187_5727,"Illinois Cheerleading Academy",4	
+187_6241,"Illinois Heartland Library System",4	
+187_5203,"Imagine Nation Learning Center",4	
+187_4634,"Immaculate Conception Religious Education",4	
+187_4915,"Immanuel Lutheran Church Thomasboro",4	
+187_4080,"Immanuel Lutheran Pre-School",4	
+187_5843,"Intedurec",4	
+187_6221,"Irish's Gymnastics",4	
+187_4081,"Iroquois County #9",4	
+187_4065,"Iroquois County Special Education",4	
+187_4082,"Iroquois West",4	
+187_4855,"It Starts at Home Youth Program",4	
+187_5295,"Jacobsen Dermatology Center",4	
+187_5447,"Jeld-Wen",4	
+187_5263,"John George Salon in Savoy",4	
+187_5267,"John George Salon in Savoy",4	
+187_4085,"Judah Christian",4	
+187_4086,"Judah Christian Pre-School",4	
+187_5671,"Kansas Family Medical Center",4	
+187_4087,"Kansas Schools",4	
+187_5947,"Key Club Adult Daycare Center",4	
+187_5635,"Kids n Play Learning Center",4	
+187_4336,"Kinder Cassel",4	
+187_4088,"Kluthe Center",4	
+187_5791,"La Petite Academy",4	
+187_4089,"Lake Land College",4	
+187_4090,"Lakeview College of Nursing",4	
+187_5983,"Lebanon Seaboard",4	
+187_4091,"LeRoy",4	
+187_4092,"Lexington",4	
+187_5851,"LifeLinks Mental Health",4	
+187_4272,"Lincoln College in Lincoln",4	
+187_4093,"Lincoln Elementary Schools",4	
+187_4094,"Lincoln High School",4	
+187_4096,"Lincoln Land Community College",4	
+187_5307,"Lincoln Springs Resort",4	
+187_5375,"Lincolnland Hospice of Sarah Bush Lincoln",4	
+187_4095,"Little Lambs Day Care in Charleston",4	
+187_4260,"Little Wings & Launch Pad in Rantoul",4	
+187_5707,"LittleSprouts Early Learning Center",4	
+187_4097,"Living Word Christian School",4	
+187_4911,"Living Word Church Roberts",4	
+187_4635,"Living Word Family Church",4	
+187_5227,"Living Yoga Center",4	
+187_4098,"Lovington",4	
+187_5419,"Lovington Assembly of God",4	
+187_4304,"Ludlow District 142",4	
+187_4617,"Lutheran Church of Mahomet",4	
+187_5583,"M&M Driving School",4	
+187_5007,"Macon County Farm Bureau",4	
+187_4288,"Mahomet Christian Church",4	
+187_4414,"Mahomet Lions Club",4	
+187_4802,"Mahomet Public Library",4	
+187_5015,"Mahomet United Methodist Church",4	
+187_4101,"Mahomet-Seymour",4	
+187_4102,"Marilyn Queller Child Care Center",4	
+187_4103,"Maroa-Forsyth",4	
+187_4104,"Marshall",4	
+187_4105,"Martinsville",4	
+187_4814,"Masadonia Baptist Church",4	
+187_4452,"Master Brand Cabinets",4	
+187_4106,"Mattoon Adult Education Center",4	
+187_5735,"Mattoon First Christian Church",4	
+187_4108,"Mattoon Head Start",4	
+187_4107,"Mattoon Public Schools",4	
+187_5127,"Meadowbrook Community Church",4	
+187_4109,"Meridian",4	
+187_5587,"MidWest America Federal Credit Union",4	
+187_4110,"Milford",4	
+187_5663,"Milford Christian Church",4	
+187_4111,"Millikin University",4	
+187_6055,"Mitchem Dental",4	
+187_4114,"Montessori of C-U in Savoy",4	
+187_4112,"Monticello",4	
+187_4113,"Monticello Christian Academy",4	
+187_5527,"Monticello Library",4	
+187_4844,"Monticello Theater Association",4	
+187_6043,"Monticello UMC",4	
+187_5907,"Moultrie County Courthouse",4	
+187_4843,"Mountrie County Counseling Center",4	
+187_4324,"MSD of Warren County (Ind.)",4	
+187_5703,"Mt. Olve Baptist Church",4	
+187_4116,"Mt. Pulaski",4	
+187_4115,"Mt. Zion",4	
+187_6047,"Mustard Seed Christian Daycare",4	
+187_5739,"Muster & King Orthodontics",4	
+187_4421,"National Alliance on Mental Illness",4	
+187_4117,"Neoga",4	
+187_4863,"Neoga District Library",4	
+187_4118,"New Berlin",4	
+187_5551,"New Horizon Church",4	
+187_4628,"Newell Twp Senior Transportation",4	
+187_6027,"Nexstep Commercial Products",4	
+187_4119,"Next Generation Early Education",4	
+187_4224,"Next Generation Primary and Middle Schools",4	
+187_4837,"No Teacher Left Behind",4	
+187_4171,"Noah's Ark Pre-School Sadorus",4	
+187_4121,"Normal",4	
+187_5775,"North Side Baptist Church",4	
+187_4122,"Northwest Christian Campus",4	
+187_4124,"Oakland",4	
+187_4125,"Oakwood",4	
+187_4127,"Okaw Valley Schools",4	
+187_5975,"Omni Prosthetics and Orthotics, Inc.",4	
+187_5715,"Operation Snowball",4	
+187_5931,"Orpheum Children's Science Museum",4	
+187_6277,"Our Lady of Lourdes Gibson City",4	
+187_4128,"Our Lady of Lourdes in Decatur",4	
+187_4129,"Our Savior Lutheran Day Care",4	
+187_4630,"PACE Inc. Center for Ind. Living",4	
+187_5371,"PACE, Inc",4	
+187_4130,"Pana Unit 8",4	
+187_5667,"Paris Community Hospital",4	
+187_4131,"Paris District #95",4	
+187_5679,"Paris Family Medical Center",4	
+187_4631,"Paris First United Methodist Church",4	
+187_5459,"Paris Metal Products LLC",4	
+187_4132,"Paris-Crestwood",4	
+187_4133,"Parkland College",4	
+187_4134,"Pavilion Foundation School",4	
+187_4123,"Paxton Daycare Center",4	
+187_4826,"Paxton Vineyard Church",4	
+187_4135,"Paxton-Buckley-Loda",4	
+187_5827,"Pepsi Beverage Co.",4	
+187_4620,"Peter Pan Too Learning Center",4	
+187_5507,"Piatt County Mental Health Center",4	
+187_5523,"Piattran-Piatt County Transportation",4	
+187_5335,"Pilgrim Missionary Baptist Church",4	
+187_5915,"Piper City Public Library",4	
+187_4348,"Pleasant Plains",4	
+187_5275,"Point Fencing Club & School",4	
+187_4137,"Pontiac Grade School",4	
+187_4138,"Pontiac High School",4	
+187_4139,"Potomac Grade School",4	
+187_4140,"Prairie Central CUSD #8",4	
+187_5403,"Prairie States Warehouse, Inc",4	
+187_4141,"Prairieview-Ogden Dist. 197",4	
+187_4320,"Prince of Peace Comm. Learning",4	
+187_5019,"Principal's Scholars Program",4	
+187_4809,"Professional Physical Therapy",4	
+187_5751,"Project Success of Vermilion County",4	
+187_4142,"Provena USMC Radiology School",4	
+187_5951,"Raney Street Daycare, Inc.",4	
+187_6357,"Rantoul Church of the Nazarene",4	
+187_4143,"Rantoul City Schools",4	
+187_5395,"Rantoul Exchange Club",4	
+187_5831,"Rantoul Theatre Group",4	
+187_4144,"Rantoul Township High School",4	
+187_4352,"READY Program - Champaign",4	
+187_4813,"Red Hot Gymnastics",4	
+187_5231,"Red Hot On The Go Gymnastics",4	
+187_5235,"Red Hot On The Go Gymnastics",4	
+187_5239,"Red Hot On The Go Gymnastics",4	
+187_4264,"Regency Beauty Institute",4	
+187_5051,"Regency Beauty Institute",4	
+187_5411,"Regional Office of Education #11",4	
+187_4145,"Richland Community College",4	
+187_4419,"Ridge Farm Church of Christ",4	
+187_4146,"Ridgeview",4	
+187_4822,"Ridgeview Baptist Church-Danville",4	
+187_4147,"Riverton",4	
+187_5763,"Robin's Day Care",4	
+187_6301,"Rossville United Methodist Church",4	
+187_4148,"Rossville-Alvin Unit 7",4	
+187_6309,"RR Donnelley",4	
+187_6305,"Rural Champaign County Special Education Coop",4	
+187_4625,"Rural Grace Food Pantry",4	
+187_5327,"SafeWorks Illinois",4	
+187_6401,"Salisbury Church-Charleston Campus",4	
+187_6405,"Salisbury Church-Hutton Campus",4	
+187_6409,"Salisbury-Tri County Campus",4	
+187_4150,"Salt Creek Academy",4	
+187_4022,"Salt Fork ",4	
+187_4611,"Salvation Army Mattoon",4	
+187_4149,"Sangamon Valley",4	
+187_4816,"Santa Anna Township, Farmer City",4	
+187_5167,"Sarah Bush Lincoln Health Center",4	
+187_4825,"Saunemin",4	
+187_5651,"Savoy Recreation Center",4	
+187_5779,"Saybrook Christian Church",4	
+187_4170,"Schlarman Academy",4	
+187_4151,"Schlarman High School",4	
+187_4840,"Scott Enterprises/Vermilion River Forge",4	
+187_4606,"Shaffer Sanitary Co.",4	
+187_4152,"Shelbyville",4	
+187_4153,"Shelbyville Head Start",4	
+187_4154,"Sheldon",4	
+187_4155,"Shiloh",4	
+187_6015,"Siefert Counceling Center",4	
+187_4821,"Small Blessings Christian Pre-School",4	
+187_4156,"Small Blessings Pre-School",4	
+187_4415,"Smile Healthy- Head Start",4	
+187_6193,"Snow Bear Day Care",4	
+187_6197,"Snow Bear Hair Salon",4	
+187_6201,"Snow Bear Restaurant",4	
+187_6205,"Snow Bear Restaurant",4	
+187_6209,"Snow Bear School for the Gifted",4	
+187_5547,"South Side Church of Christ",4	
+187_5027,"Spa Envy & Salon",4	
+187_4157,"Sparks College",4	
+187_4198,"Springfield Christian School",4	
+187_6213,"Springfield Concordia Lutheran School & Pre-School",4	
+187_4158,"Springfield Public Schools",4	
+187_5383,"Springfield YMCA",4	
+187_6237,"St. Agnes Grade School",4	
+187_4206,"St. Anthony in Effingham",4	
+187_5151,"St. Joesph Township Library",4	
+187_4160,"St. John Lutheran in Buckley",4	
+187_4161,"St. John Lutheran in Champaign",4	
+187_4162,"St. John Lutheran in Mattoon",4	
+187_5771,"St. Joseph Church of Christ",4	
+187_4163,"St. Joseph Grade School",4	
+187_4280,"St. Joseph Middle School",4	
+187_4164,"St. Joseph-Ogden High School",4	
+187_4165,"St. Malachy",4	
+187_4166,"St. Mary in Mattoon",4	
+187_4167,"St. Mary in Westville",4	
+187_4619,"St. Mary Religious Ed Paxton",4	
+187_4168,"St. Matthew in Champaign",4	
+187_4169,"St. Patrick in Decatur",4	
+187_5011,"St. Paul Lutheran Church Of Gifford W.M.F.",4	
+187_4879,"St. Paul Lutheran Church Sadorus",4	
+187_4417,"St. Paul Lutheran Church- Gilman",4	
+187_4172,"St. Teresa in Decatur",4	
+187_5283,"Stevick Senior Center & RSVP",4	
+187_4174,"Stewardson-Strasburg",4	
+187_4460,"Stone Creek Church",4	
+187_6059,"Studio 114 Salon",4	
+187_6011,"Style FX Salon & Tanning",4	
+187_4175,"Sullivan",4	
+187_5539,"Sullivan Tiger Cub Scouts Pack 39",4	
+187_4203,"Sunshine Center Adult Daycare",4	
+187_4159,"Sunshine Christian Pre-Schools",4	
+187_6003,"Tanger Outlet Center",4	
+187_5363,"Tarble Arts Center, Eastern Illinois University",4	
+187_4177,"Taylorville Schools",4	
+187_4178,"Teutopolis Schools",4	
+187_4604,"Thawville Community Nursery School",4	
+187_5487,"The First National Bank",4	
+187_4173,"The High School of St. Thomas More",4	
+187_6257,"The Hope Institute for Children & Families",4	
+187_4639,"The Pool Boys",4	
+187_4179,"Thomasboro",4	
+187_4340,"Thyssen-Krupp",4	
+187_6245,"Titus Memorial Library",4	
+187_5147,"Tolono Public Library",4	
+187_4186,"Tolono Unit 7",4	
+187_4182,"Tower Hill",4	
+187_6433,"Tri-City CUSD #1",4	
+187_4180,"Tri-Point",4	
+187_4181,"Tri-Valley",4	
+187_4963,"Trinity Community Fellowship Farmer City",4	
+187_5535,"True Believers Gym",4	
+187_4183,"Tuscola",4	
+187_4184,"Tuscola Head Start",4	
+187_5219,"Tuscola Public Library",4	
+187_4409,"Tuscola United Church of Christ",4	
+187_4292,"Twin City Bible Church",4	
+187_4610,"Twist and Shout Dance and Cheer",4	
+187_4176,"Two By Two Daycare",4	
+187_6217,"U of I's Principal Scholar Program",4	
+187_6091,"UAW 579 Tilton",4	
+187_4185,"Uni High School in Urbana",4	
+187_6297,"UNITY CHURCH IN SPRINGFIELD",4	
+187_5755,"University of Illinois Extension - Paris",4	
+187_4187,"University of Illinois Springfield",4	
+187_4244,"University Primary School",4	
+187_5579,"Urbana Free Library",4	
+187_5795,"Urbana Lighthouse Church of the Nazarene",4	
+187_5291,"Urbana Park District",4	
+187_4188,"Urbana School District",4	
+187_4819,"Urbana Theological Seminary",4	
+187_4815,"Valley Of Danville Learning Center",4	
+187_4192,"VASE/Middle Fork",4	
+187_5355,"Vermilion Co. RC Club",4	
+187_4830,"Vermilion County Courthouse & Annex",4	
+187_5435,"Vesuvius USA - Charleston Plant",4	
+187_4935,"VFW Post #1592",4	
+187_4190,"Villa Grove",4	
+187_4637,"Villa Grove First Christian Church",4	
+187_5311,"Village of Catlin",4	
+187_4824,"Village of St. Joseph",4	
+187_4640,"Village of Westville",4	
+187_5575,"Vineyard Food Pantry",4	
+187_5343,"Visual Image Salon & Tan in Tuscola",4	
+187_4191,"VOTEC",4	
+187_4193,"Wapella",4	
+187_4406,"Warner Public Library",4	
+187_4194,"Warrensburg-Latham",4	
+187_4420,"Wee Disciples Preschool",4	
+187_6229,"Wee Warriors Christian Academy",4	
+187_4195,"Wee-Care Preschool",4	
+187_4627,"Weedman United Methodist",4	
+187_4626,"Weight Watchers-Champaign",4	
+187_4831,"Weight Watchers-Farmer City",4	
+187_4842,"Weldon United Methodist Church",4	
+187_4636,"Wellington United Methodist Church",4	
+187_4196,"Westville",4	
+187_5179,"Westville Public Library",4	
+187_4197,"Windsor School District",4	
+187_4895,"Women's Care Clinic",4	

@@ -1,0 +1,214 @@
+CA,06037,Los Angeles
+CA,06059,Orange
+CA,06111,Ventura
+CA,06071,San Bernardino
+CA,06065,Riverside
+CA,06073,San Diego
+CA,06025,Imperial
+CA,06027,Inyo
+CA,06083,Santa Barbara
+CA,06107,Tulare
+CA,06031,Kings
+CA,06029,Kern
+CA,06019,Fresno
+CA,06079,San Luis Obispo
+CA,06053,Monterey
+CA,06051,Mono
+CA,06039,Madera
+CA,06047,Merced
+CA,06043,Mariposa
+CA,06081,San Mateo
+CA,06085,Santa Clara
+CA,06075,San Francisco
+CA,06067,Sacramento
+CA,06001,Alameda
+CA,06055,Napa
+CA,06013,Contra Costa
+CA,06095,Solano
+CA,06041,Marin
+CA,06097,Sonoma
+CA,06087,Santa Cruz
+CA,06069,San Benito
+CA,06077,San Joaquin
+CA,06009,Calaveras
+CA,06099,Stanislaus
+CA,06109,Tuolumne
+CA,06045,Mendocino
+CA,06033,Lake
+CA,06023,Humboldt
+CA,06105,Trinity
+CA,06015,Del Norte
+CA,06093,Siskiyou
+CA,06005,Amador
+CA,06061,Placer
+CA,06113,Yolo
+CA,06017,El Dorado
+CA,06101,Sutter
+CA,06003,Alpine
+CA,06115,Yuba
+CA,06057,Nevada
+CA,06091,Sierra
+CA,06011,Colusa
+CA,06021,Glenn
+CA,06007,Butte
+CA,06063,Plumas
+CA,06089,Shasta
+CA,06049,Modoc
+CA,06035,Lassen
+CA,06103,Tehama
+CO,08059,Jefferson
+CO,08001,Adams
+CO,08005,Arapahoe
+CO,08014,Broomfield
+CO,08013,Boulder
+CO,08039,Elbert
+CO,08035,Douglas
+CO,08041,El Paso
+CO,08031,Denver
+CO,08093,Park
+CO,08047,Gilpin
+CO,08037,Eagle
+CO,08117,Summit
+CO,08107,Routt
+CO,08065,Lake
+CO,08057,Jackson
+CO,08019,Clear Creek
+CO,08049,Grand
+CO,08123,Weld
+CO,08069,Larimer
+CO,08087,Morgan
+CO,08121,Washington
+CO,08095,Phillips
+CO,08075,Logan
+CO,08125,Yuma
+CO,08115,Sedgwick
+CO,08017,Cheyenne
+CO,08073,Lincoln
+CO,08063,Kit Carson
+CO,08119,Teller
+CO,08101,Pueblo
+CO,08071,Las Animas
+CO,08061,Kiowa
+CO,08009,Baca
+CO,08089,Otero
+CO,08025,Crowley
+CO,08011,Bent
+CO,08055,Huerfano
+CO,08099,Prowers
+CO,08003,Alamosa
+CO,08021,Conejos
+CO,08007,Archuleta
+CO,08067,La Plata
+CO,08023,Costilla
+CO,08109,Saguache
+CO,08079,Mineral
+CO,08105,Rio Grande
+CO,08015,Chaffee
+CO,08051,Gunnison
+CO,08043,Fremont
+CO,08053,Hinsdale
+CO,08027,Custer
+CO,08033,Dolores
+CO,08083,Montezuma
+CO,08085,Montrose
+CO,08029,Delta
+CO,08113,San Miguel
+CO,08091,Ouray
+CO,08111,San Juan
+CO,08077,Mesa
+CO,08045,Garfield
+CO,08081,Moffat
+CO,08097,Pitkin
+CO,08103,Rio Blanco
+IN,18095,Madison
+IN,18057,Hamilton
+IN,18023,Clinton
+IN,18059,Hancock
+IN,18159,Tipton
+IN,18011,Boone
+IN,18063,Hendricks
+IN,18139,Rush
+IN,18133,Putnam
+IN,18081,Johnson
+IN,18097,Marion
+IN,18145,Shelby
+IN,18109,Morgan
+IN,18041,Fayette
+IN,18065,Henry
+IN,18013,Brown
+IN,18127,Porter
+IN,18089,Lake
+IN,18073,Jasper
+IN,18091,La Porte
+IN,18111,Newton
+IN,18149,Starke
+IN,18099,Marshall
+IN,18085,Kosciusko
+IN,18039,Elkhart
+IN,18141,Saint Joseph
+IN,18087,Lagrange
+IN,18113,Noble
+IN,18069,Huntington
+IN,18151,Steuben
+IN,18003,Allen
+IN,18033,De Kalb
+IN,18001,Adams
+IN,18179,Wells
+IN,18183,Whitley
+IN,18067,Howard
+IN,18049,Fulton
+IN,18103,Miami
+IN,18015,Carroll
+IN,18053,Grant
+IN,18017,Cass
+IN,18169,Wabash
+IN,18131,Pulaski
+IN,18029,Dearborn
+IN,18047,Franklin
+IN,18155,Switzerland
+IN,18137,Ripley
+IN,18115,Ohio
+IN,18143,Scott
+IN,18019,Clark
+IN,18061,Harrison
+IN,18175,Washington
+IN,18025,Crawford
+IN,18043,Floyd
+IN,18117,Orange
+IN,18077,Jefferson
+IN,18005,Bartholomew
+IN,18071,Jackson
+IN,18079,Jennings
+IN,18031,Decatur
+IN,18035,Delaware
+IN,18177,Wayne
+IN,18161,Union
+IN,18075,Jay
+IN,18135,Randolph
+IN,18009,Blackford
+IN,18105,Monroe
+IN,18093,Lawrence
+IN,18055,Greene
+IN,18119,Owen
+IN,18027,Daviess
+IN,18083,Knox
+IN,18037,Dubois
+IN,18123,Perry
+IN,18101,Martin
+IN,18147,Spencer
+IN,18125,Pike
+IN,18173,Warrick
+IN,18129,Posey
+IN,18163,Vanderburgh
+IN,18051,Gibson
+IN,18167,Vigo
+IN,18121,Parke
+IN,18165,Vermillion
+IN,18021,Clay
+IN,18153,Sullivan
+IN,18157,Tippecanoe
+IN,18107,Montgomery
+IN,18007,Benton
+IN,18045,Fountain
+IN,18181,White
+IN,18171,Warren

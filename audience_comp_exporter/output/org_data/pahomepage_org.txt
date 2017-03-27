@@ -1,0 +1,532 @@
+Organization Code,Organization Name,Audience Provider ID
+182_2980,"A Bright Future Learning Center",4	
+182_3376,"A Step Ahead, LLC",4	
+182_3660,"A to Z Learning Daycare",4	
+182_2844,"ABC Daycare-Preschool",4	
+182_1008,"ABC Kiddie Kampus",4	
+182_3764,"ABC Learning Tree",4	
+182_2388,"Abington Christian Academy",4	
+182_3828,"Abington Heights Civic League Dance Academy",4	
+182_1504,"Abington Heights School District",4	
+182_3076,"Abundant Blessings Christian Daycare",4	
+182_3648,"Access Services",4	
+182_1012,"Acorns to Oaks",4	
+182_3728,"Actors Circle",4	
+182_2948,"Adventures in Learning Child Care",4	
+182_1576,"All Saints Academy/Scranton",4	
+182_3620,"All the latest closings and delays on",4	
+182_3088,"Allied Services dePaul School",4	
+182_3368,"Alnoor Academy",4	
+182_1024,"Alternative Learning Center",4	
+182_1560,"Alvernia University/Schuylkill Ctr",4	
+182_3208,"Amedisys Hospice",4	
+182_3508,"American Culinary Fed of NEPA",4	
+182_3704,"American Legion Post 1",4	
+182_1028,"Apple Tree/Susquehanna Prep",4	
+182_3380,"ASSET, Inc.",4	
+182_1580,"Assumption BVM/Pottsville",4	
+182_3312,"Avoca Basketball League",4	
+182_1516,"Bald Eagle Area School District",4	
+182_1520,"Bangor Area School District",4	
+182_1592,"Baptist Bible College & Seminary",4	
+182_3644,"Baptist Tabernacle",4	
+182_3172,"Barone Beauty Academy",4	
+182_2780,"Bear Creek Community Charter School",4	
+182_1524,"Bellefonte Area School District",4	
+182_1036,"Belotti Learning Window",4	
+182_1528,"Belvidere School District",4	
+182_1532,"Benton Area School District",4	
+182_1536,"Berwick Area School District",4	
+182_2796,"BHA Schools",4	
+182_2800,"Big Daddys Daycare",4	
+182_1636,"Blast IU 17",4	
+182_1540,"Bloomsburg Area School District",4	
+182_1640,"Bloomsburg Christian School",4	
+182_1564,"Bloomsburg University",4	
+182_1544,"Blue Mountain School District",4	
+182_2940,"Blue Mtn Health System Adult DC",4	
+182_2740,"Blue Ridge School District",4	
+182_2928,"Boys & Girls Clubs of NEPA",4	
+182_3860,"Bradford County Action",4	
+182_2904,"Bradford Cty Senior Center",4	
+182_3456,"Bridon American",4	
+182_1568,"Bucknell University",4	
+182_1040,"Building Blocks Learning Center",4	
+182_3260,"C & J Mountain Warriors Karate",4	
+182_3516,"C.A.P.P.A.",4	
+182_2916,"Canaan Christian Academy",4	
+182_1548,"Canton Area School District",4	
+182_3800,"Carbon Lehigh IU 21",4	
+182_1552,"Carbondale Area School District",4	
+182_1672,"Career Tech Center/Lackawanna",4	
+182_1048,"Caring Place, The",4	
+182_3296,"Castle Transportation",4	
+182_3308,"Catholic Social Services",4	
+182_2776,"Catholic Youth Center Daycare",4	
+182_3436,"CCL Tube",4	
+182_1052,"Center for Independent Living/Williamsport",4	
+182_1556,"Central Columbia School District",4	
+182_3336,"Central Susquehanna LPN Career Ctr",4	
+182_3632,"Century Club of Scranton",4	
+182_3164,"Character Builders Christian Academy",4	
+182_3492,"Child Development Council of NEPA",4	
+182_2964,"Childrens Academic Learning Ctr",4	
+182_2972,"Childrens Ark",4	
+182_1056,"Childrens Cornerstone",4	
+182_2772,"Childrens Discovery Center",4	
+182_3304,"Childrens Education-Learning Ctr",4	
+182_3320,"Church Alive",4	
+182_3264,"Cinram Manufacturing, LLC",4	
+182_3364,"Citterio",4	
+182_2868,"Clear Brook",4	
+182_1064,"Close to Home Child Care",4	
+182_3200,"Colts Bus Company",4	
+182_1684,"Columbia County Christian School",4	
+182_1688,"Columbia/Montour AVTS",4	
+182_3340,"Commonwealth Medical College",4	
+182_3424,"Concentra Urgent Care",4	
+182_3716,"Concern Counseling Services",4	
+182_1072,"Cookie Corner",4	
+182_1076,"Cori's Place",4	
+182_1080,"Count On Us Preschool",4	
+182_1464,"Creating Unlimited Possibilities (UCP)",4	
+182_1084,"Creative Critters Child Care Center",4	
+182_2784,"Creative Learning Center",4	
+182_1700,"Crestwood School District",4	
+182_3656,"Crossroads Counseling, Inc.",4	
+182_2884,"Crossroads Discovery Center",4	
+182_3796,"CSC Partial Program",4	
+182_1704,"Dallas School District",4	
+182_1708,"Damascus Christian Academy",4	
+182_1712,"Danville Area School District",4	
+182_1088,"Danville Child Development Center",4	
+182_1092,"Day Nursery Association",4	
+182_3544,"Daydreamers Child Care",4	
+182_1724,"Delaware Valley/PA School District",4	
+182_1732,"DeSales University",4	
+182_3628,"Deutsch Institute",4	
+182_3480,"Devereux Pocono",4	
+182_3120,"Doodle Bug Preschool",4	
+182_3272,"DUI Services of Monroe County",4	
+182_1736,"Dunmore School District",4	
+182_3288,"Early Learning Center at Scranton JCC",4	
+182_1744,"East Lycoming School District",4	
+182_3576,"East Mountain LC",4	
+182_1748,"East Stroudsburg Area School District",4	
+182_3244,"East Stroudsburg University",4	
+182_3072,"EIEIO Child Care Center",4	
+182_1764,"Elk Lake School District",4	
+182_3592,"Empire Beauty School/Shamokin Dam",4	
+182_2860,"Endless Mtn Learning Center",4	
+182_3676,"Every Bodys Yoga at Vital Link",4	
+182_1772,"Faith Christian School/Roseto",4	
+182_3816,"Feeding Families Ministry",4	
+182_1776,"Fell Charter School",4	
+182_3712,"First Assembly of God Wilkes-Barre",4	
+182_1780,"Forest City Regional School District",4	
+182_1584,"Fortis Institute/Forty Fort",4	
+182_1588,"Fortis Institute/Scranton",4	
+182_1120,"Freckles and Frills Early LC",4	
+182_1124,"Fricchione Center",4	
+182_3568,"Friends Forever",4	
+182_1792,"Galeton Area School District",4	
+182_3636,"Gillingham Charter School",4	
+182_3024,"Good Shepherd Academy",4	
+182_1808,"Gospel Christian Academy",4	
+182_1128,"Governors Press Office",4	
+182_1812,"Greater Nanticoke Area School District",4	
+182_1132,"Greater Pittston YMCA Daycare",4	
+182_1352,"Greater Scr YMCA Early Learning Ctr",4	
+182_2952,"Greentown Day Care Center",4	
+182_1820,"Greenwood Friends School",4	
+182_1136,"Growing Concern",4	
+182_2864,"Growing Years",4	
+182_1824,"Hancock Central School District",4	
+182_1828,"Hanover Area School District",4	
+182_1840,"Hazleton Area School District",4	
+182_1148,"Hazleton Public Transit",4	
+182_1144,"Hazleton Trinity Nursery / KDG",4	
+182_1500,"Hazleton YMCA/YWCA Daycare",4	
+182_3144,"Helping Hands, LC",4	
+182_1852,"Heritage Christian Academy",4	
+182_3180,"Herr Memorial Library",4	
+182_3344,"Hershey Company/Hazleton Plant",4	
+182_3472,"Hildebrandt LC/GSA",4	
+182_1860,"Hillside School",4	
+182_3220,"Holy Angels PREP",4	
+182_3028,"Holy Cross High School",4	
+182_3032,"Holy Family Academy",4	
+182_3720,"Holy Family School - Berwick",4	
+182_3036,"Holy Redeemer High School",4	
+182_1876,"Holy Rosary/Duryea",4	
+182_3840,"Hope Enterprises",4	
+182_3584,"Horizon Federal Credit Union",4	
+182_2640,"Howard Gardner School",4	
+182_3772,"Human Resources Center",4	
+182_1156,"Humpty Dumpty Kollege",4	
+182_2944,"I T T Technical Institute",4	
+182_1160,"I'm Big Now Learning Center",4	
+182_1896,"Immanuel Christian School",4	
+182_1164,"Infant Care Program at Covenant",4	
+182_3512,"Itsy Bitsy Bookworms",4	
+182_3752,"J P Mascaro & Sons",4	
+182_1172,"Jenny Lynn Academy",4	
+182_3880,"Jenny Lynn Elementary",4	
+182_1900,"Jersey Shore Area School District",4	
+182_2824,"Jewish Community Ctr Preschool/W-B",4	
+182_1904,"Jim Thorpe Area School District",4	
+182_1908,"Johnson College",4	
+182_1176,"Karing for Kids",4	
+182_3788,"KCR-Bridge Street",4	
+182_3792,"KCR-Mundy Street",4	
+182_3460,"Keystone Adult Daycare",4	
+182_1916,"Keystone Central School District",4	
+182_1920,"Keystone College/La Plume",4	
+182_3448,"Keystone College/Towanda",4	
+182_2804,"Kiddie Campus",4	
+182_1180,"Kiddie Kapers Nursery School",4	
+182_3708,"Kids Country Daycare",4	
+182_3768,"Kinder Kampus Preparatory Preschool",4	
+182_3408,"KinderCare Learning Center",4	
+182_1928,"King's College",4	
+182_3328,"Kings College Early LC",4	
+182_1188,"Kings/St Marys Child Care",4	
+182_3268,"Kingston Baseball & Softball",4	
+182_1388,"Kreig Institute for Early Childhood Education",4	
+182_1940,"Kutztown University",4	
+182_3396,"Lacies Little Ones",4	
+182_3068,"Lackawanna College / PNG",4	
+182_1944,"Lackawanna College/Hazleton",4	
+182_1948,"Lackawanna College/Lake Region",4	
+182_1952,"Lackawanna College/Scranton",4	
+182_1956,"Lackawanna College/Towanda",4	
+182_1192,"Lackawanna County Admin Bldg",4	
+182_1196,"Lackawanna County Courthouse",4	
+182_1960,"Lackawanna Trail School District",4	
+182_3580,"Lake Run Learning Center",4	
+182_1964,"Lake-Lehman School District",4	
+182_1968,"Lakeland School District",4	
+182_1972,"LaSalle Academy",4	
+182_1204,"Learning Station",4	
+182_1976,"Lehigh Career and Tech Institute",4	
+182_1980,"Lehighton Area School District",4	
+182_3324,"LeTip of Stroudsburg",4	
+182_1984,"Lewisburg Area School District",4	
+182_3864,"Life Geisinger / Kulpmont",4	
+182_2968,"LIFE Geisinger Adult Day Care/Scranton",4	
+182_3744,"Lil Sailors Daycare",4	
+182_3884,"Lil' Treehouse",4	
+182_1988,"Line Mountain School District",4	
+182_3756,"Lion Brewery",4	
+182_3016,"Little Acres Learning Academy",4	
+182_3116,"Little Bears Daycare",4	
+182_1208,"Little Biggar Preschool",4	
+182_3160,"Little Blessings Nursery School",4	
+182_1212,"Little Britches Daycare",4	
+182_3552,"Little Explorers Learning Center",4	
+182_1216,"Little Gals - Pals",4	
+182_3100,"Little Meadows Learning Center",4	
+182_3440,"Little People Daycare / W-B",4	
+182_1224,"Little People Daycare/Scranton",4	
+182_2764,"Little Saints Preschool",4	
+182_1232,"Little Stars/Mountaintop",4	
+182_1236,"Little Sunshines Child Care Center",4	
+182_3356,"Little Tykes LC",4	
+182_3692,"Living Hope Bible Church",4	
+182_1992,"Lock Haven Christian School",4	
+182_1996,"Lock Haven University",4	
+182_2000,"Loyalsock Township School District",4	
+182_1240,"Lutz Preschool",4	
+182_2004,"Luzerne County Community College",4	
+182_1244,"Luzerne County Courthouse",4	
+182_3432,"Luzerne County Day Reporting Ctr",4	
+182_3280,"Luzerne County Transp Auth",4	
+182_3784,"LVHN HWC Fitness",4	
+182_3156,"Lycoming Career -Technology Ctr",4	
+182_2012,"Lycoming College",4	
+182_3732,"Lycoming Cty Water & Sewer Authority",4	
+182_3496,"M I Windows-Doors",4	
+182_1252,"Magic Carpet Preschool",4	
+182_2020,"Mahanoy Area School District",4	
+182_3844,"Mall at Steamtown",4	
+182_2028,"Mansfield University",4	
+182_2040,"Marian Catholic High School",4	
+182_3684,"Marthas Table",4	
+182_2044,"Marywood University",4	
+182_2048,"McAdoo Catholic Elementary",4	
+182_3476,"McCann School of Business (D. City)",4	
+182_3872,"McCann School of Business (Hazleton)",4	
+182_3520,"McCann School of Business (W-B)",4	
+182_2052,"Meadowbrook Christian School",4	
+182_2056,"Meadowview Christian Academy",4	
+182_3856,"Meals on Wheels / Lackawanna",4	
+182_3812,"Meals on Wheels / Monroe County",4	
+182_1264,"Meals on Wheels/Pittston",4	
+182_2956,"Meals on Wheels/Schuylkill Sr Ctrs",4	
+182_1272,"Meals on Wheels/Tamaqua",4	
+182_1276,"Meals on Wheels/Wyoming Valley",4	
+182_1280,"Mekeel Child Care Center",4	
+182_3652,"Mia Products Co.",4	
+182_2060,"Mid Valley School District",4	
+182_2064,"Midd-West School District",4	
+182_2068,"Mifflinburg Area School District",4	
+182_3096,"Milford Hill Learning Center",4	
+182_1284,"Millenium Child Care Center",4	
+182_2072,"Millville Area School District",4	
+182_2076,"Milton Area School District",4	
+182_3532,"Milton Ties II (CSIU)",4	
+182_2084,"Minersville Area School District",4	
+182_1680,"Misericordia University",4	
+182_3412,"Miss Ashleys Beach House DC",4	
+182_3148,"Miss Ellies Education Center",4	
+182_1292,"Miss Janes Child Care",4	
+182_2088,"MMI Preparatory School",4	
+182_2092,"Monroe Career-Technical Institute",4	
+182_3776,"Monroe County Courthouse",4	
+182_2096,"Monsignor McHugh Elementary School",4	
+182_2100,"Montessori @ Elmpark",4	
+182_2104,"Montgomery Area School District",4	
+182_3668,"Montour Commissioners Office",4	
+182_2108,"Montoursville Area School District",4	
+182_2112,"Montrose Area School District",4	
+182_1300,"Moscow United Methodist Preschool",4	
+182_2120,"Mount Carmel Area School District",4	
+182_3188,"Mountain Karate Academy",4	
+182_2128,"Mountain View School District",4	
+182_2132,"Muhlenberg College",4	
+182_2136,"Muhlenburg Christian Academy",4	
+182_3852,"Muncy Bank & Trust Company",4	
+182_2140,"Muncy School District",4	
+182_2144,"N.E.I.U.",4	
+182_1304,"Nanny Rose Child Care",4	
+182_2148,"Nativity BVM High School",4	
+182_2152,"Nazareth Area School District",4	
+182_3588,"New Horizons Computer LC / Pittston",4	
+182_3596,"New Horizons Computer LC / Reading",4	
+182_3600,"New Horizons Computer LC/Bethlehem",4	
+182_3392,"Newtown Slocomb Mfg",4	
+182_1308,"Noahs Ark Nursery School",4	
+182_3020,"North Pocono Preschool",4	
+182_2164,"North Pocono School District",4	
+182_2168,"North Rome Christian School",4	
+182_2172,"North Schuylkill School District",4	
+182_2176,"Northampton Area School District",4	
+182_3204,"Northampton St B-Ball Leauge",4	
+182_2180,"Northeast Bradford School District",4	
+182_3780,"Northeastern PA Reading Association",4	
+182_2184,"Northern Lehigh School District",4	
+182_3196,"Northern Tier Career Center",4	
+182_2188,"Northern Tioga School District",4	
+182_1324,"Northumberland Area Head Start",4	
+182_2744,"Northumberland Christian School",4	
+182_2192,"Northumberland County CTC",4	
+182_2196,"Northwest Area School District",4	
+182_2200,"Northwestern Lehigh School District",4	
+182_2204,"Notre Dame Jr/Sr High School",4	
+182_2212,"Old Forge School District",4	
+182_2216,"Our Lady Lourdes Regional High School",4	
+182_2220,"Our Lady of Peace School",4	
+182_3152,"Our Lady of the Angels Academy",4	
+182_3572,"PA CareerLink",4	
+182_3688,"PALCO Federal Credit Union",4	
+182_2228,"Palmerton Area School District",4	
+182_2232,"Panther Valley School District",4	
+182_2236,"Pen Argyl Area School District",4	
+182_2240,"Penn College of Technology",4	
+182_3672,"Penn State Extension Luzerne",4	
+182_3560,"Penn Warranty",4	
+182_2244,"Philipsburg Area School District",4	
+182_2248,"Pine Grove Area School District",4	
+182_2252,"Pittston Area School District",4	
+182_3724,"Plains Township",4	
+182_2256,"Pleasant Valley School District",4	
+182_3284,"Pocono Family YMCA Daycare",4	
+182_3664,"Pocono Mountain Charter School",4	
+182_2260,"Pocono Mountain School District",4	
+182_2268,"Port Jervis City School District",4	
+182_2272,"Pottsville Area School District",4	
+182_3352,"Precious Moments Academy",4	
+182_1336,"Precious Ones Daycare",4	
+182_3564,"Pride Mobility",4	
+182_2280,"PSU/Hazleton Campus",4	
+182_2284,"PSU/Lehigh Valley",4	
+182_2288,"PSU/Northern Tier",4	
+182_2292,"PSU/Schuylkill Campus",4	
+182_2296,"PSU/Scranton Campus",4	
+182_2300,"PSU/University Park",4	
+182_2304,"PSU/Wilkes-Barre Campus",4	
+182_3176,"Public Library for Union County",4	
+182_3140,"Queen of Peace/Brodheadsville",4	
+182_2936,"Rainbow Trail Child Care Center",4	
+182_1340,"Rally Round Child Care Ctr",4	
+182_3060,"Renovo Senior Center",4	
+182_2316,"Revival Baptist Christian School",4	
+182_3736,"River Valley Regional YMCA",4	
+182_2324,"Riverside School District",4	
+182_1348,"Robinwood Daycare Center",4	
+182_2328,"Rock Christian Academy",4	
+182_3528,"Rock Solid Academy",4	
+182_3112,"Safe Haven Daycare-Preschool",4	
+182_2348,"Saint Clair Area School District",4	
+182_2352,"Salisbury Township School District",4	
+182_3524,"Sam, Inc.",4	
+182_3292,"Sand Castle Daycare",4	
+182_2356,"Saucon Valley School District",4	
+182_2360,"Sayre Area School District",4	
+182_2364,"Schuylkill AVTS/North",4	
+182_2368,"Schuylkill AVTS/South",4	
+182_2372,"Schuylkill Haven Area",4	
+182_2276,"Schuylkill Health School of Nursing",4	
+182_2380,"Schuylkill IU 29",4	
+182_2384,"Schuylkill Maple Avenue Campus",4	
+182_3500,"Schuylkill YMCA",4	
+182_3064,"Scranton Federal Building",4	
+182_2396,"Scranton Hebrew Day School",4	
+182_2400,"Scranton Preparatory School",4	
+182_2392,"Scranton School District",4	
+182_3224,"Scranton School for Deaf",4	
+182_3804,"Scribbles to Scholars",4	
+182_2408,"Selinsgrove Area School District",4	
+182_3808,"Senior Care Adult Daycare",4	
+182_3748,"Service 1st Federal Credit Union",4	
+182_2420,"Shamokin Area School District",4	
+182_2424,"Shenandoah Valley School District",4	
+182_2428,"Shikellamy School District",4	
+182_3612,"Sign up for text alerts & smartphone apps on Eyewitness News' website",4	
+182_3536,"Simmons Company",4	
+182_1364,"Small Wonders Learning Ctr/Scranton",4	
+182_2432,"South Williamsport Area School District",4	
+182_2436,"Southern Columbia Area School District",4	
+182_2440,"Southern Tioga School District",4	
+182_2452,"St Ambrose School",4	
+182_3300,"St Anns Basilica",4	
+182_2472,"St Clare/St Paul School",4	
+182_2476,"St Columba School",4	
+182_2480,"St Jerome Regional School",4	
+182_2488,"St John Neumann/Palmerton",4	
+182_1624,"St John Neumann/Williamsport",4	
+182_3824,"St John the Evangelist",4	
+182_3696,"St John the Evangelist - Pittston",4	
+182_3640,"St John Vianney Parish",4	
+182_2988,"St Joseph Ctr for Special Learning",4	
+182_2500,"St Joseph Regional Academy",4	
+182_3836,"St Joseph's School/Danville",4	
+182_3384,"St Josephs Oblates",4	
+182_2508,"St Judes/Mountaintop",4	
+182_3540,"St Lukes Child Care Center",4	
+182_3868,"St Mark / St John Episcopal Church",4	
+182_2516,"St Mary of Mt Carmel/Dunmore",4	
+182_3248,"St Marys of the Mount",4	
+182_2992,"St Michael the Archangel",4	
+182_2532,"St Nicholas School/Minersville",4	
+182_2540,"St Pauls Lutheran Preschool",4	
+182_2544,"St Stanislaus Elementary",4	
+182_2996,"Step By Step Day Options",4	
+182_3056,"STEP Office of Aging",4	
+182_3488,"Step, Inc.",4	
+182_3760,"Stroehmann Federal Credit Union",4	
+182_2556,"Stroudsburg Area School District",4	
+182_2560,"Sts Nicholas-Mary/Wilkes-Barre",4	
+182_2920,"Sullivan County Courthouse",4	
+182_2572,"Sullivan County School District",4	
+182_2908,"Sullivan Cty Senior Centers",4	
+182_1600,"Summit Christian Academy",4	
+182_2580,"Sunbury Christian Academy",4	
+182_1380,"Sunflower Child Care Center",4	
+182_1384,"Sunflower Sprouts Learning Center",4	
+182_3256,"Sunshine Gymnastics",4	
+182_2588,"Susquehanna Community SD",4	
+182_2848,"Susquehanna County CTC",4	
+182_3504,"Susquehanna County Transportation",4	
+182_2592,"Susquehanna University",4	
+182_3192,"Susquehanna Valley Child Development",4	
+182_2600,"Tamaqua Area School District",4	
+182_2984,"Tamaqua Child Care Center",4	
+182_1400,"Temple Bnai Brith School",4	
+182_2604,"Temple Israel/Wilkes-Barre",4	
+182_3232,"test college",4	
+182_3236,"test elementary",4	
+182_3240,"test high school",4	
+182_3616,"testing export to web",4	
+182_3360,"The Crossings Premium Outlets",4	
+182_2852,"Throop Civic Center Daycare",4	
+182_1404,"Tiny Tots Learning Center / Old Forge",4	
+182_3084,"Tiny Treasures Child Care Center",4	
+182_2912,"Tioga Cty Senior Centers",4	
+182_2756,"Tobyhanna Army Depot",4	
+182_3404,"Tobyhanna Kids, Inc.",4	
+182_1412,"Totsville Child Care",4	
+182_2608,"Towanda Area School District",4	
+182_1416,"Treasure House - All Centers",4	
+182_1424,"Treasure House - Blakely",4	
+182_1428,"Treasure House - Chinchilla",4	
+182_1432,"Treasure House - Hawley",4	
+182_1436,"Treasure House - Honesdale",4	
+182_1440,"Treasure House - Montrose",4	
+182_1444,"Treasure House - Scranton",4	
+182_1452,"Treasure House - Taylor",4	
+182_2612,"Tri Valley School District",4	
+182_2616,"Triboro Christian Academy",4	
+182_3276,"Trinity Academy",4	
+182_2624,"Troy Area School District",4	
+182_2880,"Trucksville Early Childhood Education",4	
+182_2628,"Tunkhannock Area School District",4	
+182_2888,"UCP/Scranton",4	
+182_3008,"UNC - Bellevue Child Care Ctr",4	
+182_3000,"UNC - Green Ridge Child Care Ctr",4	
+182_3004,"UNC - Progressive Child Care Ctr",4	
+182_3252,"Union Snyder Senior Centers",4	
+182_3092,"Union Snyder Transportation Alliance",4	
+182_2632,"United Hebrew Institute",4	
+182_2636,"University of Scranton",4	
+182_3080,"Up-Side Down Town Early LC",4	
+182_3316,"URS / Hazleton",4	
+182_2644,"Valley View School District",4	
+182_3372,"Valmont Newmark",4	
+182_3556,"Victims Intervention Program",4	
+182_1472,"Villa Daycare Center",4	
+182_3876,"Vineyard Christian Child Center",4	
+182_3608,"VNA Hospice and Home Health",4	
+182_2648,"Wallenpaupack School District",4	
+182_2652,"Walnut Street Christian/Jersey Shore",4	
+182_2656,"Warrior Run School District",4	
+182_3740,"WAT Federal Credit Union",4	
+182_2660,"Watsontown Christian Academy",4	
+182_2960,"Wayne County Agency on Aging",4	
+182_3388,"Wayne County Courthouse",4	
+182_2664,"Wayne Highlands School District",4	
+182_2668,"Weatherly Area School District",4	
+182_1476,"Wee Care Daycare",4	
+182_1480,"Wee Little Angels",4	
+182_1484,"Wee Wons, Inc.",4	
+182_2672,"Wellsboro Area School District",4	
+182_3216,"West Branch School",4	
+182_3184,"West End Library",4	
+182_3680,"West Pharmaceutical/Jersey Shore",4	
+182_2676,"West Side CTC",4	
+182_2680,"Western Wayne School District",4	
+182_3848,"When I Grow Up Childcare and LC",4	
+182_2684,"Whitehall-Coplay School District",4	
+182_2688,"Wilkes University",4	
+182_2692,"Wilkes-Barre Academy",4	
+182_2700,"Wilkes-Barre Area CTC",4	
+182_2696,"Wilkes-Barre Area School District",4	
+182_3444,"Wilkes-Barre Family YMCA",4	
+182_2812,"Wilkes-Barre Family YMCA Daycare",4	
+182_3832,"Wilkes-Barre VAMC",4	
+182_2704,"Williamsport Area School District",4	
+182_2708,"Williamsport Christian School",4	
+182_3332,"Williamsport Federal Bldg/Courthouse",4	
+182_3624,"World of Little League Museum",4	
+182_2712,"Wyalusing Area School District",4	
+182_2716,"Wyoming Area Catholic School",4	
+182_2720,"Wyoming Area School District",4	
+182_3428,"Wyoming County Offices",4	
+182_2724,"Wyoming Seminary - Lower School",4	
+182_2872,"Wyoming Seminary - Upper School",4	
+182_2728,"Wyoming Valley 7th Day Advent School",4	
+182_3604,"Wyoming Valley Alcohol-Drug",4	
+182_1492,"Wyoming Valley Childrens Association",4	
+182_2732,"Wyoming Valley Montessori School",4	
+182_2736,"Wyoming Valley West School District",4	
+182_3820,"Your Loving Choices, Inc.",4	

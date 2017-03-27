@@ -1,0 +1,506 @@
+2016-12-27 13:22:44,974 ERROR [com.excel.CheckOutAllHttp] - Group: /wttg , ArticleId: 5595880.0 , Title: FOX 5 Staff list , Row Number: 200 , Content: <?xml version="1.0" encoding="UTF-8"?> 
+<root available-locales="en_US" default-locale="en_US"><dynamic-element instance-id="Iyi5bpjO" name="default_flag" type="boolean" index-type="text"><dynamic-content><![CDATA[]]></dynamic-content></dynamic-element><dynamic-element instance-id="9djrrKJW" name="component_title" type="text" index-type=""><dynamic-content>FOX 5 Staff</dynamic-content></dynamic-element><dynamic-element instance-id="HT5v15LP" name="type" type="snippet-dropdown" index-type=""><dynamic-element instance-id="aRIkZU8T" name="html" type="custom_snippet" index-type=""><dynamic-element instance-id="eZ8MHbRG" name="html" type="text_area" index-type=""><dynamic-content>&lt;style type="text/css"&gt; 
+img.headshot { 
+max-width: 90%; 
+padding-left: 10px; 
+} 
+
+.name_w_box { 
+background-color: #043556; 
+color: #fff; 
+text-decoration: none; 
+font-size: 1.1rem; 
+padding: 5px 5px 5px 11px; 
+} 
+
+#gallery { 
+margin: 0; 
+padding: 0; 
+list-style: none; 
+} 
+
+#gallery li { 
+float: left; 
+width: 30%; 
+padding: 1.6%; 
+} 
+
+@media screen and (max-width: 900px) { 
+
+#gallery li { 
+float: left; 
+width: 40%; 
+padding: 5%; 
+} 
+} 
+
+@media screen and (max-width: 550px) { 
+
+#gallery li { 
+float: left; 
+width: 90%; 
+padding: 5%; 
+} 
+}&lt;/style&gt; 
+&lt;div id="wrapper"&gt; 
+&lt;section&gt; 
+&lt;ul id="gallery"&gt;&lt;!-- START OF LIST --&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Shawn Yancy&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/yancy_1438892380915_82056_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4075319-story"&gt;Anchor &lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/ShawnYancynews"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/Fox5Shawn"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Tony Perkins&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/perkins_83815_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4075775-story"&gt;Anchor&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/TonyPerkinsFox5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/TonyPerkinsFOX5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Sue Palka&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/palka_83805_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4075454-story"&gt;Chief Meteorlogist &lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/SuePalkaFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/suepalkafox5dc"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Sarah Simmons&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/simmons_1438892418994_82063_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/1671059-story"&gt;Anchor/Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/SarahSimmonsFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/SimmonsFox5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="instagram" href="https://instagram.com/sarahsimmonstv"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Jim Lokay&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://static.lakana.com/media.fox5dc.com/photo/2016/02/16/JIM%20LOKAY_1455665474641_854978_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/92789307-story"&gt;Anchor/Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/jimlokay"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/LokayFOX5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Allison Seymour&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/seymour_1438892396810_82148_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4077054-story"&gt;Anchor&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/AllisonSeymourFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/Fox5DCAllison"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="instagram" href="https://instagram.com/allisonseymour66"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Steve Chenevey&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/chenevey_83814_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4075980-story"&gt;Anchor&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/SteveCheneveyFox5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/stevechenevey"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Tucker Barnes&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/barnes_1438892428618_82067_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4877592-story"&gt;Meteorologist&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/tuckerbarnesfox5dc"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/TuckerFox5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Wisdom Martin&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/martin_83732_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4077867-story"&gt;Anchor&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/WisdomMartinFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/WisdomFOX5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="instagram" href="https://instagram.com/WisdomMartinTV"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Holly Morris&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/morris_83812_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4078122-story"&gt;Anchor&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/HollyMorrisFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/HollyLiveFox5DC"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="instagram" href="https://instagram.com/hollylivefox5"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Maureen Umeh&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/umeh_83731_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4535278-story"&gt;Anchor&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/MaureenUmehFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/MaureenUmehFox5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Erin Como&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/24/como_1440457037242_120870_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/10897576-story"&gt;Traffic Anchor/Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/ErinEComo"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/ErinFox5DC"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Caitlin Roth&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/roth_83727_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/2265190-story"&gt;Meteorologist&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/CaitlinRothFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/caitlinrothfox5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Annie Yu&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/yu_83811_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4559540-story"&gt;Anchor/Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/AnnieYuFox5dc"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/AnnieYuFox5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="instagram" href="https://instagram.com/annieyufox5"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Mike Thomas&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/mthomas._83810_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4579515-story"&gt;Meteorologist&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/MikeTFox5"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/MikeTFox5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Lauren DeMarco&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/demarco_83809_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4877667-story"&gt;Anchor/Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/LaurenDeMarcoFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/ldemarcofox5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Gwen Tolbart&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/14/tolbart2_1439588429841_106665_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4536358-story"&gt;Weather Anchor&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/GwenTolbartFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/gwenfox5dc"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Matt Ackland&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/ackland_1438892409413_82061_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4536329-story"&gt;Reporter/Anchor&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/pages/Matt-Ackland-FOX-5-DC/549132691776788"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/mattacklandfox5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Melanie Alnwick&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/Alnwick_1438892380872_82055_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4559509-story"&gt;Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/MelanieAlnwickFox5Dc"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/fox5melanie"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;!--&lt;li&gt;&lt;p class="name_w_box"&gt;Kellee Azar&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/azar_1438892395843_82058_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4875919-story"&gt;Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/KelleeAzarFox5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/KelleeAzar"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Bob Barnard&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/barnard_1438894195813_82071_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4876736-story"&gt;Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/BobBarnardFox5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/barnardfox5dc"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Ronica Cleary&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://static.lakana.com/media.fox5dc.com/photo/2016/02/16/RONICA%20CLEARY_1455665438965_854977_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/92790275-story"&gt;Political Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/Ronica-Cleary-162548067189223/"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/RonicaCleary"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Tom Fitzgerald&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/fitzgerald_1438892409874_82062_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4879599-story"&gt;Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/pages/Tom-Fitzgerald-Fox-5-DC/487450204634840"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/FitzFox5DC"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Tisha Lewis&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/tisha%20lewis_1438894240785_82072_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/2279162-story"&gt;Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/TishaLewisFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/TishaLewis"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Alexandra Limon&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/limon_1438892414434_82153_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/5203111-story"&gt;Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https=://www.facebook.com/AlexandraLimonFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class="twitter" href="https://twitter.com/AlexandraFox5DC"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Brody Logan&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://static.lakana.com/media.fox5dc.com/photo/2016/04/19/brody%20bio%20picy_1461103140636_1198112_ver1.0_1280_720.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/125466010-story"&gt;Sports Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/BrodyLoganFox5"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class="twitter" href="https://twitter.com/BrodyLogan"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Marina Marraco&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/marraco_83807_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/5206313-story"&gt;Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/marinamarraco"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/MarinaMarraco"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Kevin McCarthy&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/McCarthy_1438892424719_82065_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/5212649-story"&gt;Entertainment Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/KevinMcCarthyFOX"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/KevinMcCarthyTV"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="instagram" href="https://instagram.com/kevinmccarthytv/"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Gary McGrady&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/mcgrady_83806_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4534462-story"&gt;Meteorologist&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/GaryMcGradyFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/garyfox5dc"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Paul Wagner&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/wagner_83729_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/5213176-story"&gt;Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/PaulWagnerFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/Fox5Wagner"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Doug Luzader&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/luzader_1438894455010_82074_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4579557-story"&gt;FOX News National Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;!-- &lt;a class="facebook" href="https://www.facebook.com/Alcides.Segui"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;a class="twitter" href="https://twitter.com/DougLuzader"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;!-- &lt;li&gt; 
+&lt;p class ="name_w_box"&gt;Michael Shingleton&lt;/p&gt; 
+&lt;a href= 
+"#"&gt;&lt;img align="left" 
+alt="" class="headshot" src= 
+"http://s3.amazonaws.com/media.fox13news.com/photo/2015/07/30/Headshots_Updated_Finals_002_1280x720_Epstein_1438275782955_65138_ver1.0_640_360.jpg"&gt;&lt;/a&gt; 
+
+&lt;footer class="mod-footer light"&gt;&lt;a href="/web/ktbc/news/local-news"&gt;Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt; &lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt; 
+&lt;a class="facebook" href="https://www.facebook.com/Michael.Shingleton.FOX13"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;a class ="twitter" href="https://twitter.com/ShingletonFOX"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;/div&gt; 
+&lt;/li&gt; 
+
+
+&lt;li&gt; 
+&lt;p class ="name_w_box"&gt;Cynthia Smoot&lt;/p&gt; 
+&lt;a href= 
+"#"&gt;&lt;img align="left" 
+alt="" class="headshot" src= 
+"http://s3.amazonaws.com/media.fox13news.com/photo/2015/07/31/11pm-Cynthia%20Smoot_1438356425098_65321_ver1.0_640_360.jpg"&gt;&lt;/a&gt; 
+
+&lt;footer class="mod-footer light"&gt;&lt;a href="/web/ktbc/news/local-news"&gt;Anchor&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt; &lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt; 
+&lt;a class="facebook" href="http://www.facebook.com/Cynthia.Smoot.FOX13"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;a class ="twitter" href="http://www.twitter.com/CynthiaSmoot"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;/div&gt; 
+&lt;/li&gt; 
+
+
+&lt;li&gt; 
+&lt;p class ="name_w_box"&gt;Lloyd Sowers&lt;/p&gt; 
+&lt;a href= 
+"#"&gt;&lt;img align="left" 
+alt="" class="headshot" src= 
+"http://s3.amazonaws.com/media.fox13news.com/photo/2015/07/30/Headshots_Updated_Finals_002_1280x720_Epstein_1438275782955_65138_ver1.0_640_360.jpg"&gt;&lt;/a&gt; 
+
+&lt;footer class="mod-footer light"&gt;&lt;a href="/web/ktbc/news/local-news"&gt;Anchor &amp;amp; reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt; &lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt; 
+&lt;a class="facebook" href="https://www.facebook.com/Lloyd.Sowers"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;a class ="twitter" href="http://www.twitter.com/LloydSowers"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;/div&gt; 
+&lt;/li&gt; 
+
+
+&lt;li&gt; 
+&lt;p class ="name_w_box"&gt;Ken Suarez&lt;/p&gt; 
+&lt;a href= 
+"#"&gt;&lt;img align="left" 
+alt="" class="headshot" src= 
+"http://s3.amazonaws.com/media.fox13news.com/photo/2015/07/30/Headshots_Updated_Finals_002_1280x720_Epstein_1438275782955_65138_ver1.0_640_360.jpg"&gt;&lt;/a&gt; 
+
+&lt;footer class="mod-footer light"&gt;&lt;a href="/web/ktbc/news/local-news"&gt;Polk bureau&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt; &lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt; 
+&lt;a class="facebook" href="https://www.facebook.com/Ken.Suarez.FOX13"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;a class ="twitter" href="https://twitter.com/kensuarez2"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;/div&gt; 
+&lt;/li&gt; 
+
+
+&lt;li&gt; 
+&lt;p class ="name_w_box"&gt;Jeff Tewksbury&lt;/p&gt; 
+&lt;a href= 
+"#"&gt;&lt;img align="left" 
+alt="" class="headshot" src= 
+"http://s3.amazonaws.com/media.fox13news.com/photo/2015/07/31/JEFF_TEWKSBURY_HEADSHOT_LARGE_1438358665950_65197_ver1.0_640_360.jpg"&gt;&lt;/a&gt; 
+
+&lt;footer class="mod-footer light"&gt;&lt;a href="/web/ktbc/news/local-news"&gt;Sports reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt; &lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt; 
+&lt;a class="facebook" href="https://www.facebook.com/jeff.tewksbury.13"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;a class ="twitter" href="https://twitter.com/JeffTewksbury"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;/div&gt; 
+&lt;/li&gt; 
+
+
+&lt;li&gt; 
+&lt;p class ="name_w_box"&gt;Jim Weber&lt;/p&gt; 
+&lt;a href= 
+"#"&gt;&lt;img align="left" 
+alt="" class="headshot" src= 
+"http://s3.amazonaws.com/media.fox13news.com/photo/2015/07/30/Headshots_Updated_Finals_002_1280x720_Epstein_1438275782955_65138_ver1.0_640_360.jpg"&gt;&lt;/a&gt; 
+
+&lt;footer class="mod-footer light"&gt;&lt;a href="/web/ktbc/news/local-news"&gt;Meteorologist&lt;i clas
+org.dom4j.DocumentException: Error on line 222 of document  : XML document structures must start and end within the same entity. Nested exception: XML document structures must start and end within the same entity.
+	at org.dom4j.io.SAXReader.read(SAXReader.java:482)
+	at org.dom4j.io.SAXReader.read(SAXReader.java:343)
+	at com.excel.CheckOutAllHttp.getCellValue(CheckOutAllHttp.java:119)
+	at com.excel.CheckOutAllHttp.readColumns(CheckOutAllHttp.java:77)
+	at com.excel.CheckOutAllHttp.main(CheckOutAllHttp.java:52)
+Nested exception: 
+org.xml.sax.SAXParseException: XML document structures must start and end within the same entity.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(Unknown Source)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.endEntity(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.endEntity(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.endEntity(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.load(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.skipChar(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at org.dom4j.io.SAXReader.read(SAXReader.java:465)
+	at org.dom4j.io.SAXReader.read(SAXReader.java:343)
+	at com.excel.CheckOutAllHttp.getCellValue(CheckOutAllHttp.java:119)
+	at com.excel.CheckOutAllHttp.readColumns(CheckOutAllHttp.java:77)
+	at com.excel.CheckOutAllHttp.main(CheckOutAllHttp.java:52)
+2016-12-27 13:22:44,991 ERROR [com.excel.CheckOutAllHttp] - Group: /wttg-staging , ArticleId: 5595880.0 , Title: FOX 5 Staff list , Row Number: 208 , Content: <?xml version="1.0" encoding="UTF-8"?> 
+<root available-locales="en_US" default-locale="en_US"><dynamic-element instance-id="Iyi5bpjO" name="default_flag" type="boolean" index-type="text"><dynamic-content><![CDATA[]]></dynamic-content></dynamic-element><dynamic-element instance-id="9djrrKJW" name="component_title" type="text" index-type=""><dynamic-content>FOX 5 Staff</dynamic-content></dynamic-element><dynamic-element instance-id="HT5v15LP" name="type" type="snippet-dropdown" index-type=""><dynamic-element instance-id="aRIkZU8T" name="html" type="custom_snippet" index-type=""><dynamic-element instance-id="eZ8MHbRG" name="html" type="text_area" index-type=""><dynamic-content>&lt;style type="text/css"&gt; 
+img.headshot { 
+max-width: 90%; 
+padding-left: 10px; 
+} 
+
+.name_w_box { 
+background-color: #043556; 
+color: #fff; 
+text-decoration: none; 
+font-size: 1.1rem; 
+padding: 5px 5px 5px 11px; 
+} 
+
+#gallery { 
+margin: 0; 
+padding: 0; 
+list-style: none; 
+} 
+
+#gallery li { 
+float: left; 
+width: 30%; 
+padding: 1.6%; 
+} 
+
+@media screen and (max-width: 900px) { 
+
+#gallery li { 
+float: left; 
+width: 40%; 
+padding: 5%; 
+} 
+} 
+
+@media screen and (max-width: 550px) { 
+
+#gallery li { 
+float: left; 
+width: 90%; 
+padding: 5%; 
+} 
+}&lt;/style&gt; 
+&lt;div id="wrapper"&gt; 
+&lt;section&gt; 
+&lt;ul id="gallery"&gt;&lt;!-- START OF LIST --&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Shawn Yancy&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/yancy_1438892380915_82056_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4075319-story"&gt;Anchor &lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/ShawnYancynews"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/Fox5Shawn"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Tony Perkins&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/perkins_83815_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4075775-story"&gt;Anchor&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/TonyPerkinsFox5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/TonyPerkinsFOX5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Sue Palka&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/palka_83805_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4075454-story"&gt;Chief Meteorlogist &lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/SuePalkaFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/suepalkafox5dc"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Sarah Simmons&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/simmons_1438892418994_82063_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/1671059-story"&gt;Anchor/Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/SarahSimmonsFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/SimmonsFox5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="instagram" href="https://instagram.com/sarahsimmonstv"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Jim Lokay&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://static.lakana.com/media.fox5dc.com/photo/2016/02/16/JIM%20LOKAY_1455665474641_854978_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/92789307-story"&gt;Anchor/Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/jimlokay"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/LokayFOX5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Allison Seymour&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/seymour_1438892396810_82148_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4077054-story"&gt;Anchor&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/AllisonSeymourFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/Fox5DCAllison"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="instagram" href="https://instagram.com/allisonseymour66"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Steve Chenevey&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/chenevey_83814_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4075980-story"&gt;Anchor&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/SteveCheneveyFox5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/stevechenevey"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Tucker Barnes&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/barnes_1438892428618_82067_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4877592-story"&gt;Meteorologist&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/tuckerbarnesfox5dc"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/TuckerFox5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Wisdom Martin&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/martin_83732_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4077867-story"&gt;Anchor&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/WisdomMartinFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/WisdomFOX5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="instagram" href="https://instagram.com/WisdomMartinTV"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Holly Morris&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/morris_83812_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4078122-story"&gt;Anchor&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/HollyMorrisFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/HollyLiveFox5DC"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="instagram" href="https://instagram.com/hollylivefox5"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Maureen Umeh&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/umeh_83731_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4535278-story"&gt;Anchor&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/MaureenUmehFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/MaureenUmehFox5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Erin Como&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/24/como_1440457037242_120870_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/10897576-story"&gt;Traffic Anchor/Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/ErinEComo"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/ErinFox5DC"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Caitlin Roth&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/roth_83727_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/2265190-story"&gt;Meteorologist&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/CaitlinRothFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/caitlinrothfox5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Annie Yu&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/yu_83811_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4559540-story"&gt;Anchor/Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/AnnieYuFox5dc"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/AnnieYuFox5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="instagram" href="https://instagram.com/annieyufox5"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Mike Thomas&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/mthomas._83810_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4579515-story"&gt;Meteorologist&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/MikeTFox5"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/MikeTFox5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Lauren DeMarco&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/demarco_83809_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4877667-story"&gt;Anchor/Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/LaurenDeMarcoFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/ldemarcofox5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Gwen Tolbart&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/14/tolbart2_1439588429841_106665_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4536358-story"&gt;Weather Anchor&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/GwenTolbartFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/gwenfox5dc"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Matt Ackland&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/ackland_1438892409413_82061_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4536329-story"&gt;Reporter/Anchor&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/pages/Matt-Ackland-FOX-5-DC/549132691776788"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/mattacklandfox5"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Melanie Alnwick&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/Alnwick_1438892380872_82055_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4559509-story"&gt;Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/MelanieAlnwickFox5Dc"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/fox5melanie"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;!--&lt;li&gt;&lt;p class="name_w_box"&gt;Kellee Azar&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/azar_1438892395843_82058_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4875919-story"&gt;Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/KelleeAzarFox5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/KelleeAzar"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Bob Barnard&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/barnard_1438894195813_82071_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4876736-story"&gt;Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/BobBarnardFox5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/barnardfox5dc"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Ronica Cleary&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://static.lakana.com/media.fox5dc.com/photo/2016/02/16/RONICA%20CLEARY_1455665438965_854977_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/92790275-story"&gt;Political Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/Ronica-Cleary-162548067189223/"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/RonicaCleary"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Tom Fitzgerald&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/fitzgerald_1438892409874_82062_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4879599-story"&gt;Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/pages/Tom-Fitzgerald-Fox-5-DC/487450204634840"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/FitzFox5DC"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Tisha Lewis&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/tisha%20lewis_1438894240785_82072_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/2279162-story"&gt;Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/TishaLewisFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/TishaLewis"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Alexandra Limon&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/limon_1438892414434_82153_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/5203111-story"&gt;Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https=://www.facebook.com/AlexandraLimonFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class="twitter" href="https://twitter.com/AlexandraFox5DC"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Brody Logan&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://static.lakana.com/media.fox5dc.com/photo/2016/04/19/brody%20bio%20picy_1461103140636_1198112_ver1.0_1280_720.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/125466010-story"&gt;Sports Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/BrodyLoganFox5"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class="twitter" href="https://twitter.com/BrodyLogan"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Marina Marraco&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/marraco_83807_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/5206313-story"&gt;Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/marinamarraco"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/MarinaMarraco"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Kevin McCarthy&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/McCarthy_1438892424719_82065_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/5212649-story"&gt;Entertainment Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/KevinMcCarthyFOX"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/KevinMcCarthyTV"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="instagram" href="https://instagram.com/kevinmccarthytv/"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Gary McGrady&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/mcgrady_83806_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4534462-story"&gt;Meteorologist&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/GaryMcGradyFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/garyfox5dc"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Paul Wagner&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/07/wagner_83729_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/5213176-story"&gt;Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;a class="facebook" href="https://www.facebook.com/PaulWagnerFOX5DC"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; &lt;a class="twitter" href="https://twitter.com/Fox5Wagner"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="name_w_box"&gt;Doug Luzader&lt;/p&gt;&lt;a href="#"&gt;&lt;img align="left" alt="" class="headshot" src="http://s3.amazonaws.com/media.fox5dc.com/photo/2015/08/06/luzader_1438894455010_82074_ver1.0.jpg" /&gt;&lt;/a&gt; 
+&lt;footer class="mod-footer light"&gt; 
+&lt;a href="/about-us/fox-5-staff/4579557-story"&gt;FOX News National Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt;&lt;!-- &lt;a class="facebook" href="https://www.facebook.com/Alcides.Segui"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;a class="twitter" href="https://twitter.com/DougLuzader"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--&lt;a class ="instagram" href="http://instagram.com/charleybelcher"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt; --&gt;&lt;/div&gt;&lt;/li&gt;&lt;!-- &lt;li&gt; 
+&lt;p class ="name_w_box"&gt;Michael Shingleton&lt;/p&gt; 
+&lt;a href= 
+"#"&gt;&lt;img align="left" 
+alt="" class="headshot" src= 
+"http://s3.amazonaws.com/media.fox13news.com/photo/2015/07/30/Headshots_Updated_Finals_002_1280x720_Epstein_1438275782955_65138_ver1.0_640_360.jpg"&gt;&lt;/a&gt; 
+
+&lt;footer class="mod-footer light"&gt;&lt;a href="/web/ktbc/news/local-news"&gt;Reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt; &lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt; 
+&lt;a class="facebook" href="https://www.facebook.com/Michael.Shingleton.FOX13"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;a class ="twitter" href="https://twitter.com/ShingletonFOX"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;/div&gt; 
+&lt;/li&gt; 
+
+
+&lt;li&gt; 
+&lt;p class ="name_w_box"&gt;Cynthia Smoot&lt;/p&gt; 
+&lt;a href= 
+"#"&gt;&lt;img align="left" 
+alt="" class="headshot" src= 
+"http://s3.amazonaws.com/media.fox13news.com/photo/2015/07/31/11pm-Cynthia%20Smoot_1438356425098_65321_ver1.0_640_360.jpg"&gt;&lt;/a&gt; 
+
+&lt;footer class="mod-footer light"&gt;&lt;a href="/web/ktbc/news/local-news"&gt;Anchor&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt; &lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt; 
+&lt;a class="facebook" href="http://www.facebook.com/Cynthia.Smoot.FOX13"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;a class ="twitter" href="http://www.twitter.com/CynthiaSmoot"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;/div&gt; 
+&lt;/li&gt; 
+
+
+&lt;li&gt; 
+&lt;p class ="name_w_box"&gt;Lloyd Sowers&lt;/p&gt; 
+&lt;a href= 
+"#"&gt;&lt;img align="left" 
+alt="" class="headshot" src= 
+"http://s3.amazonaws.com/media.fox13news.com/photo/2015/07/30/Headshots_Updated_Finals_002_1280x720_Epstein_1438275782955_65138_ver1.0_640_360.jpg"&gt;&lt;/a&gt; 
+
+&lt;footer class="mod-footer light"&gt;&lt;a href="/web/ktbc/news/local-news"&gt;Anchor &amp;amp; reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt; &lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt; 
+&lt;a class="facebook" href="https://www.facebook.com/Lloyd.Sowers"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;a class ="twitter" href="http://www.twitter.com/LloydSowers"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;/div&gt; 
+&lt;/li&gt; 
+
+
+&lt;li&gt; 
+&lt;p class ="name_w_box"&gt;Ken Suarez&lt;/p&gt; 
+&lt;a href= 
+"#"&gt;&lt;img align="left" 
+alt="" class="headshot" src= 
+"http://s3.amazonaws.com/media.fox13news.com/photo/2015/07/30/Headshots_Updated_Finals_002_1280x720_Epstein_1438275782955_65138_ver1.0_640_360.jpg"&gt;&lt;/a&gt; 
+
+&lt;footer class="mod-footer light"&gt;&lt;a href="/web/ktbc/news/local-news"&gt;Polk bureau&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt; &lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt; 
+&lt;a class="facebook" href="https://www.facebook.com/Ken.Suarez.FOX13"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;a class ="twitter" href="https://twitter.com/kensuarez2"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;/div&gt; 
+&lt;/li&gt; 
+
+
+&lt;li&gt; 
+&lt;p class ="name_w_box"&gt;Jeff Tewksbury&lt;/p&gt; 
+&lt;a href= 
+"#"&gt;&lt;img align="left" 
+alt="" class="headshot" src= 
+"http://s3.amazonaws.com/media.fox13news.com/photo/2015/07/31/JEFF_TEWKSBURY_HEADSHOT_LARGE_1438358665950_65197_ver1.0_640_360.jpg"&gt;&lt;/a&gt; 
+
+&lt;footer class="mod-footer light"&gt;&lt;a href="/web/ktbc/news/local-news"&gt;Sports reporter&lt;i class="fa fa-arrow-circle-right"&gt;&lt;/i&gt;&lt;/a&gt; &lt;/footer&gt; 
+&lt;div class="follow show-for-medium-up"&gt; 
+&lt;a class="facebook" href="https://www.facebook.com/jeff.tewksbury.13"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;a class ="twitter" href="https://twitter.com/JeffTewksbury"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt; 
+&lt;/div&gt; 
+&lt;/li&gt; 
+
+
+&lt;li&gt; 
+&lt;p class ="name_w_box"&gt;Jim Weber&lt;/p&gt; 
+&lt;a href= 
+"#"&gt;&lt;img align="left" 
+alt="" class="headshot" src= 
+"http://s3.amazonaws.com/media.fox13news.com/photo/2015/07/30/Headshots_Updated_Finals_002_1280x720_Epstein_1438275782955_65138_ver1.0_640_360.jpg"&gt;&lt;/a&gt; 
+
+&lt;footer class="mod-footer light"&gt;&lt;a href="/web/ktbc/news/local-news"&gt;Meteorologist&lt;i clas
+org.dom4j.DocumentException: Error on line 222 of document  : XML document structures must start and end within the same entity. Nested exception: XML document structures must start and end within the same entity.
+	at org.dom4j.io.SAXReader.read(SAXReader.java:482)
+	at org.dom4j.io.SAXReader.read(SAXReader.java:343)
+	at com.excel.CheckOutAllHttp.getCellValue(CheckOutAllHttp.java:119)
+	at com.excel.CheckOutAllHttp.readColumns(CheckOutAllHttp.java:77)
+	at com.excel.CheckOutAllHttp.main(CheckOutAllHttp.java:52)
+Nested exception: 
+org.xml.sax.SAXParseException: XML document structures must start and end within the same entity.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(Unknown Source)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.endEntity(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.endEntity(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.endEntity(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.load(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityScanner.skipChar(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at org.dom4j.io.SAXReader.read(SAXReader.java:465)
+	at org.dom4j.io.SAXReader.read(SAXReader.java:343)
+	at com.excel.CheckOutAllHttp.getCellValue(CheckOutAllHttp.java:119)
+	at com.excel.CheckOutAllHttp.readColumns(CheckOutAllHttp.java:77)
+	at com.excel.CheckOutAllHttp.main(CheckOutAllHttp.java:52)
